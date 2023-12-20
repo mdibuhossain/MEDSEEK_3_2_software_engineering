@@ -18,14 +18,14 @@
   font-style: none;
   box-sizing: border-box;
   font-family: "Poppins";
-  letter-spacing: .1225rem;
+  letter-spacing: 0.1225rem;
 }
 body {
   font-family: montserrat;
 }
 #home_bg {
   height: 100vh;
-  background-image: url(../assets/bg.png);
+  background-image: url(../assets/bg_2.png);
   background-size: cover;
   background-position: center;
 }
@@ -60,9 +60,23 @@ nav ul li a {
   font-weight: 600;
   text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
 }
+nav ul li a::before {
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  content: "";
+  height: 3px;
+  width: 0%;
+  background: white;
+  transition: 0.25s ease-out;
+}
+nav ul li a:hover::before {
+  width: 100%;
+}
 
 /* search box */
 .search-bar-container {
+  width: 100%;
   position: absolute;
   top: 40%;
   left: 50%;
@@ -70,9 +84,18 @@ nav ul li a {
 }
 .search-box {
   width: 600px;
+  display: block;
+  margin: auto;
   outline: none;
   border: none;
   padding: 15px 20px;
   font-size: 1.25rem;
   border-radius: 50px;
+  box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.14);
+}
+
+@media screen and (max-width: 767px) {
+  .search-box {
+    width: 80%;
+  }
 }
