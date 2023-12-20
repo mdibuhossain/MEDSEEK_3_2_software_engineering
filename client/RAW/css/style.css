@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    font-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: montserrat;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    position:absolute;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+}
+nav .nav-logo{
+    font-weight: 600;
+    font-size: 2rem;
+    margin-left: 200px;
+}
+nav ul{
+   float: right;
+   margin-right: 40px;
+}
+nav ul li{
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+}
+nav ul li a{
+    font-size: 1rem;
+    color: white;
+}
