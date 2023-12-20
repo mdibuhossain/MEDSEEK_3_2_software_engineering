@@ -1,9 +1,24 @@
+@font-face {
+  font-family: "Hunters";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../font/Hunters.otf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../font/Poppins-Regular.ttf") format("truetype");
+}
+
 * {
   margin: 0;
   padding: 0;
   text-decoration: none;
   font-style: none;
   box-sizing: border-box;
+  font-family: "Poppins";
+  letter-spacing: .1225rem;
 }
 body {
   font-family: montserrat;
@@ -24,8 +39,8 @@ nav {
   background: none;
 }
 .nav-logo {
-  font-weight: 600;
-  font-size: 2rem;
+  font-family: "Hunters";
+  font-size: 5rem;
   margin-left: 200px;
   color: white;
   text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
