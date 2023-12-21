@@ -6,6 +6,15 @@
     "strength": "500mg",
     "company": "Beximco Pharmaceuticals Ltd.",
     "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
-    "pharmacology": ""
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: ½ to 1 tablet 3 to 4 times daily. For long term treatment it is wise not to exceed the dose beyond 2.6 gm/day."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   }
 ]
