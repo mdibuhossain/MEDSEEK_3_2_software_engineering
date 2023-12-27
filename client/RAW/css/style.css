@@ -98,8 +98,10 @@ body {
   border: none;
   padding: 15px 20px;
   font-size: 1.25em;
+  text-indent: 35px;
   border-radius: 50px;
   box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.14);
+  background: white url("../assets/search_icon.svg") no-repeat 20px;
 }
 
 @media screen and (max-width: 768px) {
