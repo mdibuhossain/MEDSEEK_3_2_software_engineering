@@ -133,6 +133,12 @@ body {
     left: 0;
     background: none;
     z-index: 1000;
+    transform: translateX(-105%);
+    transition: 0.2s ease-in;
+  }
+  .show_menu_container {
+    transition: 0.2s ease-out;
+    transform: translateX(0);
   }
   .menu_container div {
     position: absolute;
@@ -151,6 +157,6 @@ body {
     flex-direction: column;
     padding: 0 15px;
     padding-top: 50px;
-    z-index: 100;    
+    z-index: 100;
   }
 }
