@@ -25,15 +25,17 @@ body {
 }
 #home_bg {
   height: 100vh;
-  background-image: url(../assets/bg_2.png);
+  background-image: url(../assets/bg_3.jpg);
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
-nav {
-  height: 120px;
-  width: 100%;
-  display: flex;
+.nav_container {
   /* position: absolute; */
+  height: 120px;
+  width: 90%;
+  margin: auto;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   background: none;
@@ -41,26 +43,29 @@ nav {
 .nav-logo {
   font-family: "Hunters";
   font-size: 5rem;
-  margin-left: 200px;
+  /* margin-left: 200px; */
   color: white;
   text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
 }
-nav ul {
-  float: right;
-  margin-right: 40px;
+.nav_container ul {
+  display: flex;
+  gap: 30px;
+  /* float: right; */
+  list-style: none;
+  /* margin-right: 40px; */
 }
-nav ul li {
+.nav_container ul li {
   position: relative;
-  display: inline-block;
-  margin-right: 30px;
+  /* display: inline-block; */
+  /* margin-right: 30px; */
 }
-nav ul li a {
-  font-size: 1.25rem;
+.nav_container ul li a {
+  font-size: 1em;
   color: white;
   font-weight: 600;
   text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
 }
-nav ul li a::before {
+.nav_container ul li a::before {
   display: inline-block;
   position: absolute;
   bottom: 0;
@@ -70,7 +75,7 @@ nav ul li a::before {
   background: white;
   transition: 0.25s ease-out;
 }
-nav ul li a:hover::before {
+.nav_container ul li a:hover::before {
   width: 100%;
 }
 
@@ -94,8 +99,15 @@ nav ul li a:hover::before {
   box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.14);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .search-box {
     width: 80%;
+  }
+  .nav_container {
+    width: 95%;
+    justify-content: end;
+  }
+  .nav_container ul {
+    display: none;
   }
 }
