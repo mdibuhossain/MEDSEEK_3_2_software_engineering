@@ -30,7 +30,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
-#menu_container {
+#menu_icon_container {
   display: none;
 }
 .nav_container {
@@ -50,25 +50,25 @@ body {
   color: white;
   text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
 }
-.nav_container ul {
+.menu_list {
   display: flex;
   gap: 30px;
   /* float: right; */
   list-style: none;
   /* margin-right: 40px; */
 }
-.nav_container ul li {
+.menu_list li {
   position: relative;
   /* display: inline-block; */
   /* margin-right: 30px; */
 }
-.nav_container ul li a {
+.menu_list li a {
   font-size: 1em;
   color: white;
   font-weight: 600;
-  text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
+  text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.59);
 }
-.nav_container ul li a::before {
+.menu_list li a::before {
   display: inline-block;
   position: absolute;
   bottom: 0;
@@ -78,7 +78,7 @@ body {
   background: white;
   transition: 0.25s ease-out;
 }
-.nav_container ul li a:hover::before {
+.menu_list li a:hover::before {
   width: 100%;
 }
 
@@ -109,13 +109,13 @@ body {
   .search-box {
     width: 80%;
   }
-  #menu_container {
+  #menu_icon_container {
     display: flex;
     justify-content: center;
     align-items: center;
     cursor: pointer;
   }
-  #menu_container svg {
+  #menu_icon_container svg {
     transform: scale(1.2);
     color: white;
   }
@@ -125,7 +125,32 @@ body {
     padding: 0 20px;
     justify-content: space-between;
   }
-  .nav_container ul {
-    display: none;
+  .menu_container {
+    position: absolute;
+    min-width: 180px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: none;
+    z-index: 1000;
+  }
+  .menu_container div {
+    position: absolute;
+    height: 100%;
+    z-index: 10;
+    width: 100%;
+    background: rgba(199, 201, 59, 0.2);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-end-end-radius: 15px;
+    border-start-end-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
+  }
+  .menu_list {
+    position: relative;
+    flex-direction: column;
+    padding: 0 15px;
+    padding-top: 50px;
+    z-index: 100;    
   }
 }
