@@ -97,6 +97,10 @@ body {
   border-radius: 50px;
   box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.14);
   background: white url("../assets/search_icon.svg") no-repeat 20px;
+  transition: 0.25s ease-in-out;
+}
+.search-box:focus {
+  background: white url("../assets/search_icon_2.svg") no-repeat 20px;
 }
 
 @media screen and (max-width: 768px) {
