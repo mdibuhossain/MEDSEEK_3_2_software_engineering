@@ -2,7 +2,7 @@
   "name": "medseek_3_2_software_engineering",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
