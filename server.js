@@ -1,8 +1,11 @@
 const express = require("express");
 const path = require("path");
-const PORT = 5000;
+const dotenv = require("dotenv");
+
+dotenv.config();
 
 const app = express();
+const PORT = process.evn.PORT || 5000;
 
 app.use(express.static(path.join(__dirname, "client")));
 
