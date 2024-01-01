@@ -18,7 +18,7 @@ const userSchema = mongoose.Schema({
     match: [/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/, "INVALID EMAIL"],
     required: [true, "EMAIL IS REQUIRED"],
   },
-  hashPassword: {
+  hashedPassword: {
     type: String,
     required: [true, "PASSWORD IS REQUIRED"],
   },
@@ -30,7 +30,6 @@ const userSchema = mongoose.Schema({
   },
   salt: {
     type: Number,
-    default: process.env.SALT,
   },
   iat: {
     type: Date,
