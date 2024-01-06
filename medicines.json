@@ -17,4 +17,480 @@
     "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
     "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   }
+
+  {
+    "name": "Napa",
+    "type": "Syrup",
+    "generic": "Paracetamol",
+    "strength": "120mg/5ml",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa",
+    "type": "Pediatric Drops",
+    "generic": "Paracetamol",
+    "strength": "80 mg/ml",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa",
+    "type": "Suppository",
+    "generic": "Paracetamol",
+    "strength": "125 mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa",
+    "type": "Suppository",
+    "generic": "Paracetamol",
+    "strength": "250 mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa",
+    "type": "Suppository",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa Extend",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "665 mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa Extend is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa One",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "1000 mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa One is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Napa Rapid (Actizorb)",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": "Napa Rapid (Actizorb) is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Fast XR",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "665 mg",
+    "company": "ACME Laboratories Ltd.",
+    "indications": "Fast XR is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Fast XR are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Fast",
+    "type": "Suppository",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "ACME Laboratories Ltd.",
+    "indications": "Fast is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Fast are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Fast",
+    "type": "Suspension",
+    "generic": "Paracetamol",
+    "strength": "120 mg/5 ml",
+    "company": "ACME Laboratories Ltd.",
+    "indications": "Fast is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Fast are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Fast",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "ACME Laboratories Ltd.",
+    "indications": "Fast is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Fast are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Xcel",
+    "type": "Suppository",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "ACI Limited",
+    "indications": "Xcel is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 0.5-1 gm 4 times daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Xcel are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Xcel ER",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "665 mg",
+    "company": "ACI Limited",
+    "indications": "Xcel ER is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: Two tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours).The tablet must not be crushed.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Xcel ER are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Xcel",
+    "type": "Pediatric Drop",
+    "generic": "Paracetamol",
+    "strength": "80 mg/ml",
+    "company": "ACI Limited",
+    "indications": "Xcel is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: Take 1 to 2 Tablets every four to six hours as needed. Do not take more than 8 caplets in 24 hours.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Xcel are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Xcel",
+    "type": "Syrup",
+    "generic": "Paracetamol",
+    "strength": "120 mg/5 ml",
+    "company": "ACI Limited",
+    "indications": "Xcel is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 4-8 teaspoonful 3 to 4 times daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Xcel are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Xcel",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "ACI Limited",
+    "indications": "Xcel is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Xcel are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Tamen XR",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "665 mg",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "indications": "Tamen XR is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: Two tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours).The tablet must not be crushed.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Tamen XR are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Tamen",
+    "type": "Syru",
+    "generic": "Paracetamol",
+    "strength": "120 mg/5 ml",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "indications": "Tamen is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 4-8 teaspoonful 3 to 4 times daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Tamen are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Tamen",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "indications": "Tamen is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Tamen are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Ace",
+    "type": "Suppository",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": "Ace is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 0.5-1 gm 4 times daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Ace are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Ace XR",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "665 mg",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": "Ace XR is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: Two tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours).The tablet must not be crushed.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Ace XR are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Ace Power",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "1000 mg",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": "Ace Power is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Ace Power are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Ace",
+    "type": "Suspension",
+    "generic": "Paracetamol",
+    "strength": "120 mg/5 ml",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": "Ace is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 4-8 teaspoonful 3 to 4 times daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Ace are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Ace",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "500 mg",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": "Ace is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
+        "Children: Oral Mild to moderate pain and fever Tablet Children (6 - 12 years) : 1/2 to 1 tablet 3 to 4 times daily Extended Release (XR) Tablet Children over 12 years: 2 tablets, swallowed whole, every 6 to 8 hours (maximum of 6 tablets in any 24 hours). Syrup Mild to moderate pain and fever Children: 3 months - <1 year : 60 - 120 mg (1/2 - 1 measuring spoonful), 1 - 5 years : 1 - 2 measuring spoonful 6 - 12 years : 2 - 4 measuring spoonful Children: 2 months: 60 mg (1/2 measuring spoonful) for post immunization pyrexia; Paediatric Drops Mild to moderate pain and fever Children Up to 3 months: 0.5 ml (40 mg) 4 to 11 months: 1.0 ml (80 mg) 1 to <2 years: 1.5 ml (120 mg) 2 to 3 years: 2 ml (160mg) 4 to 5 years: 3 ml (240 mg) Dose can be repeated, every 4 hours. Rectal Mild to moderate pain and fever Suppository Children: 3 months-<1 year: 60-125 mg 1-<5 years: 125-250 mg 5-12 years: 250-500 mg These doses may be repeated every 4-6 hours as necessary (maximum 4 doses in 24 hours). Children over 12 years: 500 mg-1 g every 4-6 hours to a maximum of 4 g daily. Post-immunisation pyrexia Child: 2-3 mth 60 mg. If necessary, a 2nd dose may be given after 4-6 hr."
+      ]
+    },
+    "side effects": "Side effects of Ace are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
+    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
+    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+  
 ]
