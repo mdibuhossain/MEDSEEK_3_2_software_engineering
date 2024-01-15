@@ -85,16 +85,22 @@ body {
   left: 50%;
   transform: translateX(-50%);
 }
-.search-box {
+.search-bar-inner-container {
   width: 600px;
+  margin: auto;
+}
+.search-box {
   display: block;
+  width: 100%;
   margin: auto;
   outline: none;
   border: none;
   padding: 15px 20px;
   font-size: 1.25em;
   text-indent: 35px;
-  border-radius: 50px;
+  border-radius: 30px;
+  /* border-end-end-radius: 0;
+  border-end-start-radius: 0; */
   box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.14);
   background: white url("../assets/search_icon.svg") no-repeat 20px;
   transition: 0.25s ease-in-out;
@@ -102,13 +108,48 @@ body {
 .search-box:focus {
   background: white url("../assets/search_icon_2.svg") no-repeat 20px;
 }
+.realtime-search-result-container {
+  width: 91%;
+  max-height: 250px;
+  margin: auto;
+  background: rgb(243, 236, 236);
+  border-radius: 0px;
+  overflow-y: auto;
+}
+.realtime-search-result-container div {
+  padding: 5px 20px;
+  padding-left: 30px;
+  margin: 5px;
+  background: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.realtime-search-result-container div:first-child {
+  padding-top: 10px;
+}
+.realtime-search-result-container div:last-child {
+  padding-bottom: 10px;
+}
+.search-result-common-text {
+  font-size: small;
+  letter-spacing: 0.05rem;
+}
+.medicine-type {
+  color: gray;
+}
+.medicine-strength {
+  color: gray;
+  font-size: x-small;
+  font-weight: 900;
+  letter-spacing: 0.05rem;
+}
 
 @media screen and (max-width: 768px) {
   .nav-logo {
     font-size: 4em;
   }
-  .search-box {
-    width: 80%;
+  .search-bar-inner-container {
+    width: 85%;
   }
   #menu_icon_container {
     display: flex;
