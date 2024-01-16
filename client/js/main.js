@@ -25,7 +25,7 @@ const fetchAndSuggestResult = async (e) => {
   if (keyword.length > 0) {
     const fetch_data = await fetch(`/api/medicine/search/${keyword}`);
     const data = await fetch_data.json();
-    if (data?.length > 0) processDataInSearchResult(data);
+    processDataInSearchResult(data);
   } else {
     searchResultContainer.innerHTML = ``;
   }

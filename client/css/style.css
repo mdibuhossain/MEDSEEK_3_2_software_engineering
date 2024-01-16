@@ -110,6 +110,7 @@ body {
 }
 .realtime-search-result-container {
   width: 91%;
+  min-height: 0px;
   max-height: 250px;
   margin: auto;
   background: rgb(243, 236, 236);
