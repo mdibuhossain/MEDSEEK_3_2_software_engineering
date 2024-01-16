@@ -6,8 +6,8 @@ dotenv.config();
 mongoose
   .connect(
     process.env.NODE_ENV === "DEVELOPMENT"
-      ? "mongodb://127.0.0.1:27017"
-      : "mongodb+srv://medAdmin:med123123@cluster0.5p7yt.mongodb.net",
+      ? process.env.MONGO_URI_LOCAL
+      : process.env.MONGO_URI,
     {
       dbName: "medseek",
     }
