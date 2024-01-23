@@ -1,0 +1,32 @@
+ * {
+  margin: 0;
+  padding: 0;
+}
+.company {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 150px;
+}
+.company img {
+  height: 80px;
+  width: auto;
+}
+.company p{
+  font-size: 1rem;
+  text-align: center;
+}
+.companyContainer {
+  display: flex;
+  background: aquamarine;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.companyContainer > div {
+  font-size: 30px;
+  margin: 20px;
+  padding: 5px;
+
+}
