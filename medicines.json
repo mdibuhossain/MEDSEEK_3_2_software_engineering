@@ -1053,6 +1053,87 @@
     "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
     "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
-  }  
+  },
+
+  {
+    "name": "Sinaban",
+    "type": "Ointment",
+    "generic": "Mupirocin",
+    "strength": "2% w/w",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "indications": "Sinaban ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
+  
+    "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
+    "dosage": {
+      "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
+    },
+    "sideEffects": "Reported side effects are burning, stinging or pain, itching and some patient may be suffered rash, nausea, erythema, dry skin, tenderness, swelling, contact dermatitis and increased exudate.",
+    "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
+    "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
+  },
+  {
+    "name": "Bacron",
+    "type": "Ointment",
+    "generic": "Mupirocin",
+    "strength": "2% w/w",
+    "company": "Biopharma Laboratories Ltd.",
+    "indications": "Bacron ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
+  
+    "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
+    "dosage": {
+      "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
+    },
+    "sideEffects": "Reported side effects are burning, stinging or pain, itching and some patient may be suffered rash, nausea, erythema, dry skin, tenderness, swelling, contact dermatitis and increased exudate.",
+    "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
+    "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
+  },
+  {
+    "name": "Bactrocin",
+    "type": "Ointment",
+    "generic": "Mupirocin",
+    "strength": "2% w/w",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": "Bactrocin ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
+  
+    "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
+    "dosage": {
+      "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
+    },
+    "sideEffects": "Reported side effects are burning, stinging or pain, itching and some patient may be suffered rash, nausea, erythema, dry skin, tenderness, swelling, contact dermatitis and increased exudate.",
+    "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
+    "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
+  },
+  {
+    "name": "Dermupin",
+    "type": "Ointment",
+    "generic": "Mupirocin",
+    "strength": "2% w/w",
+    "company": "ACME Laboratories Ltd.",
+    "indications": "Dermupin ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
+  
+    "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
+    "dosage": {
+      "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
+    },
+    "sideEffects": "Reported side effects are burning, stinging or pain, itching and some patient may be suffered rash, nausea, erythema, dry skin, tenderness, swelling, contact dermatitis and increased exudate.",
+    "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
+    "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
+  },
+  {
+    "name": "Muron",
+    "type": "Ointment",
+    "generic": "Mupirocin",
+    "strength": "2% w/w",
+    "company": "Drug International Ltd.",
+    "indications": "Muron ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
+  
+    "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
+    "dosage": {
+      "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
+    },
+    "sideEffects": "Reported side effects are burning, stinging or pain, itching and some patient may be suffered rash, nausea, erythema, dry skin, tenderness, swelling, contact dermatitis and increased exudate.",
+    "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
+    "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
+  }
   
 ]
