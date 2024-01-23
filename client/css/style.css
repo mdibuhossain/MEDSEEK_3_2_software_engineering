@@ -62,7 +62,7 @@ body {
   font-size: 1em;
   color: white;
   font-weight: 600;
-  letter-spacing: 0.2rem;
+  letter-spacing: 0.15rem;
   text-shadow: 3px 1px 5px rgba(0, 0, 0, 0.45);
 }
 .menu_list li a::before {
@@ -74,7 +74,6 @@ body {
   width: 0%;
   background: white;
   transition: 0.25s ease-out;
-  box-shadow: 1px 5px rgba(0, 0, 0, 0.1);
 }
 .menu_list li:hover a::before {
   width: 100%;

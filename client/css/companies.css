@@ -2,6 +2,13 @@
   margin: 0;
   padding: 0;
 }
+nav {
+  background: #7ecb6c;
+}
+main {
+  min-height: calc(100vh - 120px);
+  background: aquamarine;
+}
 .company {
   display: flex;
   flex-direction: column;
@@ -20,7 +27,6 @@
 }
 .companyContainer {
   display: flex;
-  background: aquamarine;
   flex-wrap: wrap;
   justify-content: center;
 }
