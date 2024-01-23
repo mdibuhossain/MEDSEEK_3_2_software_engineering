@@ -676,7 +676,213 @@
     "sideEffects": "Arodin may cause hypersensitivity reactions and irritation of the skin and mucous membranes. The application of Arodin to severe burns or to large areas otherwise denuded of skin may produce systemic adverse effects such as metabolic acidosis, hypernatraemia, and impairment of renal function. It may interfere with thyroid function tests.",
     "pregnancy_lactation": "Povidone Iodine Cream, Solution & Powder are not recommended for use during pregnancy because of the possibility of absorption of sufficient iodine to affect the fetal thyroid. American Academy of Pediatrics considers that the use of Povidone-Iodine is usually compatible with breast feeding. Consult Registered Physician. Regular use of Gargle & Mouthwash and Surgical Scrub should also be avoided in pregnant and lactating women. There is no experience regarding the safety of the Povidone eye drops in human pregnancy or lactation. Administration during pregnancy and lactation is therefore not recommended, except for compelling reasons.",
     "storageConditions": "Store below 25°C. Do not freeze. Store in a cool and dry place, protected from light. Keep out of the reach of children. Do not touch the ophthalmic solution dropper tip to any surface as this may contaminate Arodin. Do not use it after one month of the first opening."
-  }  
+  } ,
+
+  [
+  {
+    "name": "Bislol",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "5mg",
+    "company": "Opsonin Pharma Ltd.",
+    "indications": [
+    "Bislol is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
   
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+
+  {
+    "name": "Bisten",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "10mg",
+    "company": "Edruc Limited.",
+    "indications": [
+    "Bisten is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+
+  {
+    "name": "Bectacor",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "5mg",
+    "company": "Popular Pharmaceuticals",
+    "indications": [
+    "Bectacor is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "B-Prolol",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "5mg",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "indications": [
+    "B-Prolol is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "Betabis",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "10mg",
+    "company": "ACME Laboratories Ltd.",
+    "indications": [
+    "Betabis is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "Betapro",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "2.5mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": [
+    "Betapro is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "Bisofar",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "5mg",
+    "company": "Silco Pharmaceuticals PLC Ltd.",
+    "indications": [
+    "Bisofar is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+
+  {
+    "name": "Tabis",
+    "type": "Tablet",
+    "generic": "Bisoprolol Hemifumarate",
+    "strength": "2.5mg",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "indications": [
+    "Tabis is indicated in - ",
+    "1. Hypertension",
+    "2. Angina",
+    "3. Moderate to severe heart failure"
+  ],
+  
+
+    "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
+    "dosage": {
+      "tablet": [
+        "Adult: In the treatment of mild to moderate hypertension, Bisoprolol fumarate must be individualized to the needs of the patient. The usual starting dose is 5 mg once daily either added to a diuretic or alone. If the response to 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily. An appropriate interval for dose titration is 2 weeks. Increasing the dose beyond 20 mg once daily produces only a small incremental benefit.",
+        "Children: Safety and effectiveness in children have not been established."
+      ]
+    },
+    "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
+    "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }
+
+]
   
 ]
