@@ -677,8 +677,7 @@
     "pregnancy_lactation": "Povidone Iodine Cream, Solution & Powder are not recommended for use during pregnancy because of the possibility of absorption of sufficient iodine to affect the fetal thyroid. American Academy of Pediatrics considers that the use of Povidone-Iodine is usually compatible with breast feeding. Consult Registered Physician. Regular use of Gargle & Mouthwash and Surgical Scrub should also be avoided in pregnant and lactating women. There is no experience regarding the safety of the Povidone eye drops in human pregnancy or lactation. Administration during pregnancy and lactation is therefore not recommended, except for compelling reasons.",
     "storageConditions": "Store below 25°C. Do not freeze. Store in a cool and dry place, protected from light. Keep out of the reach of children. Do not touch the ophthalmic solution dropper tip to any surface as this may contaminate Arodin. Do not use it after one month of the first opening."
   } ,
-
-  [
+  
   {
     "name": "Bislol",
     "type": "Tablet",
@@ -691,7 +690,6 @@
     "2. Angina",
     "3. Moderate to severe heart failure"
   ],
-  
 
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
@@ -881,8 +879,180 @@
     "sideEffects": "Medicines and their possible side effects can affect individual people in different ways. The following are some of the side effects that are known to be associated with this medicine. Just because a side effect is stated here does not mean that all people using this medicine will experience that or any side effect. Fatigue, dizziness, headache, disturbances of the gut such as nausea, vomiting, diarrhea, constipation or abdominal pain. Cold or numb extremities, e.g; hands and feet. Muscle weakness or cramps. Slower than normal heart breathing difficulties due to a narrowing of the airways (bronchospasm) in people with asthma or COPD.",
     "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
-  }
+  },
 
-]
+  {
+    "name": "E-cap",
+    "type": "Capsule",
+    "generic": "Vitamin E [Alpha Tecopheraol Acetate]",
+    "strength": "400 IU",
+    "company": "Drug International Ltd.",
+    "indications": [
+    "E-Cap (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-Cap deficiency. E-Cap (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+    "1. Alzheimer’s Disease",
+    "2. Rheumatoid Arthritis Pain",
+    "3. Nerve Damage caused by Chemotherapy",
+    "4. Male Infertility",
+    "5. Age-related Macular Degeneration",
+    "6. Keratectomy"
+  ],
+  
+
+    "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
+    "dosage": {
+      "capsule": [
+        "Age-related Macular Degeneration:  Vitamin E 400-600 IU daily.",
+        "Heart Disease (to improve effectiveness of Nitrates): Vitamin E 200 IU three times daily.",
+        "Dementia/Alzheimer’s Disease: Vitamin E 800-2000 IU one-two times daily.",
+        "Rheumatoid Arthritis Pain: Vitamin E 600 IU daily.",
+        "Improving Male Infertility: Vitamin E 200-600 IU daily.",
+        "Menstrual Syndrome: Vitamin E 400 IU daily.",
+        "Painful Menstrual Period: Vitamin E 200 IU daily."
+
+      ]
+    },
+    "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
+    "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+
+  {
+    "name": "E-fill",
+    "type": "Capsule",
+    "generic": "Vitamin E [Alpha Tecopheraol Acetate]",
+    "strength": "200 IU",
+    "company": "General Pharmaceuticals Ltd.",
+    "indications": [
+    "E-fill (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-fill deficiency. E-fill (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+    "1. Alzheimer’s Disease",
+    "2. Rheumatoid Arthritis Pain",
+    "3. Nerve Damage caused by Chemotherapy",
+    "4. Male Infertility",
+    "5. Age-related Macular Degeneration",
+    "6. Keratectomy"
+  ],
+  
+
+    "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
+    "dosage": {
+      "capsule": [
+        "Age-related Macular Degeneration:  Vitamin E 400-600 IU daily.",
+        "Heart Disease (to improve effectiveness of Nitrates): Vitamin E 200 IU three times daily.",
+        "Dementia/Alzheimer’s Disease: Vitamin E 800-2000 IU one-two times daily.",
+        "Rheumatoid Arthritis Pain: Vitamin E 600 IU daily.",
+        "Improving Male Infertility: Vitamin E 200-600 IU daily.",
+        "Menstrual Syndrome: Vitamin E 400 IU daily.",
+        "Painful Menstrual Period: Vitamin E 200 IU daily."
+
+      ]
+    },
+    "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
+    "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "E-Gel",
+    "type": "Capsule",
+    "generic": "Vitamin E [Alpha Tecopheraol Acetate]",
+    "strength": "200 IU",
+    "company": "Renata Limited",
+    "indications": [
+    "E-Gel (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-Gel deficiency. E-Gel (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+    "1. Alzheimer’s Disease",
+    "2. Rheumatoid Arthritis Pain",
+    "3. Nerve Damage caused by Chemotherapy",
+    "4. Male Infertility",
+    "5. Age-related Macular Degeneration",
+    "6. Keratectomy"
+  ],
+  
+
+    "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
+    "dosage": {
+      "capsule": [
+        "Age-related Macular Degeneration:  Vitamin E 400-600 IU daily.",
+        "Heart Disease (to improve effectiveness of Nitrates): Vitamin E 200 IU three times daily.",
+        "Dementia/Alzheimer’s Disease: Vitamin E 800-2000 IU one-two times daily.",
+        "Rheumatoid Arthritis Pain: Vitamin E 600 IU daily.",
+        "Improving Male Infertility: Vitamin E 200-600 IU daily.",
+        "Menstrual Syndrome: Vitamin E 400 IU daily.",
+        "Painful Menstrual Period: Vitamin E 200 IU daily."
+
+      ]
+    },
+    "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
+    "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+
+  {
+    "name": "E-soft",
+    "type": "Capsule",
+    "generic": "Vitamin E [Alpha Tecopheraol Acetate]",
+    "strength": "400 IU",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "indications": [
+    "E-soft (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-soft deficiency. E-soft (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+    "1. Alzheimer’s Disease",
+    "2. Rheumatoid Arthritis Pain",
+    "3. Nerve Damage caused by Chemotherapy",
+    "4. Male Infertility",
+    "5. Age-related Macular Degeneration",
+    "6. Keratectomy"
+  ],
+  
+
+    "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
+    "dosage": {
+      "capsule": [
+        "Age-related Macular Degeneration:  Vitamin E 400-600 IU daily.",
+        "Heart Disease (to improve effectiveness of Nitrates): Vitamin E 200 IU three times daily.",
+        "Dementia/Alzheimer’s Disease: Vitamin E 800-2000 IU one-two times daily.",
+        "Rheumatoid Arthritis Pain: Vitamin E 600 IU daily.",
+        "Improving Male Infertility: Vitamin E 200-600 IU daily.",
+        "Menstrual Syndrome: Vitamin E 400 IU daily.",
+        "Painful Menstrual Period: Vitamin E 200 IU daily."
+
+      ]
+    },
+    "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
+    "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+
+  {
+    "name": "Evidon",
+    "type": "Chewable Tablet",
+    "generic": "Vitamin E [Alpha Tecopheraol Acetate]",
+    "strength": "200 IU",
+    "company": "Doctor's Chemical Works Ltd.",
+    "indications": [
+    "Evidon (d-alpha tocopherol) capsule is indicated for the treatment and prevention of Evidon deficiency. Evidon (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+    "1. Alzheimer’s Disease",
+    "2. Rheumatoid Arthritis Pain",
+    "3. Nerve Damage caused by Chemotherapy",
+    "4. Male Infertility",
+    "5. Age-related Macular Degeneration",
+    "6. Keratectomy"
+  ],
+  
+
+    "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
+    "dosage": {
+      "capsule": [
+        "Age-related Macular Degeneration:  Vitamin E 400-600 IU daily.",
+        "Heart Disease (to improve effectiveness of Nitrates): Vitamin E 200 IU three times daily.",
+        "Dementia/Alzheimer’s Disease: Vitamin E 800-2000 IU one-two times daily.",
+        "Rheumatoid Arthritis Pain: Vitamin E 600 IU daily.",
+        "Improving Male Infertility: Vitamin E 200-600 IU daily.",
+        "Menstrual Syndrome: Vitamin E 400 IU daily.",
+        "Painful Menstrual Period: Vitamin E 200 IU daily."
+
+      ]
+    },
+    "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
+    "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  }  
   
 ]
