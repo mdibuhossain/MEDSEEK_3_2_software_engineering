@@ -7,6 +7,20 @@ module.exports.getAll = async (req, res) => {
     res.status(500).json({ message: "Something went wrong!" });
   }
 };
+module.exports.getSingleMedicine = async (req, res) => {
+  try {
+    let { id } = req.params;
+    id = id.trim();
+    if (id.length > 0) {
+      const findMed = await Medicine.findById(id);
+      res.status(200).json(findMed);
+    } else {
+      res.status(404).json({ message: "Search ID not valid!" });
+    }
+  } catch {
+    res.status(500).json({ message: "Something went wrong!" });
+  }
+};
 module.exports.getBySearch = async (req, res) => {
   try {
     const { slug } = req.params;
