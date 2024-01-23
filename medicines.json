@@ -5,9 +5,11 @@
     "generic": "Amlodipine Besilate",
     "strength": "10mg",
     "company": "Beximco Pharmaceuticals Ltd.",
-    "indications": ["Essential hypertension: Amdocal is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
-    "Angina pectoris: Amdocal is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
-    "Vasospastic angina: Amdocal is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."],
+    "indications": [
+      "Essential hypertension: Amdocal is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+      "Angina pectoris: Amdocal is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+      "Vasospastic angina: Amdocal is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."
+    ],
     "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
     "dosage": {
       "tablet": [
@@ -25,9 +27,11 @@
     "generic": "Amlodipine Besilate",
     "strength": "5mg",
     "company": "Incepta Pharmaceuticals Ltd.",
-    "indications": ["Essential hypertension: Amlotab is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
-    "Angina pectoris: Amlotab is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
-    "Vasospastic angina: Amlotab is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."],
+    "indications": [
+      "Essential hypertension: Amlotab is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+      "Angina pectoris: Amlotab is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+      "Vasospastic angina: Amlotab is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."
+    ],
     "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
     "dosage": {
       "tablet": [
@@ -39,16 +43,17 @@
     "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
     "storageConditions": "Keep all medicines out of reach of children. Store in a cool & dry place, protected from light."
   },
-
   {
     "name": "Amlopin",
     "type": "Tablet",
     "generic": "Amlodipine Besilate",
     "strength": "5mg",
     "company": "ACME Laboratories Ltd.",
-    "indications": ["Essential hypertension: Amlopin is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
-    "Angina pectoris: Amlopin is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
-    "Vasospastic angina: Amlopin is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."],
+    "indications": [
+      "Essential hypertension: Amlopin is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+      "Angina pectoris: Amlopin is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+      "Vasospastic angina: Amlopin is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."
+    ],
     "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
     "dosage": {
       "tablet": [
@@ -73,7 +78,7 @@
         "Adults and adolescents above 12 years: 1-2 mg three times daily.",
         "Children (6 -11 years): 1 mg three times daily."
       ],
-      "Syrup":[
+      "Syrup": [
         "Adults : 5-10 ml three times daily.",
         "Childrn (6-11 years): 5 ml three times daily."
       ]
@@ -82,7 +87,6 @@
     "pregnancy_lactation": "The drug should be used during pregnancy only if the potential benefit justifies the potential risk of the fetus. It is not known whether Levosalbutamol is excreted in human milk. Caution should be exercised when oral Levosalbutamol is administered to a nursing woman.",
     "storageConditions": "Keep all medicines out of reach of children. Store in a cool and dry place, protected from light."
   },
-
   {
     "name": "Brodil Levo",
     "type": "Tablet",
@@ -96,7 +100,7 @@
         "Adults and adolescents above 12 years: 1-2 mg three times daily.",
         "Children (6 -11 years): 1 mg three times daily."
       ],
-      "Syrup":[
+      "Syrup": [
         "Adults : 5-10 ml three times daily.",
         "Childrn (6-11 years): 5 ml three times daily."
       ]
@@ -105,7 +109,6 @@
     "pregnancy_lactation": "The drug should be used during pregnancy only if the potential benefit justifies the potential risk of the fetus. It is not known whether Levosalbutamol is excreted in human milk. Caution should be exercised when oral Levosalbutamol is administered to a nursing woman.",
     "storageConditions": "Keep all medicines out of reach of children. Store in a cool and dry place, protected from light."
   },
-
   {
     "name": "Aire",
     "type": "Tablet",
@@ -119,7 +122,7 @@
         "Adults and adolescents above 12 years: 1-2 mg three times daily.",
         "Children (6 -11 years): 1 mg three times daily."
       ],
-      "Syrup":[
+      "Syrup": [
         "Adults: 5-10 ml three times daily.",
         "Children (6-11 years): 5 ml three times daily."
       ]
@@ -128,7 +131,6 @@
     "pregnancy_lactation": "The drug should be used during pregnancy only if the potential benefit justifies the potential risk of the fetus. It is not known whether Levosalbutamol is excreted in human milk. Caution should be exercised when oral Levosalbutamol is administered to a nursing woman.",
     "storageConditions": "Keep all medicines out of reach of children. Store in a cool and dry place, protected from light."
   },
-
   {
     "name": "Alatrol",
     "type": "Tablet",
@@ -136,8 +138,10 @@
     "strength": "10mg",
     "company": "Square Pharmaceuticals PLC.",
     "indications": "Alatrol is indicated for the relief of symptoms associated with seasonal & perennial allergic rhinitis. It is also indicated for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria and allergen induced asthma.",
-    "pharmacology": ["Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
-    "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction."],
+    "pharmacology": [
+      "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
+      "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction."
+    ],
     "dosage": {
       "tablet": [
         "Adults and Children 6 years and older: 1 tablet or 2 teaspoonfuls daily (or 1 teaspoonful twice daily).",
@@ -149,7 +153,6 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Cetirizine Hydrochloride is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Cetirizine Hydrochloride has been shown to be excreted in human milk. So, caution should be exercised when Cetirizine Hydrochloride is administered to a nursing woman.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Alater",
     "type": "Tablet",
@@ -157,8 +160,10 @@
     "strength": "10mg",
     "company": "Bengal Drugs Ltd.",
     "indications": "Alater is indicated for the relief of symptoms associated with seasonal & perennial allergic rhinitis. It is also indicated for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria and allergen induced asthma.",
-    "pharmacology": ["Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
-    "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction."],
+    "pharmacology": [
+      "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
+      "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction."
+    ],
     "dosage": {
       "tablet": [
         "Adults and Children 6 years and older: 1 tablet or 2 teaspoonfuls daily (or 1 teaspoonful twice daily).",
@@ -170,7 +175,6 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Cetirizine Hydrochloride is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Cetirizine Hydrochloride has been shown to be excreted in human milk. So, caution should be exercised when Cetirizine Hydrochloride is administered to a nursing woman.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Acitrin",
     "type": "Tablet",
@@ -178,8 +182,10 @@
     "strength": "10mg",
     "company": "ACI Limited.",
     "indications": "Acitrin is indicated for the relief of symptoms associated with seasonal & perennial allergic rhinitis. It is also indicated for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria and allergen induced asthma.",
-    "pharmacology": ["Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
-    "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction."],
+    "pharmacology": [
+      "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
+      "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction."
+    ],
     "dosage": {
       "tablet": [
         "Adults and Children 6 years and older: 1 tablet or 2 teaspoonfuls daily (or 1 teaspoonful twice daily).",
@@ -191,19 +197,17 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Cetirizine Hydrochloride is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Cetirizine Hydrochloride has been shown to be excreted in human milk. So, caution should be exercised when Cetirizine Hydrochloride is administered to a nursing woman.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
-
   {
     "name": "Montril",
     "type": "Chewable Tablet",
     "generic": "Montelukast Sodium",
     "strength": "5mg",
     "company": "Aristopharma Ltd.",
-    "indications": ["Prophylaxis and chronic treatment of asthma",
-    "Acute prevention of Exercise-Induced Bronchoconstriction (EIB)",
-    "Relief of symptoms of Allergic Rhinitis (AR): Seasonal & Perennial Allergic Rhinitis"
-  ],
-
+    "indications": [
+      "Prophylaxis and chronic treatment of asthma",
+      "Acute prevention of Exercise-Induced Bronchoconstriction (EIB)",
+      "Relief of symptoms of Allergic Rhinitis (AR): Seasonal & Perennial Allergic Rhinitis"
+    ],
     "pharmacology": "Montelukast is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene receptor (CysLT). The cysteinyl leukotrienes (LTC4, LTD4, LTE4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. Cysteinyl leukotrienes and leukotriene receptor occupation have been correlated with the pathophysiology of asthma & allergic rhinitis, including airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process, which contribute to the signs and symptoms of asthma.",
     "dosage": {
       "tablet": [
@@ -213,26 +217,25 @@
         "The dosage for pediatric patients 6 months to 5 years of age: Montelukast 4 mg oral granules once daily. This can be administered either directly in the mouth, or mixed with a spoonful of cold water or soft food at room temperature"
       ]
     },
-    "sideEffects": ["Common: Diarrhoea, fever, gastrointestinal discomfort, headache, nausea, vomiting, skin reactions, upper respiratory tract infection.",
-    "Uncommon: Akathisia, anxiety, arthralgia, asthenia, abnormal behavior, depression, dizziness, drowsiness, dry mouth, haemorrhage, irritability, malaise, muscle complaints, oedema, seizure, abnormal sensation, sleep disorders.",
-    "Rare: Angioedema, concentration impaired, disorientation, eosinophilic granulomatosis with polyangiitis, erythema nodosum, hallucination, hepatic disorders, memory loss, palpitations, pulmonary eosinophilia, suicidal tendencies, tremor."
-  ],
+    "sideEffects": [
+      "Common: Diarrhoea, fever, gastrointestinal discomfort, headache, nausea, vomiting, skin reactions, upper respiratory tract infection.",
+      "Uncommon: Akathisia, anxiety, arthralgia, asthenia, abnormal behavior, depression, dizziness, drowsiness, dry mouth, haemorrhage, irritability, malaise, muscle complaints, oedema, seizure, abnormal sensation, sleep disorders.",
+      "Rare: Angioedema, concentration impaired, disorientation, eosinophilic granulomatosis with polyangiitis, erythema nodosum, hallucination, hepatic disorders, memory loss, palpitations, pulmonary eosinophilia, suicidal tendencies, tremor."
+    ],
     "pregnancy_lactation": "Montelukast crosses the placenta following oral dosing in rats and rabbits. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, Montelukast should be used during pregnancy only if clearly needed. Because many drugs are excreted in human milk, caution should be exercised when Montelukast  is given to a nursing mother.",
     "storageConditions": "Store in cool & dry place below 30°C, protect from light & moisture. Keep out of reach of children."
   },
-
-
   {
     "name": "Arokast",
     "type": "Chewable Tablet",
     "generic": "Montelukast Sodium",
     "strength": "5mg",
     "company": "Navana Pharmaceuticals Ltd.",
-    "indications": ["Prophylaxis and chronic treatment of asthma",
-    "Acute prevention of Exercise-Induced Bronchoconstriction (EIB)",
-    "Relief of symptoms of Allergic Rhinitis (AR): Seasonal & Perennial Allergic Rhinitis"
-  ],
-
+    "indications": [
+      "Prophylaxis and chronic treatment of asthma",
+      "Acute prevention of Exercise-Induced Bronchoconstriction (EIB)",
+      "Relief of symptoms of Allergic Rhinitis (AR): Seasonal & Perennial Allergic Rhinitis"
+    ],
     "pharmacology": "Montelukast is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene receptor (CysLT). The cysteinyl leukotrienes (LTC4, LTD4, LTE4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. Cysteinyl leukotrienes and leukotriene receptor occupation have been correlated with the pathophysiology of asthma & allergic rhinitis, including airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process, which contribute to the signs and symptoms of asthma.",
     "dosage": {
       "tablet": [
@@ -242,26 +245,25 @@
         "The dosage for pediatric patients 6 months to 5 years of age: Montelukast 4 mg oral granules once daily. This can be administered either directly in the mouth, or mixed with a spoonful of cold water or soft food at room temperature"
       ]
     },
-    "sideEffects": ["Common: Diarrhoea, fever, gastrointestinal discomfort, headache, nausea, vomiting, skin reactions, upper respiratory tract infection.",
-    "Uncommon: Akathisia, anxiety, arthralgia, asthenia, abnormal behavior, depression, dizziness, drowsiness, dry mouth, haemorrhage, irritability, malaise, muscle complaints, oedema, seizure, abnormal sensation, sleep disorders.",
-    "Rare: Angioedema, concentration impaired, disorientation, eosinophilic granulomatosis with polyangiitis, erythema nodosum, hallucination, hepatic disorders, memory loss, palpitations, pulmonary eosinophilia, suicidal tendencies, tremor."
-  ],
+    "sideEffects": [
+      "Common: Diarrhoea, fever, gastrointestinal discomfort, headache, nausea, vomiting, skin reactions, upper respiratory tract infection.",
+      "Uncommon: Akathisia, anxiety, arthralgia, asthenia, abnormal behavior, depression, dizziness, drowsiness, dry mouth, haemorrhage, irritability, malaise, muscle complaints, oedema, seizure, abnormal sensation, sleep disorders.",
+      "Rare: Angioedema, concentration impaired, disorientation, eosinophilic granulomatosis with polyangiitis, erythema nodosum, hallucination, hepatic disorders, memory loss, palpitations, pulmonary eosinophilia, suicidal tendencies, tremor."
+    ],
     "pregnancy_lactation": "Montelukast crosses the placenta following oral dosing in rats and rabbits. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, Montelukast should be used during pregnancy only if clearly needed. Because many drugs are excreted in human milk, caution should be exercised when Montelukast  is given to a nursing mother.",
     "storageConditions": "Store in cool & dry place below 30°C, protect from light & moisture. Keep out of reach of children."
   },
-
-
   {
     "name": "Airup",
     "type": "Chewable Tablet",
     "generic": "Montelukast Sodium",
     "strength": "5mg",
     "company": "Pharmasia Limited",
-    "indications": ["Prophylaxis and chronic treatment of asthma",
-    "Acute prevention of Exercise-Induced Bronchoconstriction (EIB)",
-    "Relief of symptoms of Allergic Rhinitis (AR): Seasonal & Perennial Allergic Rhinitis"
-  ],
-
+    "indications": [
+      "Prophylaxis and chronic treatment of asthma",
+      "Acute prevention of Exercise-Induced Bronchoconstriction (EIB)",
+      "Relief of symptoms of Allergic Rhinitis (AR): Seasonal & Perennial Allergic Rhinitis"
+    ],
     "pharmacology": "Montelukast is a selective and orally active leukotriene receptor antagonist that inhibits the cysteinyl leukotriene receptor (CysLT). The cysteinyl leukotrienes (LTC4, LTD4, LTE4) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. Cysteinyl leukotrienes and leukotriene receptor occupation have been correlated with the pathophysiology of asthma & allergic rhinitis, including airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process, which contribute to the signs and symptoms of asthma.",
     "dosage": {
       "tablet": [
@@ -271,25 +273,21 @@
         "The dosage for pediatric patients 6 months to 5 years of age: Montelukast 4 mg oral granules once daily. This can be administered either directly in the mouth, or mixed with a spoonful of cold water or soft food at room temperature"
       ]
     },
-    "sideEffects": ["Common: Diarrhoea, fever, gastrointestinal discomfort, headache, nausea, vomiting, skin reactions, upper respiratory tract infection.",
-    "Uncommon: Akathisia, anxiety, arthralgia, asthenia, abnormal behavior, depression, dizziness, drowsiness, dry mouth, haemorrhage, irritability, malaise, muscle complaints, oedema, seizure, abnormal sensation, sleep disorders.",
-    "Rare: Angioedema, concentration impaired, disorientation, eosinophilic granulomatosis with polyangiitis, erythema nodosum, hallucination, hepatic disorders, memory loss, palpitations, pulmonary eosinophilia, suicidal tendencies, tremor."
-  ],
+    "sideEffects": [
+      "Common: Diarrhoea, fever, gastrointestinal discomfort, headache, nausea, vomiting, skin reactions, upper respiratory tract infection.",
+      "Uncommon: Akathisia, anxiety, arthralgia, asthenia, abnormal behavior, depression, dizziness, drowsiness, dry mouth, haemorrhage, irritability, malaise, muscle complaints, oedema, seizure, abnormal sensation, sleep disorders.",
+      "Rare: Angioedema, concentration impaired, disorientation, eosinophilic granulomatosis with polyangiitis, erythema nodosum, hallucination, hepatic disorders, memory loss, palpitations, pulmonary eosinophilia, suicidal tendencies, tremor."
+    ],
     "pregnancy_lactation": "Montelukast crosses the placenta following oral dosing in rats and rabbits. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, Montelukast should be used during pregnancy only if clearly needed. Because many drugs are excreted in human milk, caution should be exercised when Montelukast  is given to a nursing mother.",
     "storageConditions": "Store in cool & dry place below 30°C, protect from light & moisture. Keep out of reach of children."
   },
-
-
   {
     "name": "Avolac",
     "type": "Oral Solution",
     "generic": "Lactulose",
     "strength": "3.35gm",
     "company": "Aristopharma Ltd.",
-    "indications": "Constipation (Chronic Constipation): In every case of chronic constipation, initial treatment should consist of a diet rich in fiber (vegetables, salads, fruits etc.) a generous amount of liquids and much physical exercise. Avolac is only to be taken when these measures prove insufficient."
-  ,
-  
-
+    "indications": "Constipation (Chronic Constipation): In every case of chronic constipation, initial treatment should consist of a diet rich in fiber (vegetables, salads, fruits etc.) a generous amount of liquids and much physical exercise. Avolac is only to be taken when these measures prove insufficient.",
     "pharmacology": "Lactulose is a synthetic disaccharide. Lactulose is metabolized in the colon by the saccharolytic bacteria, producing low molecular weight organic acids (mainly lactic acid), which lowers the pH of the colon contents, promote the retention of water by an osmotic effect; thus increasing peristaltic activity. Lactulose is minimally absorbed; therefore, the pharmacokinetics of the absorbed material are not relevant to the principal therapeutic action.",
     "dosage": {
       "tablet": [
@@ -297,7 +295,6 @@
         "Adults: Initially 3-6 tea-spoons daily, In long-term therapy 1½-6 tea-spoons daily",
         "Children up to 14 years: Initially 3 tea-spoons daily, In long-term therapy 1-2 tea-spoons daily",
         "Infants and toddlers: Initially 1-2 tea-spoons daily, In long-term therapy 1 tea-spoon daily",
-
         "In damaged intestinal flora: ",
         "Adults: 1-2 tea-spoons daily",
         "Children: 1-2 tea-spoons daily"
@@ -307,17 +304,13 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Lactulose is B. Studies show that Lactulose has no adverse effects. Decisions regarding use during pregnancy and lactation must be made by registered physician.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "E-Lax",
     "type": "Oral Solution",
     "generic": "Lactulose",
     "strength": "3.35gm",
     "company": "Edruc Limited",
-    "indications": "Constipation (Chronic Constipation): In every case of chronic constipation, initial treatment should consist of a diet rich in fiber (vegetables, salads, fruits etc.) a generous amount of liquids and much physical exercise. E-Lax is only to be taken when these measures prove insufficient."
-  ,
-  
-
+    "indications": "Constipation (Chronic Constipation): In every case of chronic constipation, initial treatment should consist of a diet rich in fiber (vegetables, salads, fruits etc.) a generous amount of liquids and much physical exercise. E-Lax is only to be taken when these measures prove insufficient.",
     "pharmacology": "Lactulose is a synthetic disaccharide. Lactulose is metabolized in the colon by the saccharolytic bacteria, producing low molecular weight organic acids (mainly lactic acid), which lowers the pH of the colon contents, promote the retention of water by an osmotic effect; thus increasing peristaltic activity. Lactulose is minimally absorbed; therefore, the pharmacokinetics of the absorbed material are not relevant to the principal therapeutic action.",
     "dosage": {
       "tablet": [
@@ -325,7 +318,6 @@
         "Adults: Initially 3-6 tea-spoons daily, In long-term therapy 1½-6 tea-spoons daily",
         "Children up to 14 years: Initially 3 tea-spoons daily, In long-term therapy 1-2 tea-spoons daily",
         "Infants and toddlers: Initially 1-2 tea-spoons daily, In long-term therapy 1 tea-spoon daily",
-
         "In damaged intestinal flora: ",
         "Adults: 1-2 tea-spoons daily",
         "Children: 1-2 tea-spoons daily"
@@ -335,17 +327,13 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Lactulose is B. Studies show that Lactulose has no adverse effects. Decisions regarding use during pregnancy and lactation must be made by registered physician.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Actilac",
     "type": "Oral Solution",
     "generic": "Lactulose",
     "strength": "3.35gm",
     "company": "Healthcare Pharmaceuticals Ltd.",
-    "indications": "Constipation (Chronic Constipation): In every case of chronic constipation, initial treatment should consist of a diet rich in fiber (vegetables, salads, fruits etc.) a generous amount of liquids and much physical exercise. Actilac is only to be taken when these measures prove insufficient."
-  ,
-  
-
+    "indications": "Constipation (Chronic Constipation): In every case of chronic constipation, initial treatment should consist of a diet rich in fiber (vegetables, salads, fruits etc.) a generous amount of liquids and much physical exercise. Actilac is only to be taken when these measures prove insufficient.",
     "pharmacology": "Lactulose is a synthetic disaccharide. Lactulose is metabolized in the colon by the saccharolytic bacteria, producing low molecular weight organic acids (mainly lactic acid), which lowers the pH of the colon contents, promote the retention of water by an osmotic effect; thus increasing peristaltic activity. Lactulose is minimally absorbed; therefore, the pharmacokinetics of the absorbed material are not relevant to the principal therapeutic action.",
     "dosage": {
       "tablet": [
@@ -353,7 +341,6 @@
         "Adults: Initially 3-6 tea-spoons daily, In long-term therapy 1½-6 tea-spoons daily",
         "Children up to 14 years: Initially 3 tea-spoons daily, In long-term therapy 1-2 tea-spoons daily",
         "Infants and toddlers: Initially 1-2 tea-spoons daily, In long-term therapy 1 tea-spoon daily",
-
         "In damaged intestinal flora: ",
         "Adults: 1-2 tea-spoons daily",
         "Children: 1-2 tea-spoons daily"
@@ -363,23 +350,17 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Lactulose is B. Studies show that Lactulose has no adverse effects. Decisions regarding use during pregnancy and lactation must be made by registered physician.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
-
   {
     "name": "Zimax",
     "type": "Capsule",
     "generic": "Azithromycin Dihydrate",
     "strength": "250mg",
     "company": "Square Pharmaceuticals PLC.",
-    "indications": "Zimax is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Zimax is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis."
-  ,
-  
-
+    "indications": "Zimax is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Zimax is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis.",
     "pharmacology": "Azithromycin is acid-stable and can therefore be taken orally with no need of protection from gastric acids. It is readily absorbed; its absorption is greater on an empty stomach. Time to peak concentration in adults is 2.1 to 3.2 hours for oral dosage forms. Due to the high concentration in phagocytes, azithromycin is actively transported to the site of infection. During active phagocytosis, large concentrations of azithromycin are released. The concentration of azithromycin in the tissues can be over 50 times higher than in plasma. This is due to ion trapping and the high lipid solubility. Azithromycin's half-life allows a large single dose to be administered and yet maintain bacteriostatic levels in the infected tissue for several days. Following a single 500 mg dose, plasma concentrations of azithromycin declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and a terminal elimination half life of 68 hours. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues. Biliary excretion of azithromycin, predominantly unchanged, is a major route of elimination. Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.",
     "dosage": {
       "tablet": [
         "Adult: 500 mg once daily orally for 3 days or 500 mg once on day 1, then 250 mg once on days 2-5 for 4 days. For sexually transmitted diseases caused by Chlamydia trachomatis in adults, the dose is 1 gm given as a single dose or 500 mg once on day 1, followed by 250 mg once daily for next 2 days may also be given.",
-
         "Children: 10 mg/kg body weight once daily for 3 days for child over 6 months"
       ]
     },
@@ -387,22 +368,17 @@
     "pregnancy_lactation": "Pregnancy Category of Azithromycin is B. Animal reproduction studies have demonstrated that Azithromycin has no evidence of harm to the fetus. There are no adequate and well controlled studies in pregnant women. Since animal reproduction studies are not always predictive of human response, Azithromycin should be used during pregnancy only if adequate alternatives are not available. It is not known whether Azithromycin is secreted in breast milk. So, caution should be exercised when Azithromycin is administered to nursing women.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Adiz",
     "type": "Capsule",
     "generic": "Azithromycin Dihydrate",
     "strength": "250mg",
     "company": "Euro Pharma Ltd.",
-    "indications": "Adiz is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Adiz is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis."
-  ,
-  
-
+    "indications": "Adiz is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Adiz is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis.",
     "pharmacology": "Azithromycin is acid-stable and can therefore be taken orally with no need of protection from gastric acids. It is readily absorbed; its absorption is greater on an empty stomach. Time to peak concentration in adults is 2.1 to 3.2 hours for oral dosage forms. Due to the high concentration in phagocytes, azithromycin is actively transported to the site of infection. During active phagocytosis, large concentrations of azithromycin are released. The concentration of azithromycin in the tissues can be over 50 times higher than in plasma. This is due to ion trapping and the high lipid solubility. Azithromycin's half-life allows a large single dose to be administered and yet maintain bacteriostatic levels in the infected tissue for several days. Following a single 500 mg dose, plasma concentrations of azithromycin declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and a terminal elimination half life of 68 hours. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues. Biliary excretion of azithromycin, predominantly unchanged, is a major route of elimination. Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.",
     "dosage": {
       "tablet": [
         "Adult: 500 mg once daily orally for 3 days or 500 mg once on day 1, then 250 mg once on days 2-5 for 4 days. For sexually transmitted diseases caused by Chlamydia trachomatis in adults, the dose is 1 gm given as a single dose or 500 mg once on day 1, followed by 250 mg once daily for next 2 days may also be given.",
-
         "Children: 10 mg/kg body weight once daily for 3 days for child over 6 months"
       ]
     },
@@ -416,15 +392,11 @@
     "generic": "Azithromycin Dihydrate",
     "strength": "500mg",
     "company": "Techno Drugs Ltd.",
-    "indications": "Avalon is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Avalon is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis."
-  ,
-  
-
+    "indications": "Avalon is indicated for infections (caused by susceptible organisms) in lower respiratory tract infections including bronchitis and pneumonia, in upper respiratory tract infections including sinusitis and pharyngitis/tonsillitis, in otitis media, and in skin and soft tissue infections. In sexually transmitted diseases in men and women, Avalon is indicated in the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis.",
     "pharmacology": "Azithromycin is acid-stable and can therefore be taken orally with no need of protection from gastric acids. It is readily absorbed; its absorption is greater on an empty stomach. Time to peak concentration in adults is 2.1 to 3.2 hours for oral dosage forms. Due to the high concentration in phagocytes, azithromycin is actively transported to the site of infection. During active phagocytosis, large concentrations of azithromycin are released. The concentration of azithromycin in the tissues can be over 50 times higher than in plasma. This is due to ion trapping and the high lipid solubility. Azithromycin's half-life allows a large single dose to be administered and yet maintain bacteriostatic levels in the infected tissue for several days. Following a single 500 mg dose, plasma concentrations of azithromycin declined in a polyphasic pattern with a mean apparent plasma clearance of 630 mL/min and a terminal elimination half life of 68 hours. The prolonged terminal half-life is thought to be due to extensive uptake and subsequent release of drug from tissues. Biliary excretion of azithromycin, predominantly unchanged, is a major route of elimination. Over the course of a week, approximately 6% of the administered dose appears as unchanged drug in urine.",
     "dosage": {
       "tablet": [
         "Adult: 500 mg once daily orally for 3 days or 500 mg once on day 1, then 250 mg once on days 2-5 for 4 days. For sexually transmitted diseases caused by Chlamydia trachomatis in adults, the dose is 1 gm given as a single dose or 500 mg once on day 1, followed by 250 mg once daily for next 2 days may also be given.",
-
         "Children: 10 mg/kg body weight once daily for 3 days for child over 6 months"
       ]
     },
@@ -432,28 +404,24 @@
     "pregnancy_lactation": "Pregnancy Category of Azithromycin is B. Animal reproduction studies have demonstrated that Azithromycin has no evidence of harm to the fetus. There are no adequate and well controlled studies in pregnant women. Since animal reproduction studies are not always predictive of human response, Azithromycin should be used during pregnancy only if adequate alternatives are not available. It is not known whether Azithromycin is secreted in breast milk. So, caution should be exercised when Azithromycin is administered to nursing women.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
-
   {
     "name": "Motigut",
     "type": "Tablet",
     "generic": "Domperidone Maleate",
     "strength": "10mg",
     "company": "Square Pharmaceuticals PLC.",
-    "indications": ["Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
-    "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
-    "2. Eructation, flatulence, early satiety",
-    "3. Nausea and vomiting",
-    "4. Heartburn with or without regurgitations of gastric contents in the mouth",
-    "5. Non-ulcer dyspepsia"
-  ],
-  
-
+    "indications": [
+      "Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
+      "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
+      "2. Eructation, flatulence, early satiety",
+      "3. Nausea and vomiting",
+      "4. Heartburn with or without regurgitations of gastric contents in the mouth",
+      "5. Non-ulcer dyspepsia"
+    ],
     "pharmacology": "Domperidone is a dopamine antagonist that principally blocks the dopamine receptors located in the ChemoreceptorTrigger Zone (CTZ) and stomach. Its gastroprokinetic action is based on its blocking effect of dopamine receptors that have an influence on the motility of the gastrointestinal tract. Due to its weak penetration across the blood-brain barrier, Domperidone has almost no effect on the dopaminergic receptors in the brain, therefore, excluding psychotropic and neurologic side effects. Domperidone restores normal motility and tone of the upper gastrointestinal tract, facilitates gastric emptying, enhances antral and duodenal peristalsis and regulates contraction of the pylorus. Domperidone also increases esophageal peristalsis and lower esophageal sphincter pressure, and thus prevents regurgitation of gastric content.",
     "dosage": {
       "tablet": [
         "Adult: 10-20 mg (1-2 tablet or 10-20 ml suspension), every 6-8 hours daily. The maximum dose of Domperidone is 80 mg daily.",
-
         "Children: 2-4 ml suspension/10 kg body weight or 0.4-0.8 ml paediatric drops/10 kg body weight, every 6-8 hours daily."
       ]
     },
@@ -461,27 +429,24 @@
     "pregnancy_lactation": "Domperidone given to animals at doses up to 160 mg/kg/day did not produce teratogenic effects. However, as most medicines, domperidone should only be used during the first trimester of pregnancy if this is justified by the anticipated therapeutic benefit. Up to now, there has been no evidence of any increase in the risk of malformations in humans. The drug is excreted in breast milk of lactating rats. In women, domperidone concentrations in breast milk is 4 times lower than corresponding plasma concentrations. It is not known whether this is harmful to the newborn. Therefore nursing is not recommended for mothers who are taking domperidone, unless the expected benefits outweigh any potential risk. Effects on ability to drive and use machines: Domperidone does not affect the mental alertness.",
     "storageConditions": "Store below 30°C, Protected from light & moisture. Keep out of children's reach."
   },
-
   {
     "name": "Apuldon",
     "type": "Tablet",
     "generic": "Domperidone Maleate",
     "strength": "10mg",
     "company": "Aristopharma Ltd",
-    "indications": ["Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
-    "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
-    "2. Eructation, flatulence, early satiety",
-    "3. Nausea and vomiting",
-    "4. Heartburn with or without regurgitations of gastric contents in the mouth",
-    "5. Non-ulcer dyspepsia"
-  ],
-  
-
+    "indications": [
+      "Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
+      "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
+      "2. Eructation, flatulence, early satiety",
+      "3. Nausea and vomiting",
+      "4. Heartburn with or without regurgitations of gastric contents in the mouth",
+      "5. Non-ulcer dyspepsia"
+    ],
     "pharmacology": "Domperidone is a dopamine antagonist that principally blocks the dopamine receptors located in the ChemoreceptorTrigger Zone (CTZ) and stomach. Its gastroprokinetic action is based on its blocking effect of dopamine receptors that have an influence on the motility of the gastrointestinal tract. Due to its weak penetration across the blood-brain barrier, Domperidone has almost no effect on the dopaminergic receptors in the brain, therefore, excluding psychotropic and neurologic side effects. Domperidone restores normal motility and tone of the upper gastrointestinal tract, facilitates gastric emptying, enhances antral and duodenal peristalsis and regulates contraction of the pylorus. Domperidone also increases esophageal peristalsis and lower esophageal sphincter pressure, and thus prevents regurgitation of gastric content.",
     "dosage": {
       "tablet": [
         "Adult: 10-20 mg (1-2 tablet or 10-20 ml suspension), every 6-8 hours daily. The maximum dose of Domperidone is 80 mg daily.",
-
         "Children: 2-4 ml suspension/10 kg body weight or 0.4-0.8 ml paediatric drops/10 kg body weight, every 6-8 hours daily."
       ]
     },
@@ -495,20 +460,18 @@
     "generic": "Domperidone Maleate",
     "strength": "10mg",
     "company": "Supreme Pharmaceutical Ltd.",
-    "indications": ["Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
-    "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
-    "2. Eructation, flatulence, early satiety",
-    "3. Nausea and vomiting",
-    "4. Heartburn with or without regurgitations of gastric contents in the mouth",
-    "5. Non-ulcer dyspepsia"
-  ],
-  
-
+    "indications": [
+      "Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
+      "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
+      "2. Eructation, flatulence, early satiety",
+      "3. Nausea and vomiting",
+      "4. Heartburn with or without regurgitations of gastric contents in the mouth",
+      "5. Non-ulcer dyspepsia"
+    ],
     "pharmacology": "Domperidone is a dopamine antagonist that principally blocks the dopamine receptors located in the ChemoreceptorTrigger Zone (CTZ) and stomach. Its gastroprokinetic action is based on its blocking effect of dopamine receptors that have an influence on the motility of the gastrointestinal tract. Due to its weak penetration across the blood-brain barrier, Domperidone has almost no effect on the dopaminergic receptors in the brain, therefore, excluding psychotropic and neurologic side effects. Domperidone restores normal motility and tone of the upper gastrointestinal tract, facilitates gastric emptying, enhances antral and duodenal peristalsis and regulates contraction of the pylorus. Domperidone also increases esophageal peristalsis and lower esophageal sphincter pressure, and thus prevents regurgitation of gastric content.",
     "dosage": {
       "tablet": [
         "Adult: 10-20 mg (1-2 tablet or 10-20 ml suspension), every 6-8 hours daily. The maximum dose of Domperidone is 80 mg daily.",
-
         "Children: 2-4 ml suspension/10 kg body weight or 0.4-0.8 ml paediatric drops/10 kg body weight, every 6-8 hours daily."
       ]
     },
@@ -516,23 +479,20 @@
     "pregnancy_lactation": "Domperidone given to animals at doses up to 160 mg/kg/day did not produce teratogenic effects. However, as most medicines, domperidone should only be used during the first trimester of pregnancy if this is justified by the anticipated therapeutic benefit. Up to now, there has been no evidence of any increase in the risk of malformations in humans. The drug is excreted in breast milk of lactating rats. In women, domperidone concentrations in breast milk is 4 times lower than corresponding plasma concentrations. It is not known whether this is harmful to the newborn. Therefore nursing is not recommended for mothers who are taking domperidone, unless the expected benefits outweigh any potential risk. Effects on ability to drive and use machines: Domperidone does not affect the mental alertness.",
     "storageConditions": "Store below 30°C, Protected from light & moisture. Keep out of children's reach."
   },
-
-
   {
     "name": "Amodis",
     "type": "Tablet",
     "generic": "Metronidazole",
     "strength": "400mg",
     "company": "Square Pharmaceuticals PLC.",
-    "indications": ["Amodis is indicated in the treatment of following diseases: ",
-    "1. The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).",
-    "2. The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.",
-    "3. In the treatment of urogenital trichomoniasis.",
-    "4. Bacterial vaginosis (also known as non-specific vaginitis).",
-    "5. All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers)."
-  ],
-  
-
+    "indications": [
+      "Amodis is indicated in the treatment of following diseases: ",
+      "1. The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).",
+      "2. The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.",
+      "3. In the treatment of urogenital trichomoniasis.",
+      "4. Bacterial vaginosis (also known as non-specific vaginitis).",
+      "5. All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers)."
+    ],
     "pharmacology": "Metronidazole is a member of the imidazole class of antibacterial drug and is classified therapeutically as an antiprotozoal agent. The 5-nitro group of Metronidazole is reduced by anaerobes metabolically. Studies have demonstrated that the reduced form of this drug interacts with DNA and gives bactericidal action of Metronidazole.",
     "dosage": {
       "tablet": [
@@ -546,22 +506,20 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Metronidazole is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Metronidazole have been shown to be excreted in human milk. So, caution should be exercised when Metronidazole is administered to a nursing woman.",
     "storageConditions": "Store below 30°C. Keep protected from light. Keep medicines out of the reach of children. Do not use later than the date of expiry."
   },
-
   {
     "name": "Benmet",
     "type": "Tablet",
     "generic": "Metronidazole",
     "strength": "400mg",
     "company": "Pacific Pharmaceuticals Ltd.",
-    "indications": ["Benmet is indicated in the treatment of following diseases: ",
-    "1. The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).",
-    "2. The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.",
-    "3. In the treatment of urogenital trichomoniasis.",
-    "4. Bacterial vaginosis (also known as non-specific vaginitis).",
-    "5. All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers)."
-  ],
-  
-
+    "indications": [
+      "Benmet is indicated in the treatment of following diseases: ",
+      "1. The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).",
+      "2. The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.",
+      "3. In the treatment of urogenital trichomoniasis.",
+      "4. Bacterial vaginosis (also known as non-specific vaginitis).",
+      "5. All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers)."
+    ],
     "pharmacology": "Metronidazole is a member of the imidazole class of antibacterial drug and is classified therapeutically as an antiprotozoal agent. The 5-nitro group of Metronidazole is reduced by anaerobes metabolically. Studies have demonstrated that the reduced form of this drug interacts with DNA and gives bactericidal action of Metronidazole.",
     "dosage": {
       "tablet": [
@@ -581,15 +539,14 @@
     "generic": "Metronidazole",
     "strength": "400mg",
     "company": "Square Pharmaceuticals PLC.",
-    "indications": ["Amotrex is indicated in the treatment of following diseases: ",
-    "1. The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).",
-    "2. The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.",
-    "3. In the treatment of urogenital trichomoniasis.",
-    "4. Bacterial vaginosis (also known as non-specific vaginitis).",
-    "5. All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers)."
-  ],
-  
-
+    "indications": [
+      "Amotrex is indicated in the treatment of following diseases: ",
+      "1. The prevention of post-operative infections due to anaerobic bacteria (particularly species of bacteroides and anaerobic streptococci).",
+      "2. The treatment of septicaemia, bacteraemia, peritonitis, brain abscess, pelvic abscess, pelvic cellulitis and post-operative wound infections caused by anaerobes.",
+      "3. In the treatment of urogenital trichomoniasis.",
+      "4. Bacterial vaginosis (also known as non-specific vaginitis).",
+      "5. All forms of amoebiasis (intestinal, extra-intestinal disease and that of symptomless cyst passers)."
+    ],
     "pharmacology": "Metronidazole is a member of the imidazole class of antibacterial drug and is classified therapeutically as an antiprotozoal agent. The 5-nitro group of Metronidazole is reduced by anaerobes metabolically. Studies have demonstrated that the reduced form of this drug interacts with DNA and gives bactericidal action of Metronidazole.",
     "dosage": {
       "tablet": [
@@ -603,7 +560,6 @@
     "pregnancy_lactation": "US FDA Pregnancy Category of Metronidazole is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Metronidazole have been shown to be excreted in human milk. So, caution should be exercised when Metronidazole is administered to a nursing woman.",
     "storageConditions": "Store below 30°C. Keep protected from light. Keep medicines out of the reach of children. Do not use later than the date of expiry."
   },
-
   {
     "name": "Viodin",
     "type": "Solution",
@@ -611,15 +567,13 @@
     "strength": "10% w/v",
     "company": "Square Pharmaceuticals PLC.",
     "indications": [
-    "1. For the prevention and treatment of surface infections as well as to degerm the skin, mucous membrane and hyperalimentation procedures",
-    "2. For seborrhea",
-    "3. For preoperative and postoperative scrubbing and washing of hospital operating room and equipments",
-    "4. For preoperative prepping of operative site, including the vagina",
-    "5. For disinfection of wounds, burns, lacerations and abrasions",
-    "6. As a prophylactic anti-infective agent in house, hospital & office procedures"
-  ],
-  
-
+      "1. For the prevention and treatment of surface infections as well as to degerm the skin, mucous membrane and hyperalimentation procedures",
+      "2. For seborrhea",
+      "3. For preoperative and postoperative scrubbing and washing of hospital operating room and equipments",
+      "4. For preoperative prepping of operative site, including the vagina",
+      "5. For disinfection of wounds, burns, lacerations and abrasions",
+      "6. As a prophylactic anti-infective agent in house, hospital & office procedures"
+    ],
     "pharmacology": "Povidone Iodine is a complex of iodine and an organic polymer, povidone. This polymerization makes Povidone Iodine superior to ordinary elemental iodine. It prolongs the germicidal activity of iodine by liberating elemental iodine slowly. Consequently it has a lower toxicity than elemental iodine. It gives rapid microbicidal activity against both Gram-positive and Gram-negative bacteria, protozoa, viruses and fungi/yeasts. It is also sporicidal. It is the only microbicide with this broad spectrum of activity. It is non-staining, exerts prolong germicidal action and is also active in the presence of soap, blood, serum, pus, mucosal secretions and water.",
     "dosage": {
       "solution": " Apply full strength as often as needed as paint, spray, or wet soak. Maybe bandaged (where necessary)."
@@ -628,7 +582,6 @@
     "pregnancy_lactation": "Povidone Iodine Cream, Solution & Powder are not recommended for use during pregnancy because of the possibility of absorption of sufficient iodine to affect the fetal thyroid. American Academy of Pediatrics considers that the use of Povidone-Iodine is usually compatible with breast feeding. Consult Registered Physician. Regular use of Gargle & Mouthwash and Surgical Scrub should also be avoided in pregnant and lactating women. There is no experience regarding the safety of the Povidone eye drops in human pregnancy or lactation. Administration during pregnancy and lactation is therefore not recommended, except for compelling reasons.",
     "storageConditions": "Store below 25°C. Do not freeze. Store in a cool and dry place, protected from light. Keep out of the reach of children. Do not touch the ophthalmic solution dropper tip to any surface as this may contaminate Viodin. Do not use it after one month of the first opening."
   },
-
   {
     "name": "Bludrop",
     "type": "Ophthalmic Solution",
@@ -636,15 +589,13 @@
     "strength": "5% w/v",
     "company": "Healthcare Pharmaceuticals Ltd.",
     "indications": [
-    "1. For the prevention and treatment of surface infections as well as to degerm the skin, mucous membrane and hyperalimentation procedures",
-    "2. For seborrhea",
-    "3. For preoperative and postoperative scrubbing and washing of hospital operating room and equipments",
-    "4. For preoperative prepping of operative site, including the vagina",
-    "5. For disinfection of wounds, burns, lacerations and abrasions",
-    "6. As a prophylactic anti-infective agent in house, hospital & office procedures"
-  ],
-  
-
+      "1. For the prevention and treatment of surface infections as well as to degerm the skin, mucous membrane and hyperalimentation procedures",
+      "2. For seborrhea",
+      "3. For preoperative and postoperative scrubbing and washing of hospital operating room and equipments",
+      "4. For preoperative prepping of operative site, including the vagina",
+      "5. For disinfection of wounds, burns, lacerations and abrasions",
+      "6. As a prophylactic anti-infective agent in house, hospital & office procedures"
+    ],
     "pharmacology": "Povidone Iodine is a complex of iodine and an organic polymer, povidone. This polymerization makes Povidone Iodine superior to ordinary elemental iodine. It prolongs the germicidal activity of iodine by liberating elemental iodine slowly. Consequently it has a lower toxicity than elemental iodine. It gives rapid microbicidal activity against both Gram-positive and Gram-negative bacteria, protozoa, viruses and fungi/yeasts. It is also sporicidal. It is the only microbicide with this broad spectrum of activity. It is non-staining, exerts prolong germicidal action and is also active in the presence of soap, blood, serum, pus, mucosal secretions and water.",
     "dosage": {
       "ophthalmic_Solution": " Apply full strength as often as needed as paint, spray, or wet soak. Maybe bandaged (where necessary)."
@@ -660,15 +611,13 @@
     "strength": "5% w/v",
     "company": "Aristopharma Ltd.",
     "indications": [
-    "1. For the prevention and treatment of surface infections as well as to degerm the skin, mucous membrane and hyperalimentation procedures",
-    "2. For seborrhea",
-    "3. For preoperative and postoperative scrubbing and washing of hospital operating room and equipments",
-    "4. For preoperative prepping of operative site, including the vagina",
-    "5. For disinfection of wounds, burns, lacerations and abrasions",
-    "6. As a prophylactic anti-infective agent in house, hospital & office procedures"
-  ],
-  
-
+      "1. For the prevention and treatment of surface infections as well as to degerm the skin, mucous membrane and hyperalimentation procedures",
+      "2. For seborrhea",
+      "3. For preoperative and postoperative scrubbing and washing of hospital operating room and equipments",
+      "4. For preoperative prepping of operative site, including the vagina",
+      "5. For disinfection of wounds, burns, lacerations and abrasions",
+      "6. As a prophylactic anti-infective agent in house, hospital & office procedures"
+    ],
     "pharmacology": "Povidone Iodine is a complex of iodine and an organic polymer, povidone. This polymerization makes Povidone Iodine superior to ordinary elemental iodine. It prolongs the germicidal activity of iodine by liberating elemental iodine slowly. Consequently it has a lower toxicity than elemental iodine. It gives rapid microbicidal activity against both Gram-positive and Gram-negative bacteria, protozoa, viruses and fungi/yeasts. It is also sporicidal. It is the only microbicide with this broad spectrum of activity. It is non-staining, exerts prolong germicidal action and is also active in the presence of soap, blood, serum, pus, mucosal secretions and water.",
     "dosage": {
       "ointment": " Apply full strength as often as needed as paint, spray, or wet soak. Maybe bandaged (where necessary)."
@@ -676,8 +625,7 @@
     "sideEffects": "Arodin may cause hypersensitivity reactions and irritation of the skin and mucous membranes. The application of Arodin to severe burns or to large areas otherwise denuded of skin may produce systemic adverse effects such as metabolic acidosis, hypernatraemia, and impairment of renal function. It may interfere with thyroid function tests.",
     "pregnancy_lactation": "Povidone Iodine Cream, Solution & Powder are not recommended for use during pregnancy because of the possibility of absorption of sufficient iodine to affect the fetal thyroid. American Academy of Pediatrics considers that the use of Povidone-Iodine is usually compatible with breast feeding. Consult Registered Physician. Regular use of Gargle & Mouthwash and Surgical Scrub should also be avoided in pregnant and lactating women. There is no experience regarding the safety of the Povidone eye drops in human pregnancy or lactation. Administration during pregnancy and lactation is therefore not recommended, except for compelling reasons.",
     "storageConditions": "Store below 25°C. Do not freeze. Store in a cool and dry place, protected from light. Keep out of the reach of children. Do not touch the ophthalmic solution dropper tip to any surface as this may contaminate Arodin. Do not use it after one month of the first opening."
-  } ,
-  
+  },
   {
     "name": "Bislol",
     "type": "Tablet",
@@ -685,12 +633,11 @@
     "strength": "5mg",
     "company": "Opsonin Pharma Ltd.",
     "indications": [
-    "Bislol is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-
+      "Bislol is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -702,7 +649,6 @@
     "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Bisten",
     "type": "Tablet",
@@ -710,13 +656,11 @@
     "strength": "10mg",
     "company": "Edruc Limited.",
     "indications": [
-    "Bisten is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "Bisten is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -728,7 +672,6 @@
     "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Bectacor",
     "type": "Tablet",
@@ -736,13 +679,11 @@
     "strength": "5mg",
     "company": "Popular Pharmaceuticals",
     "indications": [
-    "Bectacor is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "Bectacor is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -761,13 +702,11 @@
     "strength": "5mg",
     "company": "Sharif Pharmaceuticals Ltd.",
     "indications": [
-    "B-Prolol is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "B-Prolol is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -786,13 +725,11 @@
     "strength": "10mg",
     "company": "ACME Laboratories Ltd.",
     "indications": [
-    "Betabis is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "Betabis is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -811,13 +748,11 @@
     "strength": "2.5mg",
     "company": "Beximco Pharmaceuticals Ltd.",
     "indications": [
-    "Betapro is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "Betapro is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -836,13 +771,11 @@
     "strength": "5mg",
     "company": "Silco Pharmaceuticals PLC Ltd.",
     "indications": [
-    "Bisofar is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "Bisofar is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -854,7 +787,6 @@
     "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Tabis",
     "type": "Tablet",
@@ -862,13 +794,11 @@
     "strength": "2.5mg",
     "company": "Navana Pharmaceuticals Ltd.",
     "indications": [
-    "Tabis is indicated in - ",
-    "1. Hypertension",
-    "2. Angina",
-    "3. Moderate to severe heart failure"
-  ],
-  
-
+      "Tabis is indicated in - ",
+      "1. Hypertension",
+      "2. Angina",
+      "3. Moderate to severe heart failure"
+    ],
     "pharmacology": "Bisoprolol Hemifumarate is the most selective ß1 blocker. It displays highest level of affinity for the ß1 receptor than any other beta-blocker available up to now. Selectively blocks ß1 adrenergic receptor in the heart and vascular smooth muscle and reduces heart rate and cardiac output resulting in decrease of arterial hypertension. Lipid metabolism can be adversely affected by ß-blockers, in patients with non-ß1 selective ß1-blocker, but Bisoprolol does not cause any change in the cholesterol fraction including the cardioprotective HDL-cholesterol, in long-term therapy.",
     "dosage": {
       "tablet": [
@@ -880,7 +810,6 @@
     "pregnancy_lactation": "Bisoprolol fumarate was not teratogenic in rats at doses up to 150 mg/kg/day, which is 375 times the maximum recommended human daily dose. Bisoprolol fumarate was fetotoxic (increased late resorptions) at 50 mg/kg/day and maternotoxic (decreased food intake and body-weight gain) at 150 mg/kg/day. Bisoprolol fumarate was not teratogenic in rabbits at doses up to 12.5 mg/kg/day, which is 31 times the maximum recommended human daily dose, but was embryolethal (increased early resorptions) at 12.5 mg/kg/day. There are no studies in pregnant women. Bisoprolol fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "E-cap",
     "type": "Capsule",
@@ -888,16 +817,14 @@
     "strength": "400 IU",
     "company": "Drug International Ltd.",
     "indications": [
-    "E-Cap (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-Cap deficiency. E-Cap (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
-    "1. Alzheimer’s Disease",
-    "2. Rheumatoid Arthritis Pain",
-    "3. Nerve Damage caused by Chemotherapy",
-    "4. Male Infertility",
-    "5. Age-related Macular Degeneration",
-    "6. Keratectomy"
-  ],
-  
-
+      "E-Cap (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-Cap deficiency. E-Cap (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+      "1. Alzheimer’s Disease",
+      "2. Rheumatoid Arthritis Pain",
+      "3. Nerve Damage caused by Chemotherapy",
+      "4. Male Infertility",
+      "5. Age-related Macular Degeneration",
+      "6. Keratectomy"
+    ],
     "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
     "dosage": {
       "capsule": [
@@ -908,14 +835,12 @@
         "Improving Male Infertility: Vitamin E 200-600 IU daily.",
         "Menstrual Syndrome: Vitamin E 400 IU daily.",
         "Painful Menstrual Period: Vitamin E 200 IU daily."
-
       ]
     },
     "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
     "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "E-fill",
     "type": "Capsule",
@@ -923,16 +848,14 @@
     "strength": "200 IU",
     "company": "General Pharmaceuticals Ltd.",
     "indications": [
-    "E-fill (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-fill deficiency. E-fill (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
-    "1. Alzheimer’s Disease",
-    "2. Rheumatoid Arthritis Pain",
-    "3. Nerve Damage caused by Chemotherapy",
-    "4. Male Infertility",
-    "5. Age-related Macular Degeneration",
-    "6. Keratectomy"
-  ],
-  
-
+      "E-fill (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-fill deficiency. E-fill (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+      "1. Alzheimer’s Disease",
+      "2. Rheumatoid Arthritis Pain",
+      "3. Nerve Damage caused by Chemotherapy",
+      "4. Male Infertility",
+      "5. Age-related Macular Degeneration",
+      "6. Keratectomy"
+    ],
     "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
     "dosage": {
       "capsule": [
@@ -943,7 +866,6 @@
         "Improving Male Infertility: Vitamin E 200-600 IU daily.",
         "Menstrual Syndrome: Vitamin E 400 IU daily.",
         "Painful Menstrual Period: Vitamin E 200 IU daily."
-
       ]
     },
     "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
@@ -957,16 +879,14 @@
     "strength": "200 IU",
     "company": "Renata Limited",
     "indications": [
-    "E-Gel (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-Gel deficiency. E-Gel (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
-    "1. Alzheimer’s Disease",
-    "2. Rheumatoid Arthritis Pain",
-    "3. Nerve Damage caused by Chemotherapy",
-    "4. Male Infertility",
-    "5. Age-related Macular Degeneration",
-    "6. Keratectomy"
-  ],
-  
-
+      "E-Gel (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-Gel deficiency. E-Gel (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+      "1. Alzheimer’s Disease",
+      "2. Rheumatoid Arthritis Pain",
+      "3. Nerve Damage caused by Chemotherapy",
+      "4. Male Infertility",
+      "5. Age-related Macular Degeneration",
+      "6. Keratectomy"
+    ],
     "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
     "dosage": {
       "capsule": [
@@ -977,14 +897,12 @@
         "Improving Male Infertility: Vitamin E 200-600 IU daily.",
         "Menstrual Syndrome: Vitamin E 400 IU daily.",
         "Painful Menstrual Period: Vitamin E 200 IU daily."
-
       ]
     },
     "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
     "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "E-soft",
     "type": "Capsule",
@@ -992,16 +910,14 @@
     "strength": "400 IU",
     "company": "Pacific Pharmaceuticals Ltd.",
     "indications": [
-    "E-soft (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-soft deficiency. E-soft (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
-    "1. Alzheimer’s Disease",
-    "2. Rheumatoid Arthritis Pain",
-    "3. Nerve Damage caused by Chemotherapy",
-    "4. Male Infertility",
-    "5. Age-related Macular Degeneration",
-    "6. Keratectomy"
-  ],
-  
-
+      "E-soft (d-alpha tocopherol) capsule is indicated for the treatment and prevention of E-soft deficiency. E-soft (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+      "1. Alzheimer’s Disease",
+      "2. Rheumatoid Arthritis Pain",
+      "3. Nerve Damage caused by Chemotherapy",
+      "4. Male Infertility",
+      "5. Age-related Macular Degeneration",
+      "6. Keratectomy"
+    ],
     "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
     "dosage": {
       "capsule": [
@@ -1012,14 +928,12 @@
         "Improving Male Infertility: Vitamin E 200-600 IU daily.",
         "Menstrual Syndrome: Vitamin E 400 IU daily.",
         "Painful Menstrual Period: Vitamin E 200 IU daily."
-
       ]
     },
     "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
     "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Evidon",
     "type": "Chewable Tablet",
@@ -1027,16 +941,14 @@
     "strength": "200 IU",
     "company": "Doctor's Chemical Works Ltd.",
     "indications": [
-    "Evidon (d-alpha tocopherol) capsule is indicated for the treatment and prevention of Evidon deficiency. Evidon (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
-    "1. Alzheimer’s Disease",
-    "2. Rheumatoid Arthritis Pain",
-    "3. Nerve Damage caused by Chemotherapy",
-    "4. Male Infertility",
-    "5. Age-related Macular Degeneration",
-    "6. Keratectomy"
-  ],
-  
-
+      "Evidon (d-alpha tocopherol) capsule is indicated for the treatment and prevention of Evidon deficiency. Evidon (d-alpha tocopherol) is also suggested to use as an antioxidant to promote, prevent and treat various health conditions such as-",
+      "1. Alzheimer’s Disease",
+      "2. Rheumatoid Arthritis Pain",
+      "3. Nerve Damage caused by Chemotherapy",
+      "4. Male Infertility",
+      "5. Age-related Macular Degeneration",
+      "6. Keratectomy"
+    ],
     "pharmacology": "Vitamin E acts as an antioxidant in the body. Vitamin E protects polyunsaturated fatty acids (which are components of cellular membrane) and other oxygen-sensitive substances such as vitamin A & vitamin C from oxidation. In premature neonates irritability, edema, thrombosis and hemolytic anemia may be caused due to vitamin E deficiency. Creatinuria, ceroid deposition, muscle weakness, decreased erythrocyte survival or increased in vitro hemolysis by oxidizing agents have been identified in adults and children with low serum tocopherol concentrations.",
     "dosage": {
       "capsule": [
@@ -1047,14 +959,12 @@
         "Improving Male Infertility: Vitamin E 200-600 IU daily.",
         "Menstrual Syndrome: Vitamin E 400 IU daily.",
         "Painful Menstrual Period: Vitamin E 200 IU daily."
-
       ]
     },
     "sideEffects": "Diarrhoea & abdominal pain may occur with doses greater than 1000 IU daily.",
     "pregnancy_lactation": "There is no evidence of the safety of high doses of vitamin E in pregnancy, therefore should not use in pregnancy especially in the first trimester. No information is available on excretion in breast milk, therefore it is advisable not to use during lactation.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   },
-
   {
     "name": "Sinaban",
     "type": "Ointment",
@@ -1062,7 +972,6 @@
     "strength": "2% w/w",
     "company": "Ibn Sina Pharmaceuticals Ltd.",
     "indications": "Sinaban ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
-  
     "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
     "dosage": {
       "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
@@ -1078,7 +987,6 @@
     "strength": "2% w/w",
     "company": "Biopharma Laboratories Ltd.",
     "indications": "Bacron ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
-  
     "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
     "dosage": {
       "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
@@ -1094,7 +1002,6 @@
     "strength": "2% w/w",
     "company": "Square Pharmaceuticals PLC.",
     "indications": "Bactrocin ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
-  
     "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
     "dosage": {
       "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
@@ -1110,7 +1017,6 @@
     "strength": "2% w/w",
     "company": "ACME Laboratories Ltd.",
     "indications": "Dermupin ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
-  
     "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
     "dosage": {
       "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
@@ -1126,7 +1032,6 @@
     "strength": "2% w/w",
     "company": "Drug International Ltd.",
     "indications": "Muron ointment is indicated for the topical treatment of impetigo (skin diseases) due to Staphylococcus aureus and Streptococcus pyogenes. It is also indicated in folliculitis, furunculosis.",
-  
     "pharmacology": "Mupirocin is a naturally occurring antibiotic. It is an antibacterial agent produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria those responsible for the majority of skin infections, e.g. Staphylococcus aureus including methicillin-resistant Staphylococcus aureus (MRSA) other staphylococci and streptococci. It is also active against certain gram-negative pathogens, like Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specially binding to bacterial isoleucyl transfer-RNA synthetase. Due to this unique mode of action, Mupirocin demonstrates no in vitro cross-resistance with other classes of antimicrobial agents. Mupirocin is bactericidal at concentrations achieved by topical administration. However, the minimum bactericidal concentration (MBC) against relevant pathogens is generally eight-fold to thirty-fold higher than the minimum inhibitory concentration (MIC). Mupirocin is a naturally occurring antibiotic. This antibacterial agent is produced by fermentation using the organism Pseudomonas fluorescens. It is active against a wide range of bacteria (e.g. Staphylococcus aureus including methicillin-resistant strains and Streptococcus pyogenes) those responsible for the majority of skin infections. It is also active against gram-negative pathogens, such as Escherichia coli and Haemophilus influenzae. Mupirocin inhibits bacterial protein synthesis by reversibly and specifically binding to bacterial isoleucyl transfer-RNA synthetase.",
     "dosage": {
       "ointment": "A small amount of Bactropen ointment should be applied to the affected area 3 times daily for up to 10 days. The safety and effectiveness of Mupirocin ointment have been established in the age range of 2 months to 16 years. Pediatric Use: The safety and effectiveness of Mupirocin have been established in the age range of 2 months to 16 years. Use of the ointment in these age groups is supported by evidence from adequate and well-controlled studies of Mupirocin in impetigo in pediatric patients."
@@ -1135,5 +1040,4 @@
     "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
     "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
   }
-  
 ]
