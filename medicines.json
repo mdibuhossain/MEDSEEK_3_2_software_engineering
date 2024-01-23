@@ -1,21 +1,63 @@
 [
   {
-    "name": "Napa",
+    "name": "Amdocal",
     "type": "Tablet",
-    "generic": "Paracetamol",
-    "strength": "500mg",
+    "generic": "Amlodipine Besilate",
+    "strength": "10mg",
     "company": "Beximco Pharmaceuticals Ltd.",
-    "indications": "Napa is indicated for fever, common cold and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum pain, inflammatory pain and post vaccination pain in children. It is also indicated for rheumatic & osteoarthritic pain and stiffness of joints.",
-    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "indications": ["Essential hypertension: Amdocal is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+    "Angina pectoris: Amdocal is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+    "Vasospastic angina: Amdocal is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."],
+    "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
     "dosage": {
       "tablet": [
-        "Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.",
-        "Children: ½ to 1 tablet 3 to 4 times daily. For long term treatment it is wise not to exceed the dose beyond 2.6 gm/day."
-      ],
-      "syrup": []
+        "Hypertension: Usual dose is 5 mg once daily. The maximum dose is 10 mg once daily. Elderly patients with hepatic insufficiency may be started on 2.5 mg once daily; this dose may also be used when adding Amlodipine to other antihypertensive therapy.",
+        "Angina (Chronic stable or Vasospastic): 5 to 10 mg, using the lower dose for elderly and in patients with hepatic insufficiency. Most patients require 10 mg."
+      ]
     },
-    "side effects": "Side effects of Napa are usually mild, though haematological reactions including thrombocytopenia, leucopenia, pancytopenia, neutropenia, and agranulocytosis have been reported. Pancreatitis, skin rashes, and other allergic reactions occur occasionally.",
-    "pregnancy & lactation": "Epidemiological studies in human pregnancy have shown no ill effects due to Paracetamol used in the recommended dosage, but patients should follow the advice of their doctor regarding its use. Paracetamol is excreted in breast milk, but not in a clinically significant amount. Available published data do not contraindicate breast feeding.",
-    "storage conditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+    "sideEffects": "The most common adverse effects of amlodipine are associated with vasodilatory action, such as dizziness, flushing, headache, hypotension and peripheral edema. Gastrointestinal disturbances, increased micturition frequency, lethargy, eye pain and mental depression may also occur. A paradoxical increase in ischaemic chest pain may occur at the start of the treatment and in a few patients excessive fall in blood pressure has led to cerebral or myocardial ischaemia or transient blindness. Rashes, fever and abnormalities in liver function due to hypersensitivity reaction of Amdocal may occur.",
+    "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
+    "storageConditions": " Keep all medicines out of reach of children. Store in a cool & dry place, protected from light."
+  },
+  {
+    "name": "Amlotab",
+    "type": "Tablet",
+    "generic": "Amlodipine Besilate",
+    "strength": "5mg",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": ["Essential hypertension: Amlotab is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+    "Angina pectoris: Amlotab is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+    "Vasospastic angina: Amlotab is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."],
+    "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
+    "dosage": {
+      "tablet": [
+        "Hypertension: Usual dose is 5 mg once daily. The maximum dose is 10 mg once daily. Elderly patients with hepatic insufficiency may be started on 2.5 mg once daily; this dose may also be used when adding Amlodipine to other antihypertensive therapy.",
+        "Angina (Chronic stable or Vasospastic): 5 to 10 mg, using the lower dose for elderly and in patients with hepatic insufficiency. Most patients require 10 mg."
+      ]
+    },
+    "sideEffects": "The most common adverse effects of amlodipine are associated with vasodilatory action, such as dizziness, flushing, headache, hypotension and peripheral edema. Gastrointestinal disturbances, increased micturition frequency, lethargy, eye pain and mental depression may also occur. A paradoxical increase in ischaemic chest pain may occur at the start of the treatment and in a few patients excessive fall in blood pressure has led to cerebral or myocardial ischaemia or transient blindness. Rashes, fever and abnormalities in liver function due to hypersensitivity reaction of Amlotab may occur.",
+    "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
+    "storageConditions": "Keep all medicines out of reach of children. Store in a cool & dry place, protected from light."
+  },
+
+  {
+    "name": "Amlopin",
+    "type": "Tablet",
+    "generic": "Amlodipine Besilate",
+    "strength": "5mg",
+    "company": "ACME Laboratories Ltd.",
+    "indications": ["Essential hypertension: Amlopin is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+    "Angina pectoris: Amlopin is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+    "Vasospastic angina: Amlopin is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."],
+    "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
+    "dosage": {
+      "tablet": [
+        "Hypertension: Usual dose is 5 mg once daily. The maximum dose is 10 mg once daily. Elderly patients with hepatic insufficiency may be started on 2.5 mg once daily; this dose may also be used when adding Amlodipine to other antihypertensive therapy.",
+        "Angina (Chronic stable or Vasospastic): 5 to 10 mg, using the lower dose for elderly and in patients with hepatic insufficiency. Most patients require 10 mg."
+      ]
+    },
+    "sideEffects": "The most common adverse effects of amlodipine are associated with vasodilatory action, such as dizziness, flushing, headache, hypotension and peripheral edema. Gastrointestinal disturbances, increased micturition frequency, lethargy, eye pain and mental depression may also occur. A paradoxical increase in ischaemic chest pain may occur at the start of the treatment and in a few patients excessive fall in blood pressure has led to cerebral or myocardial ischaemia or transient blindness. Rashes, fever and abnormalities in liver function due to hypersensitivity reaction of Amlotab may occur.",
+    "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
+    "storageConditions": "Keep all medicines out of reach of children. Store in a cool & dry place, protected from light."
   }
 ]
