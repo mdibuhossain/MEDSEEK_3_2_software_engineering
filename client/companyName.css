@@ -1,0 +1,18 @@
+/* h3{
+    color: blue;
+    
+} */
+.company img{
+    height: 80px;
+    width: auto;
+}
+.companyContainer{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;    
+}
+.companyContainer>div{
+    font-size: 30px;
+    margin: 20px;
+    padding: 5px;
+}
