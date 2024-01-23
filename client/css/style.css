@@ -43,11 +43,12 @@ body {
   align-items: center;
   background: none;
 }
-.nav-logo {
+.nav-logo a {
+  text-decoration: none;
   font-family: "Hunters";
   font-size: 5em;
   color: white;
-  text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.554);
 }
 .menu_list {
   display: flex;
@@ -61,7 +62,8 @@ body {
   font-size: 1em;
   color: white;
   font-weight: 600;
-  text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.59);
+  letter-spacing: 0.2rem;
+  text-shadow: 3px 1px 5px rgba(0, 0, 0, 0.45);
 }
 .menu_list li a::before {
   display: inline-block;
@@ -72,6 +74,7 @@ body {
   width: 0%;
   background: white;
   transition: 0.25s ease-out;
+  box-shadow: 1px 5px rgba(0, 0, 0, 0.1);
 }
 .menu_list li:hover a::before {
   width: 100%;
@@ -146,7 +149,7 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  .nav-logo {
+  .nav-logo a {
     font-size: 4em;
   }
   .search-bar-inner-container {
