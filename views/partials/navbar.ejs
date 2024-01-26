@@ -1,0 +1,56 @@
+<header>
+  <nav>
+    <div class="nav_container">
+      <div id="menu_icon_container">
+        <div id="menu_icon_hamburger">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 24 24">
+            <path
+              d="M4 22h-4v-4h4v4zm0-12h-4v4h4v-4zm0-8h-4v4h4v-4zm3 0v4h17v-4h-17zm0 12h17v-4h-17v4zm0 8h17v-4h-17v4z" />
+          </svg>
+        </div>
+      </div>
+      <div class="nav-logo">
+        <a href="/">medseek</a>
+      </div>
+      <div class="menu_container">
+        <div></div>
+        <div id="menu_icon_cancel">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+            <path
+              d="M23.954 21.03l-9.184-9.095 9.092-9.174-2.832-2.807-9.09 9.179-9.176-9.088-2.81 2.81 9.186 9.105-9.095 9.184 2.81 2.81 9.112-9.192 9.18 9.1z" />
+          </svg>
+        </div>
+        <ul class="menu_list">
+          <li><a href="/">HOME</a></li>
+          <li><a href="/medicine">MEDICINES</a></li>
+          <li><a href="/companies">COMPANIES</a></li>
+          <li><a href="#">ABOUT US</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+<script>
+  const menu_button = document.querySelector("#menu_icon_container");
+  const responsive_nav_container = document.querySelector(".menu_container");
+  const menu_list = document.querySelectorAll(".menu_list");
+  const hamburger_icon = document.querySelector("#menu_icon_hamburger");
+  const cancel_icon = document.querySelector("#menu_icon_cancel");
+  const toggle_menu = () => {
+    if (responsive_nav_container.classList.contains("show_menu_container")) {
+      responsive_nav_container.classList.remove("show_menu_container");
+      hamburger_icon.classList.remove("menu_icon_transform");
+      cancel_icon.classList.add("menu_icon_transform");
+    } else {
+      cancel_icon.classList.remove("menu_icon_transform");
+      hamburger_icon.classList.add("menu_icon_transform");
+      responsive_nav_container.classList.add("show_menu_container");
+    }
+  };
+  menu_list.forEach((list) => {
+    if (list.classList.contains("menu_list"))
+      list.addEventListener("click", toggle_menu);
+  });
+  cancel_icon.addEventListener("click", toggle_menu);
+  menu_button.addEventListener("click", toggle_menu);
+</script>

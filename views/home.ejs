@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <%- include("./partials/head.ejs") %>
+    <title>MedSeek</title>
+</head>
+
+<body id="home_bg">
+  <%- include("./partials/navbar.ejs") %>
+    <main>
+      <div class="search-bar-container">
+        <div class="search-bar-inner-container">
+          <input class="search-box" placeholder="Search" />
+          <div class="realtime-search-result-container"></div>
+        </div>
+      </div>
+    </main>
+</body>
+
+<script>
+  const searchBox = document.querySelector(".search-box");
+  const searchResultContainer = document.querySelector(
+    ".realtime-search-result-container"
+  );
+  const fetchAndSuggestResult = async (e) => {
+    const keyword = e.target.value.trim();
+    if (keyword.length > 0) {
+      const fetch_data = await fetch(`/api/medicine/search/${keyword}`);
+      const data = await fetch_data.json();
+      processDataInSearchResult(data);
+    } else {
+      searchResultContainer.innerHTML = ``;
+    }
+  };
+
+  const processDataInSearchResult = (data) => {
+    searchResultContainer.innerHTML = ``;
+    try {
+      data?.forEach((med) => {
+        const medCart = document.createElement("a");
+        medCart.setAttribute("key", med?._id);
+        medCart.setAttribute("href", `/medicine/${med?._id}`);
+        medCart.classList.add("search-med-cart");
+        medCart.onclick = handleOnClickResult;
+        medCart.innerHTML = `
+        <p>${med?.name} <span class="medicine-strength">${med?.strength}</span></p>
+        <p class="search-result-common-text medicine-type">${med?.type}</p>
+        <p class="search-result-common-text">${med?.generic}</p>
+        <p class="search-result-common-text">${med?.company}</p>
+    `;
+        searchResultContainer.appendChild(medCart);
+      });
+    } catch { }
+  };
+
+  const handleOnClickResult = (e) => {
+    const parentElement = e.target.parentElement;
+    const attrsName = parentElement.getAttributeNames();
+    let ID = "";
+    attrsName.forEach((at) => {
+      if (at === "key") ID = parentElement.getAttribute(at);
+    });
+  };
+  searchBox.addEventListener("input", fetchAndSuggestResult);
+</script>
+
+</html>
