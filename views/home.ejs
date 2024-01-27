@@ -10,21 +10,22 @@
   <%- include("./partials/navbar.ejs") %>
     <main>
       <div class="search-bar-container">
-        <div class="search-bar-inner-container">
+        <form class="search-bar-inner-container">
           <input class="search-box" placeholder="Search" />
           <div class="realtime-search-result-container"></div>
-        </div>
+        </form>
       </div>
     </main>
 </body>
 
 <script>
   const searchBox = document.querySelector(".search-box");
+  const searchForm = document.querySelector(".search-bar-inner-container");
   const searchResultContainer = document.querySelector(
     ".realtime-search-result-container"
   );
   const fetchAndSuggestResult = async (e) => {
-    const keyword = e.target.value.trim();
+    const keyword = e?.value?.trim() || searchBox.value.trim();
     if (keyword.length > 0) {
       const fetch_data = await fetch(`/api/medicine/search/${keyword}`);
       const data = await fetch_data.json();
@@ -62,7 +63,14 @@
       if (at === "key") ID = parentElement.getAttribute(at);
     });
   };
+
+  const onSubmitSearchFormHandler = (e) => {
+    e.preventDefault();
+    fetchAndSuggestResult();
+  }
+
   searchBox.addEventListener("input", fetchAndSuggestResult);
+  searchForm.addEventListener("submit", onSubmitSearchFormHandler);
 </script>
 
 </html>
