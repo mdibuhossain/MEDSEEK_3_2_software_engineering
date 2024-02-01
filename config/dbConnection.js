@@ -12,5 +12,8 @@ mongoose
       dbName: "medseek",
     }
   )
-  .then((data) => console.log("DB connected"))
+  .then((data) => {
+    const state = mongoose.STATES[mongoose.connection.readyState];
+    console.log("DB connection status: ", state);
+  })
   .catch((e) => console.error(e));
