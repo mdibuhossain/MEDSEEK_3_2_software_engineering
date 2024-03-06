@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Amdocal",
+    "type": "Tablet",
+    "generic": "Amlodipine Besilate",
+    "strength": "10mg",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "indications": [
+      "Essential hypertension: Amdocal is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+      "Angina pectoris: Amdocal is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+      "Vasospastic angina: Amdocal is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs."
+    ],
+    "pharmacology": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
+    "dosage": {
+      "tablet": [
+        "Hypertension: Usual dose is 5 mg once daily. The maximum dose is 10 mg once daily. Elderly patients with hepatic insufficiency may be started on 2.5 mg once daily; this dose may also be used when adding Amlodipine to other antihypertensive therapy.",
+        "Angina (Chronic stable or Vasospastic): 5 to 10 mg, using the lower dose for elderly and in patients with hepatic insufficiency. Most patients require 10 mg."
+      ]
+    },
+    "sideEffects": "The most common adverse effects of amlodipine are associated with vasodilatory action, such as dizziness, flushing, headache, hypotension and peripheral edema. Gastrointestinal disturbances, increased micturition frequency, lethargy, eye pain and mental depression may also occur. A paradoxical increase in ischaemic chest pain may occur at the start of the treatment and in a few patients excessive fall in blood pressure has led to cerebral or myocardial ischaemia or transient blindness. Rashes, fever and abnormalities in liver function due to hypersensitivity reaction of Amdocal may occur.",
+    "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
+    "storageConditions": " Keep all medicines out of reach of children. Store in a cool & dry place, protected from light."
+  }
+]
