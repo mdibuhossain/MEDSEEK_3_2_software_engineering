@@ -1,5 +1,5 @@
 [
-  {
+{
     "name": "Amdocal",
     "type": "Tablet",
     "generic": "Amlodipine Besilate",
@@ -20,5 +20,230 @@
     "sideEffects": "The most common adverse effects of amlodipine are associated with vasodilatory action, such as dizziness, flushing, headache, hypotension and peripheral edema. Gastrointestinal disturbances, increased micturition frequency, lethargy, eye pain and mental depression may also occur. A paradoxical increase in ischaemic chest pain may occur at the start of the treatment and in a few patients excessive fall in blood pressure has led to cerebral or myocardial ischaemia or transient blindness. Rashes, fever and abnormalities in liver function due to hypersensitivity reaction of Amdocal may occur.",
     "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
     "storageConditions": " Keep all medicines out of reach of children. Store in a cool & dry place, protected from light."
-  }
+},
+
+{
+    "name": "Ace-Vet",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "2000 mg",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": [
+      "Recovery from fever, pain (headache, earache, body ache, neuralgia, pain due to intestinal inflammation, rheumatoid fever, post vaccination pain, post delivery pain, post operative pain) and tissue swollen resulting from trauma, injury, burn or any other infectious diseases of both Animal & Poultry.",
+      "Ace-Vet bolus does not create any apparent gross lesions or histopathological lesions in visceral organs.",
+      "Ace-Vet bolus does not cause any Nephrotoxicity and can be used safely."
+    ],
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Cattle: 1 bolus/130-140 kg body weight thrice daily for 3 days.",
+        "Poultry: 1 bolus/10-litre drinking water and administered 2-3 times daily for 4-5 days."
+      ]
+    },
+    "sideEffects": "Side effects of Ace-Vet bolus does are significantly mild, though hematological reactions have been reported. Pancreatitis, skin rashes and other allergic reactions occur occasionally.",
+    "pregnancy_lactation": "Paracetamol bolus does is safe in all stages of pregnancy and lactation.",
+    "storageConditions": "Protect from light, store in a cool and dry place. Keep out of reach of children."
+},
+
+{
+    "name": "Opifen",
+    "type": "Buccal Tablet",
+    "generic": "Fentanyl Citrate",
+    "strength": "100 mcg",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": [
+      "Opifen is indicated for the management of breakthrough pain in patients with cancer who are already receiving and who are tolerant to opioid therapy for their underlying persistent cancer pain. Patients considered opioid tolerant are those who are taking at least 60 mg of oral morphine/day, at least 25 mcg of transdermal Opifen/hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer."
+    ],
+    "pharmacology": "Fentanyl is an opioid analgesic. Fentanyl interacts predominately with the opioid mu-receptor but also binds to kappa and delta-type opioid receptors. These mu-binding sites are discretely distributed in the human brain, spinal cord, and other tissues. In clinical settings, Fentanyl exerts its principal pharmacologic effects on the central nervous system. Its primary actions of therapeutic value are analgesia and sedation. Fentanyl may increase the patient's tolerance for pain and decrease the perception of suffering, although the presence of the pain itself may still be recognized. In addition to analgesia, alterations in mood, euphoria and dysphoria, and drowsiness commonly occur. Fentanyl depresses the respiratory centers, depresses the cough reflex, and constricts the pupils.",
+    "dosage": {
+      "tablet": [
+        "Starting Dose: The initial dose of Fentanyl should be 100 mcg.",
+        "Re-dosing patients within a single episode: Dosing may be repeated once during a single episode of breakthrough pain if pain is not adequately relieved by one Fentanyl dose. Re-dosing may occur 30 minutes after the start of administration of Fentanyl and the same dosage strength should be used.",
+        "Increasing the dose: Titration should be initiated using multiples of the 100 mcg Fentanyl tablet. Patients require to titrate above 100 mcg can be instructed to use two 100 mcg tablets (one on each side of the mouth in the buccal cavity). If this dose is not successful in controlling the breakthrough pain episode, the patient may be instructed to place two 100 mcg tablets on each side of the mouth in the buccal cavity (total of four 100 mcg tablets). Titrate above 400 mcg by 200 mcg increments bearing in mind using more than 4 tablets simultaneously has not been studied and it is important to minimize the number of strengths available to patients at any time to prevent confusion and possible overdose. To reduce the risk of overdose during titration, patients should have only one strength of Fentanyl tablet available at any one time."
+      ]
+    },
+    "sideEffects": "As with other narcotic analgesics, the most common serious adverse reactions reported to occur with Opifen are respiratory depression, apnoea, muscular rigidity, myoclonic movements, and bradycardia. Respiratory depression is more likely to occur with intravenous administration if a dose is given too rapidly and it rarely occurs with intramuscular administration.",
+    "pregnancy_lactation": "There are no adequate and well-controlled studies in pregnant women. Fentanyl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Fentanyl is excreted in human milk; therefore Fentanyl should not be used in nursing women because of the possibility of sedation and/or respiratory depression in their infants.",
+    "storageConditions": "Store between 20-25°C. Protect from light."
+},
+
+{
+    "name": "Cholecalciferol [Vitamin D3]",
+    "type": "Capsule",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "strength": "20000 IU",
+    "company": "Jenphar Bangladesh Ltd.",
+    "indications": [
+      "Vitamin D3 deficiency can occur in people whose exposure to sunlight is limited and in those whose diet is deficient in vitamin D3. Vitamin D3 is essential for the effective calcium and phosphate absorption required for healthy bones and teeth,preventing rickets, osteomalacia and osteoporosis. Vitamin D3 is also essential to prevent pre-eclampsia during pregnancy and breast feeding as it is an essential nutrient for a growing infant. Vitamin D3 has vital role on immunity boost up."
+    ],
+    "pharmacology": "The active form of Vitamin D3, Calcitriol, exerts its effect by binding to the Vitamin D receptors (VDRs) which are widely distributed through many body tissues.Vitamin D3 has a half life of about 50 days as it is fat soluble.Vitamin D3 is absorbed in the small intestine and bound to specific a-globulins and transported to the liver where it is metabolised to 25-hydroxy Vitamin D3 (Calcidiol). A second hydroxylation to 1,25-dihydroxy Vitamin D3 (Calcitriol) occurs in the kidney. This metabolite is responsible for the vitamin's ability to increase the absorption of calcium. Non-metabolised Vitamin D3 is stored in tissues such as fat and muscle.Vitamin D3 is eliminated via faeces and urine.",
+    "dosage": {
+      "capsule": [
+        "Adults: Treatment of Vitamin D3 deficiency: 40000 IU once weekly for 7 weeks. Doses for maintenance therapy is 1400-2000 IU/day. To confirm the target level of 25 hydroxyvitamin D, measurement of it should be determined 3-4 months after initiating the maintenance therapy.",
+        "Children (12-18 years): Treatment of Vitamin D3 deficiency: 20000 IU once every 2 weeks for 6 weeks."
+      ]
+    },
+    "sideEffects": "Symptoms rarely include anorexia, lassitude, nausea & vomiting, diarrhea, constipation, weight loss, polyuria, sweating, headache, thirst, vertigo, and raised concentrations of calcium and phosphate in plasma and urine.",
+    "pregnancy_lactation": "Studies have shown safe use of doses up to 4000 IU during pregnancy. The recommended daily intake for pregnant women is 400 IU, however, in women who are considered to be Vitamin D3 deficient a higher dose may be required. During pregnancy women should follow the advice of their medical practitioner as their requirements may vary depending on the severity of their disease and their response to treatment. Vitamin D3 and its metabolites are excreted in breast milk. Overdose in infants induced by nursing mothers has not been observed; however, when prescribing additional vitamin D3 to a breast-fed child the practitioner should consider the dose of any additional vitamin D3 given to the mother.",
+    "storageConditions": "Keep below 30º C temperature, protected from light & moisture. Keep out of the reach of children."
+},
+
+{
+    "name": "Glicron CR",
+    "type": "Capsule (Controlled Release)",
+    "generic": "Gliclazide",
+    "strength": "30 mg",
+    "company": "Renata Limited",
+    "indications": [
+      "Glicron CR is a medicine that reduces blood sugar levels (oral antidiabetic medicine belonging to the sulphonylurea group). Glicron CR is used in a certain form of diabetes (type 2 diabetes Mellitus) in adults, when diet, exercise and weight loss alone do not have an adequate effect on keeping blood sugar at the correct level."
+    ],
+    "pharmacology": "Gliclazide is a second generation sulfonylurea drug that has hypoglycaemic and potentially useful hematological properties. It stimulates the release of insulin from pancreatic β-cells by facilitating Ca+2 transport across the β-cell membranes and decreases hepatic glucose output.",
+    "dosage": {
+      "tablet": [
+        "Film-coated tablet: The usual initial dose is 40 to 80 mg daily. The dose can be increased up to 320 mg daily in divided doses when needed. The drug should be taken before meal. For children, Gliclazide is not used because it is contraindicated in juvenile-onset diabetes.",
+        "Modified release preparation: Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure. The dose is determined by the doctor, depending on your blood and possibly urine sugar levels. Change in external factors (weight reduction, lifestyle, stress) or improvements in the blood sugar control may require changed gliclazide doses."
+      ]
+    },
+    "sideEffects": "Like all medicines, Glicron CR can cause side effects, although not everybody gets them. The most commonly observed side effect is low blood sugar (hypoglycaemia). If left untreated these symptoms could progress to drowsiness, loss of consciousness or possibly coma. If an episode of low blood sugar is severe or prolonged, even if it is temporarily controlled by eating sugar, you should seek immediate medical attention.",
+    "pregnancy_lactation": "Gliclazide is not recommended for use during pregnancy. If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. You must not take Gliclazide while you are breastfeeding.",
+    "storageConditions": "Keep out of the reach and sight of children. Do not use this medicine after the expiry date which is stated on the carton and the blister. The expiry date refers to the last day of that month. Store below 30°C. Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment."
+},
+
+{
+    "name": "Xinolax DR",
+    "type": "Capsule (Delayed Release)",
+    "generic": "Duloxetine Hydrochloride",
+    "strength": "20 mg",
+    "company": "Opsonin Pharma Ltd.",
+    "indications": [
+      " Xinolax DR is a serotonin and norepinephrine reuptake inhibitor (SNRI) indicated for- ",
+      "1. Major Depressive Disorder (MDD)",
+      "2. Generalized Anxiety Disorder (GAD)",
+      "3. Diabetic Peripheral Neuropathic Pain (DPNP) ",
+      "4. Fibromyalgia and",
+      "5. Chronic Musculoskeletal Pain."
+    ],
+    "pharmacology": "Duloxetine Hydrochloride is a selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration. Duloxetine is a less potent inhibitor of dopamine reuptake. Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors in vitro. Duloxetine does not inhibit monoamine oxidase (MAO). Orally administered Duloxetine hydrochloride is well absorbed. Elimination of Duloxetine is mainly through hepatic metabolism.",
+    "dosage": {
+      "tablet": [
+        "Film-coated tablet: The usual initial dose is 40 to 80 mg daily. The dose can be increased up to 320 mg daily in divided doses when needed. The drug should be taken before meal. For children, Gliclazide is not used because it is contraindicated in juvenile-onset diabetes.",
+        "Modified release preparation: Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure. The dose is determined by the doctor, depending on your blood and possibly urine sugar levels. Change in external factors (weight reduction, lifestyle, stress) or improvements in the blood sugar control may require changed gliclazide doses."
+      ]
+    },
+    "sideEffects": "The most commonly observed adverse events in Xinolax DR treated patients were nausea, dizziness, dry mouth, constipation, decreased appetite, fatigue, somnolence, increased sweating, hyperhidrosis and asthenia. It may slightly increase blood pressure. No clinically significant differences were observed for QT, PR, and QRS intervals between Xinolax DR-treated and placebo-treated patients.",
+    "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women; therefore, Duloxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Do not store above 30°C. Keep away from light and out of the reach of children."
+},
+
+{
+    "name": "Canalia",
+    "type": "Capsule (Enteric Coated Pellets)",
+    "generic": "Dexlansoprazole",
+    "strength": "30 mg",
+    "company": "Aristopharma Ltd.",
+    "indications": [
+      "Healing of Erosive Esophagitis: Canalia is indicated for the healing of all grades of erosive esophagitis (EE) for up to 8 weeks.",
+      "Maintenance of Healed Erosive Esophagitis: Canalia is indicated to maintain healing of EE and relief of heartburn for up to 6 months.",
+      "Symptomatic Non-Erosive Gastroesophageal Reflux Disease: Canalia is indicated for the treatment of heartburn associated with symptomatic non-erosive Gastroesophageal Reflux Disease (GERD) for 4 weeks."
+    ],
+    "pharmacology": "Dexlansoprazole delayed-release capsule is a Proton Pump Inhibitor (PPI) which suppresses gastric acid secretion by specific inhibition of the (H+/k+)-ATPase in the gastric parietal cell. By acting specifically on the proton pump, Dexlansoprazole blocks the final step of acid production. It is the R-enantiomer of lansoprazole (A racemic mixture of the R- and S-enantiomers). Dexlansoprazole is supplied as a Dual Delayed Release (DDR) formulation in a capsule for oral administration. This capsule contains a mixture of two types of enteric coated granules with different pH-dependent dissolution profiles. The dual delayed release formulation in dexlansoprazole, plasma concentration-time profile with two distinct peaks; the first peak occurs 1 to 2 hours after administration, followed by a second peak within 4 to 5 hours. After oral administration, mean Cmax and AUC value of Dexlansoprazole increased approximately dose proportionally. Dexlansoprazole is extensively metabolized in the liver and excreated by urine.",
+    "dosage": {
+      "tablet": [
+        "Maintenance of Healed erosive esophagitis and relief of heartburn: 30 mg Once daily.",
+        "Symptomatic Non-Erosive GERD: 30 mg Once daily for 4 weeks.",
+        "Healing of erosive esophagitis: 60 mg Once daily for up to 8 weeks"
+      ]
+    },
+    "sideEffects": "Common side effects: Diarrhea, abdominal pain, nausea, vomiting & flatulence.",
+    "pregnancy_lactation": "Pregnancy Category B. There is no adequate and well-controlled studies with Dexlansoprazole in pregnant women. There is no adequate and well-controlled studies with Dexlansoprazole in Lactating mother.",
+    "storageConditions": "Store below 30°C temperature & in a dry place, protected from light. Keep all medicines out of reach of children."
+},
+
+{
+    "name": "Alzacare",
+    "type": "Capsule (Extended Release)",
+    "generic": "Memantine + Donepezil",
+    "strength": "7 mg + 10 mg",
+    "company": "Renata Limited",
+    "indications": [
+      "Memantine and donepezil hydrochlorides extended-release capsules are a combination of memantine hydrochloride, an NMDA receptor antagonist, and donepezil hydrochloride, an acetylcholinesterase inhibitor, indicated for the treatment of moderate to severe dementia of the Alzheimer’s type in patients stabilized on 10 mg of donepezil hydrochloride once daily."
+    ],
+    "pharmacology": "Memantine and donepezil hydrochlorides extended-release capsules contain two approved medications: memantine hydrochloride extended-release and donepezil hydrochloride. Each of those medications is postulated to have a different mechanism in Alzheimer’s disease.",
+    "dosage": {
+      "tablet": [
+        "For patients on donepezil hydrochloride 10 mg only, the recommended starting dose of memantine and donepezil hydrochlorides extended-release capsules is 7 mg/10 mg, taken once daily in the evening. The dose should be increased in 7 mg increments to the recommended maintenance dose of 28 mg/10 mg. The minimum recommended interval between dose increases is one week."
+      ]
+    },
+    "sideEffects": "The most common adverse reactions, occurring at a frequency of at least 5% and greater than placebo with memantine hydrochloride extended-release 28 mg/day, were headache, diarrhea, and dizziness. The most common adverse reactions occurring at a frequency of at least 5% in patients receiving donepezil and at twice or more the placebo rate, include diarrhea, anorexia, vomiting, nausea, and ecchymosis.",
+    "pregnancy_lactation": "There are no adequate data on the developmental risk associated with the use of memantine and donepezil hydrochlorides extended-release capsules or its active ingredients (memantine hydrochloride and donepezil hydrochloride) in pregnant women. There are no data on the presence of memantine or donepezil in human milk, the effects on the breastfed infant, or the effects of memantine and donepezil hydrochlorides extended-release capsules or its metabolites on milk production.",
+    "storageConditions": "Keep below 30°C temperature, away from light & moisture. Keep out of the reach of children."
+},
+{
+    "name": "Hi-Flow",
+    "type": "Capsule (Modified Release)",
+    "generic": "Tamsulosin  Hydrochloride",
+    "strength": "0.4 mg",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "indications": [
+      "Hi-Flow Hydrochloride is indicated for the treatment of functional symptoms of Benign Prostatic Hyperplasia (BPH)."
+    ],
+    "pharmacology": "Tamsulosin, a selective alpha1 adrenoceptor blocking agent, exhibits its selectivity for alpha1 A adrenoceptors in human prostate. Blockade of these adrenoceptors can cause smooth muscle in the bladder neck and prostate to relax, resulting in an improvement in urine flow rate and a reduction in symptoms of BPH. Absorption of Tamsulosin hydrochloride capsule 0.4mg is essentially complete (90%) following oral administration under fasting conditions. The time to maximum concentration (Tmax) is reached by four to five hours under fasting conditions and by six to seven hours when administered with food. Tamsulosin hydrochloride is extremely bound to human plasma protein (94% to 99%). Tamsulosin hydrochloride is extensively metabolized by cytochrome P 450 enzymes in the liver and less than 10% of the dose is excreted in urine as unchanged form. Following intravenous or oral administration of an immediate-release formulation the elimination half-life of Tamsulosin hydrochloride in plasma ranges from five to seven hours. Because of the absorption rate controlled pharmacokinetics with Prostam capsules, the apparent half-life of Tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.",
+    "dosage": {
+      "tablet": [
+        "Tamsulosin Hydrochloride 0.4 mg (one capsule) daily, to be taken after meal at night. The dose may be increased after 2 to 4 weeks, if necessary, to Tamsulosin Hydrochloride 0.8 mg (two capsules) once daily. If Tamsulosin Hydrochloride administration is discontinued or interrupted for several days at either the 0.4 mg or 0.8 mg dose, therapy should be started again with the Tamsulosin Hydrochloride 0.4 mg (one capsule) once daily dose. The capsule should be swallowed whole with a glass of water (about 150 ml) in the standing or sitting position. The capsule should not be crunched or chewed, as this will interfere with the modified release of the active ingredient."
+      ]
+    },
+    "sideEffects": "The following adverse reactions have been reported during the use of Hi-Flow: dizziness, abnormal ejaculation and; less frequently headache, asthenia, postural hypotension and palpitations.",
+    "pregnancy_lactation": "Use of Tamsulosin in pregnancy and lactation is not recommended.",
+    "storageConditions": "Store in a cool and dry place, below 30°C, protected from light."
+},
+{
+    "name": "Diclo TR",
+    "type": "Capsule (Timed Release)",
+    "generic": "Diclofenac Sodium",
+    "strength": "100 mg",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "indications": [
+      "Rheumatology: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.",
+      "Surgery and Traumatology: Sprain, bruises, dislocations, fractures, softtissue injuries, surgical interventions.",
+      "Obstetrics and Gynecology: Primary dysmenorrhoea, episiotomy, adnexitis, endometritis, parametritis, salpingitis, and mastitis.",
+      "Otorhinolaryngology: As pre-operative medication for the prevention of pain, inflammation, and swelling.",
+      "Other indications: For the prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract, renal and biliary colic."
+    ],
+    "pharmacology": "Dilofenac Sodium is a potent non-steroidal anti-inflammatory drug (NSAID) with pronounced anti-rheumatic, anti-inflammatory, analgesic and antipyretic properties. It has also some uricosuric effect. Diclofenac exerts its effect by inhibiting prostaglandin biosynthesis which plays a major role in causing inflammation, pain and fever. Diclofenac is rapidly and completely absorbed from the gastro-intestinal tract when taken with or after meal. Peak plasma concentrations are reached within an average of 2 hours after ingestion of it. At therapeutic concentrations, it is 99.7% bound to plasma proteins. Diclofenac is metabolized in the liver and undergoes first pass metabolism.",
+    "dosage": {
+      "tablet": [
+        "Diclofenac FC Tablet: Adults: 75-150 mg daily in 2 to 3 divided doses, preferably after food. Dose should be reduced in long term use. "
+      ]
+    },
+    "sideEffects": "Diclo TR is generally well tolerated. Adverse effects are mild, rare and transient. At the starting of the treatment, however, patients may be sometimes complaining of epigastric pain, eructation, nausea and diarrhea or dizziness or headache. These effects are usually mild in nature. Peripheral edema and skin reactions, such as rash and eczema have also been encountered. Diclo TR Gel may cause local irritation and reddening of the skin and skin rash.",
+    "pregnancy_lactation": "During pregnancy, Diclofenac should be employed only for compelling reasons. The lowest effective dose should be used. These types of drugs are not recommended during the first trimester of pregnancy. In view of insufficient clinical data, Diclofenac Sodium Gel is not recommended during pregnancy. A very insignificant quantity of Diclofenac may be detected in breast milk but no undesirable effects on the infant to be expected.",
+    "storageConditions": "Store in a cool and dry place, protected from light. Store below 30°C. Keep out of the reach of children."
+},
+{
+    "name": "Anadol SR",
+    "type": "Capsule (Sustained Release)",
+    "generic": "Tramadol Hydrochloride",
+    "strength": "100 mg",
+    "company": "Square Pharmaceuticals PLC",
+    "indications": [
+      "Anadol SR is used for the treatment of moderate to severe painful conditions. These include: ",
+      "Postoperative pain",
+      "Colic and spastic pain",
+      "Cancer pain",
+      "Joint pain",
+      "Neck and back pain",
+      "Pain associated with osteoporosis."
+    ],
+    "pharmacology": "Tramadol is a centrally acting synthetic analgesic compound. It inhibits the re uptake of neurotransmitters- serotonin and noradrenaline. Thus it modifies the transmission of pain impulses by activating both descending serotonergic pathways and noradrenergic pathways involved in analgesia. The analgesic effects of Tramadol are mediated via stimulation of mu-opioid receptors and indirect modulation of central monoaminergic inhibitory pathways.",
+    "dosage": {
+      "tablet": [
+        ": Usual doses are 50 to 100 mg every four to six hours. For acute pain an initial dose of 100 mg is required. For chronic painful conditions an initial dose of 50 mg is recommended. Subsequent doses should be 50 to 100 mg administered 4-6 hourly. The dose level and frequency of dosing will depend on the severity of the pain.The total daily dosage by mouth should not exceed 400 mg."
+      ]
+    },
+    "sideEffects": "Commonly occurring side-effects are dizziness/vertigo, nausea, constipation, headache, somnolence, vomiting, pruritus, CNS stimulation, asthenia, sweating, dyspepsia, dry mouth, diarrhoea. Less commonly occurring side-effects include malaise, allergic reaction, weight loss, vasodilatation, palpitations, abdominal pain, anorexia, flatulence, GI bleeding, hepatitis, stomatitis etc.",
+    "pregnancy_lactation": "Safe use of Tramadol in pregnancy has not been established. Tramadol has been shown to cross the placenta. There are no adequate and well-controlled studies in pregnant women. Therefore, Tramadol should be used during pregnancy only if the potential benefit justifies the risk to the foetus. Tramadol Hydrochloride should not be administered during breast feeding as Tramadol and its metabolites have been detected in breast milk.",
+    "storageConditions": "Keep below 30°C temperature, away from light & moisture. Keep out of the reach of children."
+}
+
 ]
