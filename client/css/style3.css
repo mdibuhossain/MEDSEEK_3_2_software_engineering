@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Hunters";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../font/Hunters.otf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../font/Poppins-Regular.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-style: none;
+  box-sizing: border-box;
+  font-family: "Poppins";
+  letter-spacing: 0.1225rem;
+}
+body {
+  font-family: montserrat;
+}
+
+#menu_icon_container,
+#menu_icon_cancel {
+  display: none;
+}
+.nav_container {
+  height: 120px;
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: green;
+}
+.nav-logo {
+  font-family: "Hunters";
+  font-size: 5em;
+  color: white;
+  text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.554);
+}
+.menu_list {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+.menu_list li {
+  position: relative;
+}
+.menu_list li a {
+  font-size: 1em;
+  color: white;
+  font-weight: 600;
+  text-shadow: 1px 1px 15px rgba(0, 0, 0, 0.59);
+}
+.menu_list li a::before {
+  display: inline-block;
+  position: absolute;
+  bottom: 0;
+  content: "";
+  height: 3px;
+  width: 0%;
+  background: white;
+  transition: 0.25s ease-out;
+}
+.menu_list li:hover a::before {
+  width: 100%;
+}
+
+/* medicine list */
+.body_containar {
+  margin: 25px 100px 40px;
+}
+.discription {
+  background-color: plum;
+  padding-left: 50px;
+  width: 600px;
+}
+.containar {
+  margin-top: 20px;
+  height: auto;
+  width: 95%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.list {
+    padding-left: 5px;
+    height: 130px;
+    width: 95%;
+}
+.list:hover {
+  background-color: aqua;
+}
