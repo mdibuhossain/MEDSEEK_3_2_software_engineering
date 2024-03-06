@@ -2630,4 +2630,76 @@
     "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
     "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
   }
+
+  {
+    "name": "Cholvax",
+    "type": "Oral Suspension",
+    "generic": "Oral Cholera Vaccine",
+    "strength": "1.5 ml/vial",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Cholvax is indicated for active immunization against Vibrio cholerae. The vaccine can be administered to anyone above the age of 1 year. Data for the safety and efficacy of the vaccine in infants (less than 1 year of age) is not available. The earliest onset of protection can be expected 7-10 days after the completion of the primary series of the vaccine. Efficacy against Vibrio cholerae serogroup O139 was not demonstrated.",
+    "pharmacology": "This Cholera Vaccine for oral use, is a turbid, white or brownish suspension free of aggregates and extraneous particles. The vaccine is formulated with required quantity of V. cholerae O139 and O1 (serotypeInaba and Ogawa) inactivated by heat and formaldehyde.",
+    "dosage": "The recommended dose of the vaccine (1.5 ml) is to be administered orally. The primary immunization schedule consists of two doses given at an interval of at least two weeks. Cholera vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.<br /><br />Method of administration: The vaccine is presented as a suspension. After vigorous shaking of the vial, 1.5 ml should be poured into the mouth of the recipient. The vaccine administration may be optionally followed by water to facilitate ingestion, if needed. The vaccine can alternatively be administered with a disposable syringe (without needle) after removing the contents from the vial and squirted into the mouth of the recipient. The vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.",
+    "sideEffects": "The following adverse events are known to occur with cholera vaccine use. Acute gastroenteritis, diarrhea, fever, vomiting, abdominal pain, itching, rash, nausea, weakness, cough, vertigo, dryness of mouth, oral ulcer (rare), sore throat (rare) and yellowing of urine (rare). It has been observed that the incidence of adverse events is less after the second dose as compared to the first.",
+    "pregnancy_lactation": "No specific clinical studies have been performed to evaluate the safety and immunogenicity of cholera vaccine in pregnant women and for the fetus. However, administration of cholera vaccine to pregnant women and nursing mother may be considered after careful evaluation of the benefits and risks in case of a medical emergency or an epidemic.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Do not freeze. Discard vaccine if frozen. Protect from light."
+  }
+
+  {
+    "name": "Dukoral",
+    "type": "Oral Suspension",
+    "generic": "Oral Cholera Vaccine",
+    "strength": "3 ml/vial",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "indications": "Dukoral is indicated for active immunization against Vibrio cholerae. The vaccine can be administered to anyone above the age of 1 year. Data for the safety and efficacy of the vaccine in infants (less than 1 year of age) is not available. The earliest onset of protection can be expected 7-10 days after the completion of the primary series of the vaccine. Efficacy against Vibrio cholerae serogroup O139 was not demonstrated.",
+    "pharmacology": "This Cholera Vaccine for oral use, is a turbid, white or brownish suspension free of aggregates and extraneous particles. The vaccine is formulated with required quantity of V. cholerae O139 and O1 (serotypeInaba and Ogawa) inactivated by heat and formaldehyde.",
+    "dosage": "The recommended dose of the vaccine (1.5 ml) is to be administered orally. The primary immunization schedule consists of two doses given at an interval of at least two weeks. Cholera vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.<br /><br />Method of administration: The vaccine is presented as a suspension. After vigorous shaking of the vial, 1.5 ml should be poured into the mouth of the recipient. The vaccine administration may be optionally followed by water to facilitate ingestion, if needed. The vaccine can alternatively be administered with a disposable syringe (without needle) after removing the contents from the vial and squirted into the mouth of the recipient. The vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.",
+    "sideEffects": "The following adverse events are known to occur with cholera vaccine use. Acute gastroenteritis, diarrhea, fever, vomiting, abdominal pain, itching, rash, nausea, weakness, cough, vertigo, dryness of mouth, oral ulcer (rare), sore throat (rare) and yellowing of urine (rare). It has been observed that the incidence of adverse events is less after the second dose as compared to the first.",
+    "pregnancy_lactation": "No specific clinical studies have been performed to evaluate the safety and immunogenicity of cholera vaccine in pregnant women and for the fetus. However, administration of cholera vaccine to pregnant women and nursing mother may be considered after careful evaluation of the benefits and risks in case of a medical emergency or an epidemic.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Do not freeze. Discard vaccine if frozen. Protect from light."
+  }
+
+  {
+    "name": "Rabivax",
+    "type": "Injection",
+    "generic": "Rabies Vaccine",
+    "strength": "2.5 IU/ml",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "indications": "Rabivax is indicated for prophylactic immunization against rabies and treatment of patients following suspected rabies contact.",
+    "pharmacology": "Rabies Vaccine for human use is a freeze-dried preparations of inactivated rabies virus produced on Vero cell. After reconstitution the vaccine is a clear, colorless sterile solution for intramuscular use. Pre-exposure Immunization: *Professional groups exposed to frequent contamination *Veterinary surgeons (including students at veterinary colleges) *Technical personnel working with veterinary surgeons *Laboratory personnel handling material contaminated with rabies vims *Personnel in abattoirs and knackers yards *Taxidermists *Gamekeepers, forestry workers and naturalists in enzootic areas *Infants particularly exposed to the risk of rabies. Post-exposure Immunization: *Treatment of subjects bitten by rabid animals or those suspected of being so *Treatment of contact subjects.",
+    "dosage": "To reconstitute the vaccine, transfer content of supplied diluent into the vial containing freeze-dried preparation. Do not shake. After reconstitution the solution should be homogeneous, clear and free from any particles. Vaccine must be injected immediately after reconstitution and the syringe should be destroyed after use.",
+    "sideEffects": "Minor local reactions like pain, erythema, oedema, pruritus and induration at the injection site and lasting to 24-48 hours. Moderate fever, shivering, fainting, asthenia, dizziness, respiratory manifestations (dyspnoea, wheezing), fever, abdominal pain, vomiting and allergic skin reactions (urticaria, rash, itching).",
+    "pregnancy_lactation": "Pregnancy: The potential risk of administration of rabies vaccine during pregnancy is unknown. Due to the severity of the disease, pregnancy is not considered to be a contraindication to post-exposure prophylaxis. Lactation: It is not known whether the vaccine is excreted in human breast milk. Due to the severity of the disease, breast-feeding is not considered a contraindication.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Protect from light. Do not keep in the deep freeze."
+  }
+
+  {
+    "name": "Influvax Tetra",
+    "type": "Injection",
+    "generic": "Inactivated Influenza Vaccine",
+    "strength": "0.5 ml/pre-filled syringe",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Prophylaxis of influenza (flu), especially in those who run an increased risk of associated complications. The use of Influvax Tetra should be based on official recommendations.",
+    "pharmacology": " ",
+    "dosage": "Adults and children over 36 months of age: 0.5ml. Children from 6 to 35 months of age: clinical data are limited. Doses of 0.25 ml or 0.5 ml have been used.",
+    "sideEffects": "No side effect",
+    "pregnancy_lactation": "The limited data from vaccinations in pregnant women do not indicate that adverse foetal and maternal outcomes were attributable to the vaccine. The use of this vaccine may be considered from the second trimester of pregnancy. For pregnant women with medical conditions that increase their risk of complications from influenza, administration of the vaccine is recommended, irrespective of their stage of pregnancy. Inactivated Influenza Vaccine may be used during lactation.",
+    "storageConditions": "Influvax Tetra must be stored in a refrigerator (2° C-8° C). Do not freeze. Keep the syringe in the outer carton in order to protect from light. Any unused product or waste material should be disposed of in accordance with local requirements."
+  }
+
+  {
+    "name": "Influvax Tetra",
+    "type": "Injection",
+    "generic": "Inactivated Influenza Vaccine",
+    "strength": "0.5 ml/pre-filled syringe",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Prophylaxis of influenza (flu), especially in those who run an increased risk of associated complications. The use of Influvax Tetra should be based on official recommendations.",
+    "pharmacology": " ",
+    "dosage": "Adults and children over 36 months of age: 0.5ml. Children from 6 to 35 months of age: clinical data are limited. Doses of 0.25 ml or 0.5 ml have been used.",
+    "sideEffects": "No side effect",
+    "pregnancy_lactation": "The limited data from vaccinations in pregnant women do not indicate that adverse foetal and maternal outcomes were attributable to the vaccine. The use of this vaccine may be considered from the second trimester of pregnancy. For pregnant women with medical conditions that increase their risk of complications from influenza, administration of the vaccine is recommended, irrespective of their stage of pregnancy. Inactivated Influenza Vaccine may be used during lactation.",
+    "storageConditions": "Influvax Tetra must be stored in a refrigerator (2° C-8° C). Do not freeze. Keep the syringe in the outer carton in order to protect from light. Any unused product or waste material should be disposed of in accordance with local requirements."
+  }
+
+
 ]
