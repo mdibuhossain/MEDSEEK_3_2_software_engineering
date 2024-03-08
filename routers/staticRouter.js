@@ -11,11 +11,11 @@ router.get("/companies", async (req, res) => {
   try {
     const companies = await Medicine.find({}).distinct("company");
     res.render("companies", { companies });
-  } catch {}
+  } catch { }
 });
 
-router.get("/medicine", (req, res) => {
-  res.render("medicine");
+router.get("/medicines", (req, res) => {
+  res.render("medicineCategories");
 });
 
 router.get("/medicine/:slug", async (req, res) => {
