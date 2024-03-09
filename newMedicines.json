@@ -244,6 +244,127 @@
     "sideEffects": "Commonly occurring side-effects are dizziness/vertigo, nausea, constipation, headache, somnolence, vomiting, pruritus, CNS stimulation, asthenia, sweating, dyspepsia, dry mouth, diarrhoea. Less commonly occurring side-effects include malaise, allergic reaction, weight loss, vasodilatation, palpitations, abdominal pain, anorexia, flatulence, GI bleeding, hepatitis, stomatitis etc.",
     "pregnancy_lactation": "Safe use of Tramadol in pregnancy has not been established. Tramadol has been shown to cross the placenta. There are no adequate and well-controlled studies in pregnant women. Therefore, Tramadol should be used during pregnancy only if the potential benefit justifies the risk to the foetus. Tramadol Hydrochloride should not be administered during breast feeding as Tramadol and its metabolites have been detected in breast milk.",
     "storageConditions": "Keep below 30°C temperature, away from light & moisture. Keep out of the reach of children."
+},
+    {
+    "name": "AB-DS",
+    "type": "Chewable Tablet",
+    "generic": "Albendazole",
+    "strength": "400 mg",
+    "company": "Prime Pharmaceuticals Ltd.",
+    "indications": [
+      "AB-DS is indicated in single and mixed infestations of- Hookworm (Ancylostoma, Necator), Roundworm (Ascaris), Threadworm (Enterobius), Whipworm (Trichuris), Strongyloides, Tapeworm, Opisthorchi, Hydatid."
+    ],
+    "pharmacology": "Albendazole is a broad spectrum anthelmintic. Albendazole exhibits vermicidal, ovicidal and larvicidal activities. The drug is thought to exert its anthelmintic effect by blocking glucose uptake in the susceptible helminths, thereby depleting the energy level until it becomes inadequate for survival. Immobilization is followed by the parasite. These events may be a consequence of the binding and subsequent inhibition of parasite tubulin polymerization by Albendazole and its metabolites, although the drug also binds to human tubulin. Albendazole is extensively metabolized, probably in the liver. Albendazole is poorly absorbed from the gastrointestinal tract but rapidly undergoes extensive first-pass metabolism. The principal metabolite albendazole sulphoxide has anthelmintic activity and a plasma half-life of about 8.5 hrs. It is excreted in the urine together with other metabolites.",
+    "dosage": {
+      "tablet": [
+        "Adults & children over 2 years: 400 mg (1 tablet or 10 ml suspension) as a single dose in cases of Enterobius vermicularis, Trichuris trichiura, Ascaris lumbricoides, Ancylostoma duodenale and Necator americanus.",
+        "Children of 1-2 years: Recommended dose is a single dose of 200 mg (5 ml suspension).",
+        "Children under 1 year: Not recommended."
+      ]
+    },
+    "sideEffects": "Gastrointestinal disturbances, headache, dizziness, changes in liver enzymes, rarely reversible alopecia; rash, fever, blood disorders including leucopenia and pancytopenia reported; allergic shock if cyst leakage; convulsion and meningism in cerebral disease.",
+    "pregnancy_lactation": "US FDA Pregnancy category of Albendazole is C. So, Albendazole should be avoided in pregnancy and lactation unless the potential benefits to the other outweigh the possible risks to the fetus.",
+    "storageConditions": "Keep in a dry place, away from light and heat. Keep out of the reach of children."
+},
+{
+  "name": "Calgum JR",
+  "type": "Chewing Gum Tablet",
+  "generic": "Calcium Carbonate [Elemental source] + Vitamin D3",
+  "strength": "250 mg+250 IU",
+  "company": "Eskayef Pharmaceuticals Ltd.",
+  "indications": [
+    "Calgum JR is used for treatment of osteoporosis, osteomalacia, rickets, tetany and in parathyroid disease. Calcium supplements are often used to ensure adequate dietary intake in conditions such as pregnancy & lactation, osteogenesis and tooth formation (adjunct with definite treatment) and therapy with anti-seizure medications. It is also used as routine supplement and phosphate binder in chronic renal failure."
+  ],
+  "pharmacology": "This is the preparation of Calcium Carbonate and Vitamin D3 (Cholecalciferol). Calcium is necessary for many normal functions of our body, especially bone formation and maintenance. Vitamin D3 helps for the absorption & reabsorption of Calcium. Vitamin D3 also stimulates bone formation. Clinical studies showed that Calcium and Vitamin D3 all together helps in bone growth, and in prevention of osteoporosis & bone fracture.",
+  "dosage": {
+    "tablet": [
+      "Calcium 500 mg and Vitamin D3 200 IU Tablet: 2 tablets daily or 1 tablet twice daily. It is best taken with or just after a meal to improve absorption. ",
+      "Calcium 500 mg and Vitamin D3 400 IU Tablet: 1 tablet twice daily. It is best taken with or just after a meal to improve absorption."
+    ]
+  },
+  "sideEffects": "It is generally well tolerated. If there is experience like nausea, vomiting, stomach cramps, dry mouth, increased thirst, increased urination while taking, noticed to physicians. Constipation may occur.",
+  "pregnancy_lactation": "This combination should be used as directed by physician during pregnancy or while breast-feeding.",
+  "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+},
+{
+  "name": "Aclene",
+  "type": "Cream",
+  "generic": "Adapalene",
+  "strength": "0.1%",
+  "company": "Drug International Ltd.",
+  "indications": [
+    "Aclene cream or gel is indicated for topical treatment of acne vulgaris."
+  ],
+  "pharmacology": "Adapalene acts on retinoid receptors that are commonly found in the skin of face, back and chest. Biochemical and pharmacological studies have demonstrated that Adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes, all of that represent important features in the pathology of acne vulgaris. Adapalene binds with specific retinoic acid nuclear receptors that normalize the differentiation of follicular epithelial cells resulting in decreased microcomedone formation. Absorption of Adapalene through human skin is low.",
+  "dosage": {
+    "Cream": [
+      "Adapalene 0.1%: It should be applied to the affected areas of skin, once daily at night-time.",
+      "Adapalene 0.3%: It should be applied to the entire face and any other affected areas of the skin, once daily in the evening.",
+      "Children below 12 years of age: Safety and effectiveness in children below 12 years of age have not been established."
+    ]
+  },
+  "sideEffects": "Erythema, scaling, dryness, pruritus, burning sensation, skin irritation, stinging unburn, acne flares, etc. are commonly seen during the first month of therapy but usually lessen with continued use of the medication.",
+  "pregnancy_lactation": "Use Adapalene during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether this drug is excreted in breast milk. Exercise caution when administering Adapalene to a nursing mother.",
+  "storageConditions": "Store in a cool (below 25°C) and dry place protected from light and moisture. Keep out of the reach of children. Keep the tube tightly closed after use."
+},
+{
+  "name": "Oratics",
+  "type": "Dental Gel",
+  "generic": "Benzocaine",
+  "strength": "20% w/w",
+  "company": "ACME Laboratories Ltd.",
+  "indications": [
+    "For the temporary relief of pain due to minor injury or irritation of the mouth and gums like Toothache, Sore gums, Canker sores, Braces, Minor dental procedures, Dentures"
+  ],
+  "pharmacology": "Benzocaine, an ester local anaesthetic, blocks the initiation and conduction of nerve impulses by decreasing the neuronal membrane’s permeability to Na ions, which results in inhibition of depolarisation with resultant blockade of conduction.",
+  "dosage": {
+    "Gel": [
+      "Apply to the affected area up to 4 times daily or as directed by a doctor/dentist. Children under 12 years of age should be supervised during the use of this product. Children under 2 years of age should be consulted to a doctor/dentist prior to the use of this product. An easy application might be done by fixing applicator on the tube’s nozzle. After application, supplied cap should be fixed on top of the applicator."
+    ]
+  },
+  "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
+  "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
+  "storageConditions": "Store between 15-30° C."
+},
+{
+  "name": "Orogel",
+  "type": "Dental Gel",
+  "generic": "Benzocaine",
+  "strength": "20%",
+  "company": "Square Pharmaceuticals PLC",
+  "indications": [
+    "For the temporary relief of pain due to minor injury or irritation of the mouth and gums like Toothache, Sore gums, Canker sores, Braces, Minor dental procedures, Dentures"
+  ],
+  "pharmacology": "Benzocaine, an ester local anaesthetic, blocks the initiation and conduction of nerve impulses by decreasing the neuronal membrane’s permeability to Na ions, which results in inhibition of depolarisation with resultant blockade of conduction.",
+  "dosage": {
+    "Gel": [
+      "Apply to the affected area up to 4 times daily or as directed by a doctor/dentist. Children under 12 years of age should be supervised during the use of this product. Children under 2 years of age should be consulted to a doctor/dentist prior to the use of this product. An easy application might be done by fixing applicator on the tube’s nozzle. After application, supplied cap should be fixed on top of the applicator."
+    ]
+  },
+  "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
+  "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
+  "storageConditions": "Store between 15-30° C."
+},
+
+{
+  "name": "Hemosol-B",
+  "type": "Dialysis Solution",
+  "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
+  "strength": "20%",
+  "company": "Square Pharmaceuticals PLC",
+  "indications": [
+    "Hemosol-B [HCO3 Hemodialysis Solution] solution is indicated in renal failure, Chronic renal failure and Haemodialysis. Hemosol-B serves a crucial biochemical role in the physiological pH buffering system."
+  ],
+  "pharmacology": "Sodium chloride is the major extracellular cation. It is important in electrolyte and fluid balance, osmotic pressure control and water distribution as it restores sodium ions. It is used as a source of electrolytes and water for hydration, treatment of metabolic acidosis, priming solution in haemodialysis and treatment of hyperosmolar diabetes. It is also used as diluents for infusion of compatible drug additives. Sodium bicarbonate raises blood and urinary pH by dissociation to provide bicarbonate ions, which neutralises the hydrogen ion concentration. It also neutralises gastric acid via production of carbon dioxide.",
+  "dosage": {
+    "Gel": [
+      "Acidic component & Bicarbonate Component should be used in the dilution ratio of- Acidic component: 1.00 Volume, Bicarbonate Component: 1.83 Volume, Purified Water: 34.00 Volume."
+    ]
+  },
+  "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
+  "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
+  "storageConditions": "Keep out of reach of children. Not for Injection. Store below 30°C."
 }
 
 ]
+
