@@ -12,7 +12,16 @@
       <section class="body_containar">
         <h2 class="discription">List of Available Dosage Forms</h2>
         <div class="containar">
+          <% medForms.map((cat)=>{ %>
           <a href="MedicinesList2.html">
+            <div class="list">
+              <h4><%= cat %></h4>
+              <p>93 brand names</p>
+            </div>
+          </a>
+          <% }) %>
+
+          <!-- <a href="MedicinesList2.html">
             <div class="list">
               <h4>Bolus Tablet</h4>
               <p>93 brand names</p>
@@ -167,7 +176,7 @@
               <h4>Bolus Tablet</h4>
               <p>93 brand names</p>
             </div>
-          </a>
+          </a> -->
         </div>
       </section>
     </main>

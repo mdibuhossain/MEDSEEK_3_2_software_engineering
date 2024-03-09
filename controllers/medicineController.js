@@ -3,8 +3,8 @@ const Medicine = require("../models/medicineModel");
 module.exports.getAll = async (req, res) => {
   try {
     res.status(200).json(await Medicine.find({}));
-  } catch {
-    res.status(500).json({ message: "Something went wrong!" });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
   }
 };
 module.exports.getSingleMedicine = async (req, res) => {
@@ -17,8 +17,8 @@ module.exports.getSingleMedicine = async (req, res) => {
     } else {
       res.status(404).json({ message: "Search ID not valid!" });
     }
-  } catch {
-    res.status(500).json({ message: "Something went wrong!" });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
   }
 };
 module.exports.getBySearch = async (req, res) => {
@@ -37,7 +37,7 @@ module.exports.getBySearch = async (req, res) => {
     } else {
       res.status(404).json({ message: "Search keyword not valid!" });
     }
-  } catch {
-    res.status(500).json({ message: "Something went wrong!" });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
   }
 };
