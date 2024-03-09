@@ -16,7 +16,24 @@ router.get("/companies", async (req, res) => {
 
 router.get("/medicines", async (req, res) => {
   try {
-    const medForms = await Medicine.find({}).distinct("type");
+    const { type } = req.query;
+    console.log(type);
+    if (type) {
+      const meds = await Medicine.find({
+        $or: [{ type: { $regex: new RegExp("^" + type + "$", "i") } }],
+      });
+      return res.render("medicines", { meds });
+    }
+    const pipeline = [
+      {
+        $group: {
+          _id: "$type", // Replace with the field you want to group by
+          count: { $sum: 1 }, // Count occurrences of each unique value
+        },
+      },
+      { $sort: { _id: 1 } },
+    ];
+    const medForms = await Medicine.aggregate(pipeline);
     return res.render("medicineCategories", { medForms });
   } catch (error) {
     return res.status(500).json({ message: error.message });

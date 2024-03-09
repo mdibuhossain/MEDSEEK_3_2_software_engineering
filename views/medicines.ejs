@@ -9,13 +9,18 @@
     <%- include("./partials/navbar.ejs") %>
     <main>
       <section class="body_containar">
-        <h2 class="title">List of Available Dosage Forms</h2>
+        <h2 class="title">
+          <%= meds[0].type %>
+          <span style="font-weight: 100; font-size: large;">Available brand names</span>
+        </h2>
         <div class="containar">
-          <% medForms.map((cat)=>{ %>
-          <a href="?type=<%= cat._id %>">
+          <% meds.map((med)=>{ %>
+          <a href="medicine/<%= med._id %>">
             <div class="list">
-              <h4><%= cat._id %></h4>
-              <p><%= cat.count %> brand names</p>
+              <h4><%= med.name %></h4>
+              <p><%= med.strength %></p>
+              <p><%= med.generic %></p>
+              <p><%= med.company %></p>
             </div>
           </a>
           <% }) %>

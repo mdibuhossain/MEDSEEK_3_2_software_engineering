@@ -7,13 +7,25 @@ nav {
 }
 
 .body_containar {
-  padding: 25px 100px 40px;
+  padding: 25px 90px 40px;
 }
 
-.discription {
-  background-color: rgba(221, 160, 221, 0.247);
+.title {
+  background-color: rgba(221, 160, 221, 0.171);
   max-width: 600px;
-  padding-left: 10px;
+  padding-left: 15px;
+  font-size: x-large;
+  color: #435b66;
+  margin-left: 10px;
+  position: relative;
+}
+.title::before {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 8px;
+  left: 0;
+  background: #435b66;
 }
 .containar {
   display: grid;
@@ -21,13 +33,20 @@ nav {
   margin-top: 20px;
 }
 .list {
-  padding: 20px 10px;
+  padding: 20px 0px;
+  padding-left: 10px;
   width: auto;
+  transition: 0.12s;
 }
 .list:hover {
   background-color: aqua;
 }
+.list:hover > h4 {
+  color: #4ab832;
+  filter: blur(0.5px);
+}
 .list > h4 {
+  font-size: large;
   color: #7ecb6c;
 }
 .list > p {
