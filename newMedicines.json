@@ -466,6 +466,186 @@
   "sideEffects": "Like all medicines, Aceten can cause side effects, although not everybody gets them. In very rare cases, severe immune reactions may occur such as anaphylactic shock and severe skin reaction. In rare cases the oral administration can be followed by shortness of breath, upset stomach and bronchospasm. The most frequent side effects are headache, increased heart rate, stomatitis, pruritus, urticaria, nausea, vomiting, abdominal pain, fever, decrease in the blood pressure, diarrhoea and noises in the ears.",
   "pregnancy_lactation": "In case of pregnancy & lactation the medicine should be taken consulting physician or pharmacist.",
   "storageConditions": "Store in a cool and dry place, protected from light."
+},
+    {
+  "name": "Ascab",
+  "type": "Emulsion",
+  "generic": "Benzyl Benzoate",
+  "strength": "25%",
+  "company": "Hudson Pharmaceuticals Ltd.",
+  "indications": [
+    "Ascab is indicated for scabies"
+  ],
+  "pharmacology": "Benzyl benzoate is an acaricide that is used in the treatment of scabies. Benzyl benzoate exerts toxic effects on the nervous system of the parasite, resulting in its death. It is also toxic to mite ova, though its exact mechanism of action is unknown. In vitro, benzyl benzoate has been found to kill the Sarcoptes mite within 5 minutes.",
+  "dosage": {
+    "": [
+      "Adults: Apply 3 times at 12 hourly intervals over the whole body, wash-off 12 hr after the last application."
+    ]
+  },
+  "sideEffects": "Irritant to eyes and mucous membranes, allergic dermatitis reactions, drying effects in the elderly.",
+  "pregnancy_lactation": "Pregnancy Category: Not Classified. FDA has not yet classified the drug into a specified pregnancy category.",
+  "storageConditions": "Store below 25°C."
+},
+{
+  "name": "Scabex",
+  "type": "Emulsion",
+  "generic": "Benzyl Benzoate",
+  "strength": "25%",
+  "company": "Supreme Pharmaceutical Ltd.",
+  "indications": [
+    "Ascab is indicated for scabies"
+  ],
+  "pharmacology": "Benzyl benzoate is an acaricide that is used in the treatment of scabies. Benzyl benzoate exerts toxic effects on the nervous system of the parasite, resulting in its death. It is also toxic to mite ova, though its exact mechanism of action is unknown. In vitro, benzyl benzoate has been found to kill the Sarcoptes mite within 5 minutes.",
+  "dosage": {
+    "": [
+      "Adults: Apply 3 times at 12 hourly intervals over the whole body, wash-off 12 hr after the last application."
+    ]
+  },
+  "sideEffects": "Irritant to eyes and mucous membranes, allergic dermatitis reactions, drying effects in the elderly.",
+  "pregnancy_lactation": "Pregnancy Category: Not Classified. FDA has not yet classified the drug into a specified pregnancy category.",
+  "storageConditions": "Store below 25°C."
+},
+{
+  "name": "Propofol",
+  "type": "Emulsion for infusion",
+  "generic": "Propofol",
+  "strength": "200 mg/20 ml",
+  "company": "Techno Drugs Ltd.",
+  "indications": [
+    "Induction and maintenance of general anaesthesia. Sedation during intensive care. Sedation for surgical and diagnostic procedures."
+  ],
+  "pharmacology": "Propofol is a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation). The action of propofol involves a positive modulation of the inhibitory function of the neurotransmitter gama-aminobutyric acid (GABA) through GABA-A receptors.",
+  "dosage": {
+    "": [
+      "Adults: The dosage of Propofol should be titrated individually against the response of the patient. The ordinary initial dosage in adults is 40 mg (4 ml) by slow intravenous bolus injection at intervals of 10 seconds until the clinical signs show the onset of anaesthesia. The ordinary induction dose in healthy patient below 55 years of age is 2.2-2.5 mg/kg. A dose of 1.0-1.5 mg/kg is often sufficient for older patient. Lower doses, most often 20 mg (2 ml) at intervals of 10 seconds, are recommended for patient of ASA grades 3 and 4."
+    ]
+  },
+  "sideEffects": "Hypotension and transient apnea may occur at the induction of anaesthesia, and may be severe especially in patients who are in a poor general condition. Epileptic movement, convulsions and dystonic reactions have been seen in rare cases. Pulmonary oedema has also been reported. Headache, nausea and, more rarely, vomiting may occur in some patients during recovery. Recovery may also be associated with another short period of impaired consciousness. Hypersensitivity has been reported in some cases, connected with anaphylactic symptoms such as marked hypotension, bronchospasm, oedema and facial erythema. Some cases of cardiac arrest have occurred in connection with the administration of Propofol. In connection with long-term administration of Propofol, green or reddish brown discolouration of urine may occur. This is caused by the quinol metabolites of Propofol, and is not dangerous. As with other anaesthetics, altered sexual behaviour may occur.",
+  "pregnancy_lactation": "Due to insufficient experience, propofol shall not be used during pregnancy. Propofol is rapidly distributed to the foetus and shall therefore not be used for obstetric anaesthesia. Safety to the neonate has not been established in cases, where propofol has been administered to lactating women.",
+  "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+},
+
+{
+  "name": "Urokit",
+  "type": "Extended-Release Tablet (Wax Matrix",
+  "generic": "Potassium Citrate",
+  "strength": "1060 mg",
+  "company": "Eskayef Pharmaceuticals Ltd.",
+  "indications": [
+    "Renal Tubular Acidosis (RTA) With Calcium Stones: Urokit citrate is indicated for the management of renal tubular acidosis",
+    "Hypocitraturic Calcium Oxalate Nephrolithiasis Of Any Etiology: Urokit is indicated for the management of Hypocitraturic calcium oxalate nephrolithiasis",
+    "Uric Acid Lithiasis With Or Without Calcium Stones: Urokit is indicated for the management of Uric acid lithiasis with or without calcium stones"
+  ],
+  "pharmacology": "When Potassium Citrate is given orally, the metabolism of absorbed citrate produces an alkaline load. The induced alkaline load in turn increases urinary pH and raises urinary citrate by augmenting citrate clearance without measurably altering ultrafilterable serum citrate. Thus, Potassium Citrate therapy appears to increase urinary citrate principally by modifying the renal handling of citrate, rather than by increasing the filtered load of citrate. The increased filtered load of citrate may play some role, however, as in small comparisons of oral citrate and oral bicarbonate, citrate had a greater effect on urinary citrate.",
+  "dosage": {
+    "tablet": [
+      "Treatment with extended release potassium citrate should be added to a regimen that limits salt intake (avoidance of foods with high salt content and of added salt at the table) and encourages high fluid intake (urine volume should be at least two liters per day). The objective of treatment with Potassium Citrate is to provide Potassium Citrate in sufficient dosage to restore normal urinary citrate (greater than 320 mg/day and as close to the normal mean of 640 mg/day as possible), and to increase urinary pH to a level of 6.0 or 7.0. Monitor serum electrolytes (sodium, potassium, chloride and carbon dioxide), serum creatinine and complete blood counts every four months and more frequently in patients with cardiac disease, renal disease or acidosis. Perform electrocardiograms periodically. Treatment should be discontinued if there is hyperkalemia, a significant rise in serum creatinine or a significant fall in blood hemocrit or hemoglobin."
+    ]
+  },
+  "sideEffects": "Nausea, vomiting, diarrhea, and stomach pain may occur. Taking it after meals will help prevent these side effects. An empty tablet shell may appear in your stool. This is harmless because your body has already absorbed the medication. Urokit may cause serious stomach or intestinal problems (e.g., bleeding, blockage, puncture). This medication may cause high potassium levels in the blood (hyperkalemia). A very serious allergic reaction to Urokit is rare.",
+  "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have not been conducted. It is also not known whether Potassium Citrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Potassium Citrate should be given to a pregnant woman only if clearly needed.",
+  "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+},
+{
+  "name": "Urilit",
+  "type": "Extended-Release Tablet (Wax Matrix",
+  "generic": "Potassium Citrate",
+  "strength": "1080 mg",
+  "company": "Opsonin Pharma Ltd.",
+  "indications": [
+    "Renal Tubular Acidosis (RTA) With Calcium Stones: Urokit citrate is indicated for the management of renal tubular acidosis",
+    "Hypocitraturic Calcium Oxalate Nephrolithiasis Of Any Etiology: Urokit is indicated for the management of Hypocitraturic calcium oxalate nephrolithiasis",
+    "Uric Acid Lithiasis With Or Without Calcium Stones: Urokit is indicated for the management of Uric acid lithiasis with or without calcium stones"
+  ],
+  "pharmacology": "When Potassium Citrate is given orally, the metabolism of absorbed citrate produces an alkaline load. The induced alkaline load in turn increases urinary pH and raises urinary citrate by augmenting citrate clearance without measurably altering ultrafilterable serum citrate. Thus, Potassium Citrate therapy appears to increase urinary citrate principally by modifying the renal handling of citrate, rather than by increasing the filtered load of citrate. The increased filtered load of citrate may play some role, however, as in small comparisons of oral citrate and oral bicarbonate, citrate had a greater effect on urinary citrate.",
+  "dosage": {
+    "tablet": [
+      "Treatment with extended release potassium citrate should be added to a regimen that limits salt intake (avoidance of foods with high salt content and of added salt at the table) and encourages high fluid intake (urine volume should be at least two liters per day). The objective of treatment with Potassium Citrate is to provide Potassium Citrate in sufficient dosage to restore normal urinary citrate (greater than 320 mg/day and as close to the normal mean of 640 mg/day as possible), and to increase urinary pH to a level of 6.0 or 7.0. Monitor serum electrolytes (sodium, potassium, chloride and carbon dioxide), serum creatinine and complete blood counts every four months and more frequently in patients with cardiac disease, renal disease or acidosis. Perform electrocardiograms periodically. Treatment should be discontinued if there is hyperkalemia, a significant rise in serum creatinine or a significant fall in blood hemocrit or hemoglobin."
+    ]
+  },
+  "sideEffects": "Nausea, vomiting, diarrhea, and stomach pain may occur. Taking it after meals will help prevent these side effects. An empty tablet shell may appear in your stool. This is harmless because your body has already absorbed the medication. Urokit may cause serious stomach or intestinal problems (e.g., bleeding, blockage, puncture). This medication may cause high potassium levels in the blood (hyperkalemia). A very serious allergic reaction to Urokit is rare.",
+  "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have not been conducted. It is also not known whether Potassium Citrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Potassium Citrate should be given to a pregnant woman only if clearly needed.",
+  "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+},
+{
+  "name": "Citra-K",
+  "type": "Extended-Release Tablet (Wax Matrix",
+  "generic": "Potassium Citrate",
+  "strength": "1080 mg",
+  "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+  "indications": [
+    "Renal Tubular Acidosis (RTA) With Calcium Stones: Urokit citrate is indicated for the management of renal tubular acidosis",
+    "Hypocitraturic Calcium Oxalate Nephrolithiasis Of Any Etiology: Urokit is indicated for the management of Hypocitraturic calcium oxalate nephrolithiasis",
+    "Uric Acid Lithiasis With Or Without Calcium Stones: Urokit is indicated for the management of Uric acid lithiasis with or without calcium stones"
+  ],
+  "pharmacology": "When Potassium Citrate is given orally, the metabolism of absorbed citrate produces an alkaline load. The induced alkaline load in turn increases urinary pH and raises urinary citrate by augmenting citrate clearance without measurably altering ultrafilterable serum citrate. Thus, Potassium Citrate therapy appears to increase urinary citrate principally by modifying the renal handling of citrate, rather than by increasing the filtered load of citrate. The increased filtered load of citrate may play some role, however, as in small comparisons of oral citrate and oral bicarbonate, citrate had a greater effect on urinary citrate.",
+  "dosage": {
+    "tablet": [
+      "Treatment with extended release potassium citrate should be added to a regimen that limits salt intake (avoidance of foods with high salt content and of added salt at the table) and encourages high fluid intake (urine volume should be at least two liters per day). The objective of treatment with Potassium Citrate is to provide Potassium Citrate in sufficient dosage to restore normal urinary citrate (greater than 320 mg/day and as close to the normal mean of 640 mg/day as possible), and to increase urinary pH to a level of 6.0 or 7.0. Monitor serum electrolytes (sodium, potassium, chloride and carbon dioxide), serum creatinine and complete blood counts every four months and more frequently in patients with cardiac disease, renal disease or acidosis. Perform electrocardiograms periodically. Treatment should be discontinued if there is hyperkalemia, a significant rise in serum creatinine or a significant fall in blood hemocrit or hemoglobin."
+    ]
+  },
+  "sideEffects": "Nausea, vomiting, diarrhea, and stomach pain may occur. Taking it after meals will help prevent these side effects. An empty tablet shell may appear in your stool. This is harmless because your body has already absorbed the medication. Urokit may cause serious stomach or intestinal problems (e.g., bleeding, blockage, puncture). This medication may cause high potassium levels in the blood (hyperkalemia). A very serious allergic reaction to Urokit is rare.",
+  "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have not been conducted. It is also not known whether Potassium Citrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Potassium Citrate should be given to a pregnant woman only if clearly needed.",
+  "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+},
+{
+  "name": "Pase OFT",
+  "type": "Flash Tablet",
+  "generic": "Clonazepam",
+  "strength": "0.5 mg",
+  "company": "Opsonin Pharma Ltd.",
+  "indications": [
+    "It is indicated for the treatment of panic disorder, with or without agoraphobia. Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks. It is also indicated alone or as an adjunct in the treatment of the Lennox-Gastaut Syndrome (petit mal variant), akinetic and myoclonic seizures. It may be indicated in patients with absence seizures (petit mal) who have failed to respond to succinimides.The effectiveness of Pase OFT in long-term use, that is, for more than 9 weeks, has not been systematically studied in controlled clinical trials. The physician who elects to use Pase OFT for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient."
+  ],
+  "pharmacology": "Clonazepam exhibits pharmacological properties which are common to benzodiazepines and include anticonvulsive, sedative, muscle relaxing and anxiolytic effects. The central actions of benzodiazepines are mediated through an enhancement of the GABAergic neurotransmission at inhibitory synapses. In the presence of benzodiazepines the affinity of the GABA receptor for the neurotransmitter is enhanced through positive allosteric modulation resulting in an increased action of released GABA on the postsynaptic transmembrane chloride ion flux.",
+  "dosage": {
+    "tablet": [
+      "Adults: The initial dose for adults with seizure disorders should not exceed 1.5 mg/day divided into three doses. Dosage may be increased in increments of 0.5 to 1 mg every 3 days until seizures are adequately controlled or until side effects preclude any further increase. Maintenance dosage must be individualized for each patient depending upon response. Maximum recommended daily dose is 20 mg.",
+      "The initial dose for adults with panic disorder is 0.25 mg given in two divided dose. An increase to the target dose for most patients of 1 mg/day may be made after 3 days.",
+      "Pediatric Patients: In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses."
+    ]
+  },
+  "sideEffects": "The most frequently occurring side effects of Pase OFT are referable to CNS depression. Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%. In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients. Abnormal eye movements, aphonia, coma, tremor, vertigo, confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis & palpitations may also occur.",
+  "pregnancy_lactation": "From preclinical studies it cannot be excluded that clonazepam possesses the possibility of producing congenital malformations. From epidemiological evaluations there is evidence that anticonvulsant drugs act as teratogens. However, it is difficult to determine from published epidemiological reports which drug or combination of drugs is responsible for defects in the newborn. The possibility also exists that other factors e.g. genetic factors or the epileptic condition itself may be more important than drug therapy in leading to birth defects. Under these circumstances, the drug should only be administered to pregnant women if the potential benefits outweigh the risk to the foetus. During pregnancy, Clonazepam may be administered only if there is a compelling indication. Administration of high doses in the last trimester of pregnancy or during labour can cause irregularities in the heartbeat of the unborn child and hypothermia, hypotonia, mild respiratory depression and poor feeding in the neonate. It should be borne in mind that both pregnancy itself and abrupt discontinuation of the medication can cause exacerbation of epilepsy. Withdrawal symptoms in newborn infants have occasionally been reported with benzodiazepines.",
+  "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+},
+{
+  "name": "Colagel",
+  "type": "Gel",
+  "generic": "L-Lysine Hydrochloride",
+  "strength": "15%",
+  "company": "Incepta Pharmaceuticals Ltd.",
+  "indications": [
+    "For the treatment and prevention of infection in cuts, wounds abrasion, surgical incisions and burns. For the treatment of decubitus or stasis ulcers, advance chronic wounds, infected traumatic lesions etc."
+  ],
+  "pharmacology": "The active ingredient, Lysine hydrochloride is an essential amino acid, soluble in water; has been observed to promote in-situ cellular expansion in acute and chronic wound beds, in presence of blood plasma derived growth factor(s). The essential amino acid promotes healing of wounds by active and controlled regeneration of in-situ cells. It also protects the wounds against common organisms.",
+  "dosage": {
+    "": [
+      "Gel or Ointment may be used as often as required, preferably at an interval of 24, 48, 72 hrs. The affected areas should be cleaned with normal saline and/or surgically if necessary till the wound bed looks red/few bleeding points appear in the cleaned wound bed. Then gel should be applied liberally. The areas may be covered with a moist dressing and/or a bandage."
+    ]
+  },
+  "sideEffects": "Slight itching sensation might be there on application.",
+  "pregnancy_lactation": "No information provided.",
+  "storageConditions": "Store in a cool and dry place, protected from light."
+},
+{
+  "name": "Aclene Plus",
+  "type": "Gel",
+  "generic": "Adapalene + Benzoyl peroxide",
+  "strength": "0.1%+2.5%",
+  "company": "Drug International Ltd.",
+  "indications": [
+    "Adapalene & Benzoyl peroxide gel is indicated for the topical treatment of acne vulgaris in patients 12 years of age and older."
+  ],
+  "pharmacology": "Adapalene & Benzoyl peroxide gel is indicated for the topical treatment of acne vulgaris in patients 12 years of age and older. Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that Adapalene is a modulator of cellular differentiation, keratinization and inflammatory processes. Adapalene binds with specific retinoic acid nuclear receptors that normalize the differentiation of follicular epithelial cells resulting in decreased microcomedone formation. Benzoyl peroxide is an oxidizing agent with bacteriocidal and keratolytic effects..",
+  "dosage": {
+    "": [
+      "Gel or Ointment may be used as often as required, preferably at an interval of 24, 48, 72 hrs. The affected areas should be cleaned with normal saline and/or surgically if necessary till the wound bed looks red/few bleeding points appear in the cleaned wound bed. Then gel should be applied liberally. The areas may be covered with a moist dressing and/or a bandage."
+    ]
+  },
+  "sideEffects": "Erythema, scaling, dryness, and stinging/ burning may occur. Most commonly reported adverse events are dry skin, contact dermatitis, application site burning, application site irritation, and skin irritation.",
+  "pregnancy_lactation": "There are no well-controlled trials in pregnant women treated with Adapalene and Benzoyl peroxide. Animal reproduction studies have not been conducted with the combination gel or Benzoyl peroxide. Furthermore, such studies are not always predictive of human response; therefore, this preparation should be used during pregnancy only if the potential benefit justifies the risk to the fetus. It is not known whether Adapalene or Benzoyl peroxide is excreted in human milk following use. Caution should be exercised when administered to a nursing woman.",
+  "storageConditions": "Store in a cool (below 25°C) and dry place protected from light and moisture. Keep out of the reach of children. Keep the tube tightly closed after use."
 }
 
 ]
