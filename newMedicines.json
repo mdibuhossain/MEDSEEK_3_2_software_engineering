@@ -364,6 +364,108 @@
   "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
   "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
   "storageConditions": "Keep out of reach of children. Not for Injection. Store below 30°C."
+},
+    {
+  "name": "Alistin DT",
+  "type": "Dispersible Tablet",
+  "generic": "Acetylcysteine",
+  "strength": "600 mg",
+  "company": "Opsonin Pharma Ltd.",
+  "indications": [
+    "Alistin DT is indicated as an adjuvant treatment in certain clinical condition characterized by the presence of thick and viscous mucoid or mucopurulent secretions such as: Chronic bronchopulmonary diseases (chronic obstructive pulmonary disease, emphysema with bronchitis, chronic asthmatic bronchitis, bronchiectasis); Acute bronchopulmonary diseases (asthma with bronchial mucus plugging, bronchitis, bronchopneumonia, tracheobronchitis, bronchiolitis, pulmonary complications of cystic fibrosis, pulmonary complications associated with surgery)."
+  ],
+  "pharmacology": "Acetylcysteine is a mucolytic agent that reduces the viscosity of secretions probably by the splitting of disulphide bonds in mucoproteins. Moreover it gives antisecretory effect. These results in clearing of respiratory ducts and facilitate breathing. Acetylcysteine also has anti-oxidant properties by reacting with free radicals and also by serving as a precursor to glutathione, which is an important intra and extra-cellular antioxidant. By providing anti-oxidant action, it neutralizes exogenous and endogenous oxidants, which in fact act as pathogens in respiratory inflammations.",
+  "dosage": {
+    "tablet": [
+      "Adults and children above 6 years: One effervescent tablet of Acetylcysteine 600 mg a day (preferably in the evening). The duration of treatment should be 5 to 10 days in the acute treatment, whereas it may be continued in the chronic states for several months, according to the advice of the physician. Dissolve the tablets in a glass containing a small quantity of water, mixing it, if necessary, with a spoon. A palatable solution is thus obtained, which can be drunk directly from the glass."
+    ]
+  },
+  "sideEffects": "Like all medicines, Alistin DT can cause side effects, although not everybody gets them. In very rare cases, severe immune reactions may occur such as anaphylactic shock and severe skin reaction. In rare cases the oral administration can be followed by shortness of breath, upset stomach and bronchospasm. The most frequent side effects are headache, increased heart rate, stomatitis, pruritus, urticaria, nausea, vomiting, abdominal pain, fever, decrease in the blood pressure, diarrhoea and noises in the ears.",
+  "pregnancy_lactation": "In case of pregnancy & lactation the medicine should be taken consulting physician or pharmacist.",
+  "storageConditions": "Store in a cool and dry place, protected from light."
+},
+{
+  "name": "Audicare",
+  "type": "Ear Drop",
+  "generic": "Ofloxacin + Clotrimazole + Beclomethasone + Lidocaine",
+  "strength": "0.3%+1%+0.025%+2%",
+  "company": "Aristopharma Ltd.",
+  "indications": [
+    "This ear drop is indicated for the treatment of superficial bacterial and fungal infections of the external auditory canal and the middle ear, caused by organisms susceptible to the action of Ofloxacin and Clotrimazole."
+  ],
+  "pharmacology": "It is a combination of an antibacterial, an antifungal, an anti-inflammatory and a topical local anesthetic agent. This ear drop has been specially formulated to maintain the natural environment of the external ear canal. Ofloxacin is a fluoroquinolone that has a broad spectrum of activity against otic pathogens without ototoxicity. Hence Ofloxacin is preferred to Aminoglycosides for any application within the middle ear space. Ofloxacin exerts antibacterial activity by inhibiting DNA gyrase of bacteria. Ofloxacin has been shown to be active against the following organisms responsible for otic infections: Gram-positive: Staphylococcus aureus, Streptococcus pneumoniae. Gram-negative: Escherichia coli, Haemophilus influenzae, Moraxella catarrhalis, Proteus mirabilis, Pseudomonas aeruginosa. Clotrimazole is a synthetic imidazole derivative, which is a broad-spectrum antifungal agent that exerts fungicidal activity against fungi responsible for superficial mycotic infections affecting the outer or middle ear including Candida, Microsporum & Trichophyton. Clotrimazole inhibits Cytochrome P-450 synthesis of Ergosterol, which decreases fungal cell wall integrity thus inhibits fungal growth. Clotrimazole also has activity against certain bacteria such as Streptococci and Staphylococci. The antibacterial effect of Clotrimazole is advantageous to treat mixed bacterial-fungal infections. Beclomethasone Dipropionate is a potent steroid as compared with other topical corticosteroids. Beclomethasone like other topical corticosteroids, has anti-inflammatory, antipruritic, and vasoconstrictive properties. It induces phospholipase A2 and sequentially inhibits the release of arachidonic acid, thereby depressing the formation, release, and activity of prostaglandins, leukotrienes, and other inflammatory mediators. Lidocaine Hydrochloride is a topical local anesthetic which helps to reduce pain and stinging in the ear.",
+  "dosage": {
+    "drop": [
+      "Adults & Children: Instill 2-5 drops three to four times daily into the affected ear for 7-14 days.",
+      "Otitis Externa with intact tympanic membrane: From age 06 months & older.",
+      "Chronic Suppurative Otitis Media with perforated tympanic membrane: 12 years & older."
+    ]
+  },
+  "sideEffects": "The systemic side-effects are not common with this ear drops. The following adverse reactions may be observed when using Audicare: itching, burning, irritation, dryness, earache, headache, vertigo, dizziness, redness, folliculitis, hypertrichosis, acne form eruptions and hypopigmentation.",
+  "pregnancy_lactation": "Safety during pregnancy or lactation has not been established. It is not known whether the active substances pass into breast milk when applied topically. Therefore, the potential benefit of this product during pregnancy or lactation, should be weighed against possible hazard to the fetus or the nursing infant.",
+  "storageConditions": "Keep away from light and moisture, store below 25°C."
+},
+
+{
+  "name": "Fiberlax Ultra",
+  "type": "Effervescent Granules",
+  "generic": "Ispaghula Husk + Mebeverine Hydrochloride",
+  "strength": "3.5 gm sachet",
+  "company": "Incepta Pharmaceuticals Ltd.",
+  "indications": [
+    "Ispaghula Husk and Mebeverine Hydrochloride is indicated for the treatment of all kinds of IBS such as IBS-C, IBS-D & IBS-A."
+  ],
+  "pharmacology": "This is a combination of Ispaghula Husk and Mebeverine Hydrochloride which is specially designed for IBS. Painful spasms of the gut and irregular bowel habits are the main symptoms of IBS. This product successfully relives these symptoms. Ispaghula Husk contains up to 70% of soluble and 30% of insoluble fibers. This unique feature makes it capable of absorbing up to 40 times of water of its own weight. Ispaghula Husk increases fiber in the diet, helps digestive system work more efficiently and gently relieve bowel problem in a natural way helping to restore and maintain regularity. Mebeverine is an antispasmodic drug that relieves spasms and cramps which occur in the gut causing pain without affecting normal gut motility.",
+  "dosage": {
+    "granules": [
+      "Ispaghula Husk and Mebeverine Hydrochloride is intended for oral use as a suspension in a drink of water. The granules of the sachet should be stirred into a glass of water and taken as soon as the effervescence subsides.",
+      "Adults and children over 12 years: One sachet in the morning and one in the evening with 1 glass of water. This medicine should be taken before half an hour of meal. A midday dose may be taken if necessary."
+    ]
+  },
+  "sideEffects": "Ispaghula Husk and Mebeverine Hydrochloride are generally safe. But, some people may experience mild abdominal distension or flatulence for the first few days after starting this medicine. These effects should lessen as you continue the treatment.",
+  "pregnancy_lactation": "Ispaghula Husk is not absorbed into the bloodstream and does not pass into breast milk but Mebeverine Hydrochloride is absorbed into the bloodstream and passes through the breast milk. Therefore, this medicine should not be used during pregnancy unless considered essential by the physician.",
+  "storageConditions": "This should be stored at room temperature. Protect from moisture and light. Keep it away from children."
+},
+
+{
+  "name": "Bio Eazylax",
+  "type": "Effervescent Powder",
+  "generic": "Ispaghula Husk + Sonapata",
+  "strength": "(3 gm+1 gm)/4 gm",
+  "company": "Bexter (Ay) Laboratories",
+  "indications": [
+    "This is indicated in Constipation, Intestinal inflammation, IBS Ulcerative colitis & Piles."
+  ],
+  "pharmacology": "This is the formulation of Isabgul Spicy which is very effective herbal formulation of two mostly laxative medicinal herbs Plantago ovata & Cassia angustifolia. Ispaghula is capable of absorbing up to 40 times of water and Sonapata act as a inhibitor of water & electrolyte absorption from the large intestine that increase the volume and pressure of the intestinal contents. As a result it stimulates the peristaltic movement of the gut. In this way Isabgul Plus helps regular bowel movement and relieves constipation. Ispaghula has the ability to bind with bile acid; an important component of fat digestion found in our body from cholesterol. This process lowers circulating blood cholesterol level by excretion of those fats. Regular intake of Isabgul plus also helps to regularizes the function of GIT, cures constipation, intestinal irritation, intestinal inflammation, IBS & ulcerative colitis bulk forming of stool & ease evacuation, reduce hyperacidity, increase digestion & improves the function of digestive system as well as helps to normalize the gut health.",
+  "dosage": {
+    "powder":[
+      "Adult: 1 sachet or 4 gm powder with 150-200 ml water 1-2 times daily.",
+      "Children: 6-12 years- 1/2 to 1 sachet or 2-4 gm powder with 150-200 ml water 1-2 times daily, Under 6 years- As directed by the physician. 1/2 sachet or 2 gm powder with 150-200 ml water 1-2 times daily."
+    ]
+  },
+  "sideEffects": "In few cases it may occurs flatulence, stomach irritation & intestinal obstruction.",
+  "pregnancy_lactation": "This should not be used during pregnancy. It does not pass into breast milk. Therefore, it can be used safely lactation",
+  "storageConditions": "Store in a cool & dry place, protect from light. Keep out of the reach of the children."
+},
+
+{
+  "name": "Aceten",
+  "type": "Effervescent Tablet",
+  "generic": "Acetylcysteine",
+  "strength": "600 mg",
+  "company": "Eskayef Pharmaceuticals Ltd.",
+  "indications": [
+    "Aceten is indicated as an adjuvant treatment in certain clinical condition characterized by the presence of thick and viscous mucoid or mucopurulent secretions such as: Chronic bronchopulmonary diseases (chronic obstructive pulmonary disease, emphysema with bronchitis, chronic asthmatic bronchitis, bronchiectasis); Acute bronchopulmonary diseases (asthma with bronchial mucus plugging, bronchitis, bronchopneumonia, tracheobronchitis, bronchiolitis, pulmonary complications of cystic fibrosis, pulmonary complications associated with surgery)."
+  ],
+  "pharmacology": "Acetylcysteine is a mucolytic agent that reduces the viscosity of secretions probably by the splitting of disulphide bonds in mucoproteins. Moreover it gives antisecretory effect. These results in clearing of respiratory ducts and facilitate breathing. Acetylcysteine also has anti-oxidant properties by reacting with free radicals and also by serving as a precursor to glutathione, which is an important intra and extra-cellular antioxidant. By providing anti-oxidant action, it neutralizes exogenous and endogenous oxidants, which in fact act as pathogens in respiratory inflammations.",
+  "dosage": {
+    "tablet":[
+      "Effervescent tablet or Dispersible tablet: Adults and children above 6 years: One effervescent tablet of Acetylcysteine 600 mg a day (preferably in the evening). The duration of treatment should be 5 to 10 days in the acute treatment, whereas it may be continued in the chronic states for several months, according to the advice of the physician. Dissolve the tablets in a glass containing a small quantity of water, mixing it, if necessary, with a spoon. A palatable solution is thus obtained, which can be drunk directly from the glass."
+    ]
+  },
+  "sideEffects": "Like all medicines, Aceten can cause side effects, although not everybody gets them. In very rare cases, severe immune reactions may occur such as anaphylactic shock and severe skin reaction. In rare cases the oral administration can be followed by shortness of breath, upset stomach and bronchospasm. The most frequent side effects are headache, increased heart rate, stomatitis, pruritus, urticaria, nausea, vomiting, abdominal pain, fever, decrease in the blood pressure, diarrhoea and noises in the ears.",
+  "pregnancy_lactation": "In case of pregnancy & lactation the medicine should be taken consulting physician or pharmacist.",
+  "storageConditions": "Store in a cool and dry place, protected from light."
 }
 
 ]
