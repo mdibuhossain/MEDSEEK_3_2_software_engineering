@@ -49,15 +49,14 @@ main::-webkit-scrollbar-thumb {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: white;
-  width: 200px;
+  transform: translateZ(20px);
 }
 .company img {
   height: 80px;
   width: auto;
 }
 .company p {
-  font-size: 1rem;
+  font-size: x-small;
   text-align: center;
 }
 .companyContainer {
@@ -66,10 +65,14 @@ main::-webkit-scrollbar-thumb {
   flex-wrap: wrap;
   justify-content: center;
 }
-.companyContainer > div {
-  font-size: 30px;
-  margin: 20px;
-  padding: 5px;
+.companyInnerContainer {
+  width: 200px;
+  background: white;
+  padding: 15px;
   border-radius: 10px;
+  overflow: hidden;
+  margin: 20px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
+  transform-style: preserve-3d;
+  cursor: pointer;
 }
