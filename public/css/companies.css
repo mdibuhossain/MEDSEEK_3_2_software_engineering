@@ -2,48 +2,6 @@
   margin: 0;
   padding: 0;
 }
-nav {
-  /* background: #7ecb6c; */
-  background: transparent;
-}
-#home_bg {
-  min-height: 100vh;
-  background-image: url(../assets/bg_3.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-main {
-  width: 85%;
-  height: calc(100vh - 140px);
-  margin: auto;
-  margin-bottom: 20px;
-  position: relative;
-  overflow-y: auto;
-}
-.blurBG {
-  position: fixed;
-  width: 85%;
-  height: calc(100vh - 140px);
-  border-radius: 10px;
-  background: rgba(199, 201, 59, 0.2);
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
-  z-index: -10;
-}
-/* Optional scrollbar styling (adjust as needed) */
-main::-webkit-scrollbar {
-  width: 10px;
-}
-
-main:hover::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.3);
-}
-main::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.082);
-  border-radius: 10px;
-}
 .company {
   display: flex;
   flex-direction: column;

@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-image: url(../assets/bg_3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+main {
+  width: 85%;
+  /* height: calc(100vh - 120px); */
+  height: calc(100vh - 160px);
+  margin: auto;
+  overflow-y: auto;
+  position: relative;
+}
+.blurBG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -10;
+  backdrop-filter: blur(13px);
+  -webkit-backdrop-filter: blur(13px);
+  background: rgba(199, 201, 59, 0);
+}
+.blurBG_2 {
+  position: fixed;
+  width: 85%;
+  height: calc(100vh - 140px);
+  border-radius: 10px;
+  background: rgba(199, 201, 59, 0.2);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
+  z-index: -10;
+}
+
+/* Optional scrollbar styling (adjust as needed) */
+main::-webkit-scrollbar {
+  width: 10px;
+}
+
+main:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+main::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.082);
+  border-radius: 10px;
+}

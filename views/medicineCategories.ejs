@@ -3,24 +3,34 @@
   <head>
     <%- include("./partials/head.ejs") %>
     <link rel="stylesheet" type="text/css" href="/css/medicineCategories.css" />
+    <link rel="stylesheet" type="text/css" href="/css/common.style.css" />
     <title>Companies</title>
   </head>
-  <body>
+  <body id="home_bg">
+    <div class="blurBG"></div>
     <%- include("./partials/navbar.ejs") %>
     <main>
+      <div class="blurBG_2"></div>
       <section class="body_containar">
         <h2 class="title">List of Available Dosage Forms</h2>
         <div class="containar">
           <% medForms.map((cat)=>{ %>
-          <a href="?type=<%= cat._id %>">
-            <div class="list">
-              <h4><%= cat._id %></h4>
-              <p><%= cat.count %> brand names</p>
-            </div>
+          <a
+            data-tilt
+            data-tilt-max="6"
+            data-tilt-speed="1000"
+            data-tilt-perspective="500"
+            href="?type=<%= cat._id %>"
+            class="list"
+          >
+            <div class="smallBlurBG"></div>
+            <h4><%= cat._id %></h4>
+            <p><%= cat.count %> brand names</p>
           </a>
           <% }) %>
         </div>
       </section>
     </main>
+    <script type="text/javascript" src="/js/vanilla-tilt.js"></script>
   </body>
 </html>

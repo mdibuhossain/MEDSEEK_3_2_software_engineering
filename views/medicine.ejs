@@ -1,89 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <%- include("./partials/head.ejs") %>
-        <link rel="stylesheet" type="text/css" href="/css/medicine.css">
-        <title>Medicine</title>
-</head>
+    <link rel="stylesheet" type="text/css" href="/css/medicine.css" />
+    <link rel="stylesheet" type="text/css" href="/css/common.style.css" />
+    <title>Medicine</title>
+  </head>
 
-<body>
+  <body>
+    <!-- <div class="blurBG"></div> -->
     <%- include("./partials/navbar.ejs") %>
-        <main>
-            <section class="medicines_detail_container">
-                <div class="information">
-                    <div class="name">
-                        <p id="one">
-                            <%= medicine.name %>
-                        </p>
-                        <span id="sp">
-                            <%= medicine.strength %>
-                        </span>
-                    </div>
-                    <p>
-                        <%= medicine.type %>
-                    </p>
-                    <div style="margin-top: 10px;">
-                        <p style="color: green;" Id="two">
-                            <%= medicine.generic %>
-                        </p>
-                        <!-- <p id="dos">
+    <main>
+      <div class="blurBG_2"></div>
+      <section class="medicines_detail_container">
+        <div class="information">
+          <div class="name">
+            <p id="one"><%= medicine.name %></p>
+            <span id="sp"> <%= medicine.strength %> </span>
+          </div>
+          <p><%= medicine.type %></p>
+          <div style="margin-top: 10px">
+            <p style="color: green" Id="two"><%= medicine.generic %></p>
+            <!-- <p id="dos">
                             <%= medicine.generic %>
                         </p> -->
-                    </div>
-                    <p>
-                        <%= medicine.company %>
-                    </p>
-                    <div class="pictur"></div>
-                </div>
-                <div>
-                    <h2>Indications</h2>
-                    <P>
-                        <%= medicine.indications %>
-                    </P>
-                </div>
-                <div>
-                    <h2>Pharmacology</h2>
-                    <P>
-                        <%= medicine.pharmacology %>
-                    </P>
-                </div>
-                <div>
-                    <h2>Dosage</h2>
-                    <div>
-                        <p id="dos"><span style="color: green;" ID="two">Adult:</span> 1-2 tablets every 4 to 6 hours up
-                            to
-                            a maximum of 4 gm (8 tablets) daily.</p>
-                    </div>
-                    <div>
-
-                        <p id="dos"> <span style="color: green;" ID="two">Child:</span> ½ to 1 tablet 3 to 4 times
-                            daily.
-                            For long term treatment it is wise not to exceed the dose
-                            beyond 2.6 gm/day.
-                        </p>
-                    </div>
-                </div>
-                <div>
-                    <h2>Side effects</h2>
-                    <P>
-                        <%= medicine.sideEffects %>
-                    </P>
-                </div>
-                <div>
-                    <h2>Pregnancy lactation</h2>
-                    <p>
-                        <%= medicine.pregnancy_lactation %>
-                    </p>
-                </div>
-                <div>
-                    <h2>Storage conditions</h2>
-                    <p>
-                        <%= medicine.storageConditions %>
-                    </p>
-                </div>
-            </section>
-        </main>
-</body>
-
+          </div>
+          <p><%= medicine.company %></p>
+          <div class="pictur"></div>
+        </div>
+        <div>
+          <h2>Indications</h2>
+          <P> <%= medicine.indications %> </P>
+        </div>
+        <div>
+          <h2>Pharmacology</h2>
+          <P> <%= medicine.pharmacology %> </P>
+        </div>
+        <div>
+          <h2>Dosage</h2>
+          <div>
+            <p id="dos">
+              <span style="color: green" ID="two">Adult:</span> 1-2 tablets
+              every 4 to 6 hours up to a maximum of 4 gm (8 tablets) daily.
+            </p>
+          </div>
+          <div>
+            <p id="dos">
+              <span style="color: green" ID="two">Child:</span> ½ to 1 tablet 3
+              to 4 times daily. For long term treatment it is wise not to exceed
+              the dose beyond 2.6 gm/day.
+            </p>
+          </div>
+        </div>
+        <div>
+          <h2>Side effects</h2>
+          <P> <%= medicine.sideEffects %> </P>
+        </div>
+        <div>
+          <h2>Pregnancy lactation</h2>
+          <p><%= medicine.pregnancy_lactation %></p>
+        </div>
+        <div>
+          <h2>Storage conditions</h2>
+          <p><%= medicine.storageConditions %></p>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>

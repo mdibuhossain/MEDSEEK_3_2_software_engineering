@@ -20,16 +20,31 @@
   font-family: "Poppins";
   letter-spacing: 0.1225rem;
 }
-body {
-  font-family: montserrat;
-}
 #home_bg {
+  font-family: montserrat;
   min-height: 100vh;
   background-image: url(../assets/bg_3.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  position: relative;
 }
+#homePageBlur {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -10;
+  transition: 0.35s ease;
+}
+.specialHomePageBlurBG {
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  background: rgba(199, 201, 59, 0);
+  transition: 0.35s ease;
+}
+
 #menu_icon_container,
 #menu_icon_cancel {
   display: none;
@@ -103,7 +118,7 @@ body {
   border-radius: 30px;
   /* border-end-end-radius: 0;
   border-end-start-radius: 0; */
-  box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.14);
+  box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.295);
   background: white url("../assets/search_icon.svg") no-repeat 20px;
   transition: 0.25s ease-in-out;
 }
