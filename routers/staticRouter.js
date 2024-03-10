@@ -27,13 +27,15 @@ router.get("/medicines", async (req, res) => {
     const pipeline = [
       {
         $group: {
-          _id: "$type", // Replace with the field you want to group by
+          _id: { type: "$type", iconId: "$iconId" }, // Replace with the field you want to group by
           count: { $sum: 1 }, // Count occurrences of each unique value
         },
       },
-      { $sort: { _id: 1 } },
+      { $sort: { "_id.type": 1 } },
+      { $project: { "_id.iconId": 1, "_id.type": 1, count: 1 } },
     ];
     const medForms = await Medicine.aggregate(pipeline);
+    console.log(medForms);
     return res.render("medicineCategories", { medForms });
   } catch (error) {
     return res.status(500).json({ message: error.message });

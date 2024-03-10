@@ -64,18 +64,18 @@
 .list:hover {
   background-color: aqua;
 }
-.list:hover > h4 {
+.list:hover h4 {
   color: rgb(58, 55, 55);
   filter: blur(0.5px);
 }
-.list:hover > p {
+.list:hover p {
   color: inherit;
 }
-.list > h4 {
+.list h4 {
   font-size: large;
   color: #ffffff;
 }
-.list > p {
+.list p {
   font-size: smaller;
   font-weight: lighter;
   color: #ffffff93;

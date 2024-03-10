@@ -23,12 +23,23 @@
             data-tilt-max="6"
             data-tilt-speed="1000"
             data-tilt-perspective="500"
-            href="?type=<%= cat._id %>"
+            href="?type=<%= cat._id.type %>"
             class="list"
           >
             <div class="smallBlurBG"></div>
-            <h4><%= cat._id %></h4>
-            <p><%= cat.count %> brand names</p>
+            <div
+              style="display: flex; align-items: center; justify-content: start"
+            >
+              <img
+                style="width: 2.5rem; height: auto; margin-right: 8px"
+                src="/assets/drag_forms/<%= cat._id.iconId %>.png"
+                alt="<%= cat._id.iconId %>"
+              />
+              <div>
+                <h4><%= cat._id.type %></h4>
+                <p><%= cat.count %> brand names</p>
+              </div>
+            </div>
           </a>
           <% }) %>
         </div>
