@@ -2629,7 +2629,626 @@
     "sideEffects": "Reported side effects are burning, stinging or pain, itching and some patient may be suffered rash, nausea, erythema, dry skin, tenderness, swelling, contact dermatitis and increased exudate.",
     "pregnancy_lactation": "Reproduction studies on Mupirocin ointment in animals have revealed no evidence of harm to the foetus. As there is no clinical experience on it’s use during pregnancy, Mupirocin ointment should only be used in pregnancy when the potential benefits outweigh the possible risks of treatment. It is unknown whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Mupirocin ointment is administered to a nursing woman.",
     "storageConditions": "Keep below 25° C temperature, protected from light and moisture. Do not keep in freeze. Keep out of the reach of children."
-  }
+  },
+  {
+    "name": "Ace-Vet",
+    "type": "Tablet",
+    "generic": "Paracetamol",
+    "strength": "2000 mg",
+    "company": "Square Pharmaceuticals PLC.",
+    "indications": [
+      "Recovery from fever, pain (headache, earache, body ache, neuralgia, pain due to intestinal inflammation, rheumatoid fever, post vaccination pain, post delivery pain, post operative pain) and tissue swollen resulting from trauma, injury, burn or any other infectious diseases of both Animal & Poultry.",
+      "Ace-Vet bolus does not create any apparent gross lesions or histopathological lesions in visceral organs.",
+      "Ace-Vet bolus does not cause any Nephrotoxicity and can be used safely."
+    ],
+    "pharmacology": "Paracetamol has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol (Acetaminophen) is thought to act primarily in the CNS, increasing the pain threshold by inhibiting both isoforms of cyclooxygenase, COX-1, COX-2, and COX-3 enzymes involved in prostaglandin (PG) synthesis. Paracetamol is a para aminophenol derivative, has analgesic and antipyretic properties with weak anti-inflammatory activity. Paracetamol is one of the most widely used, safest and fast acting analgesic. It is well tolerated and free from various side effects of aspirin.",
+    "dosage": {
+      "tablet": [
+        "Cattle: 1 bolus/130-140 kg body weight thrice daily for 3 days.",
+        "Poultry: 1 bolus/10-litre drinking water and administered 2-3 times daily for 4-5 days."
+      ]
+    },
+    "sideEffects": "Side effects of Ace-Vet bolus does are significantly mild, though hematological reactions have been reported. Pancreatitis, skin rashes and other allergic reactions occur occasionally.",
+    "pregnancy_lactation": "Paracetamol bolus does is safe in all stages of pregnancy and lactation.",
+    "storageConditions": "Protect from light, store in a cool and dry place. Keep out of reach of children."
+  },
+  {
+    "name": "Opifen",
+    "type": "Buccal Tablet",
+    "generic": "Fentanyl Citrate",
+    "strength": "100 mcg",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": [
+      "Opifen is indicated for the management of breakthrough pain in patients with cancer who are already receiving and who are tolerant to opioid therapy for their underlying persistent cancer pain. Patients considered opioid tolerant are those who are taking at least 60 mg of oral morphine/day, at least 25 mcg of transdermal Opifen/hour, at least 30 mg of oxycodone daily, at least 8 mg of oral hydromorphone daily or an equianalgesic dose of another opioid for a week or longer."
+    ],
+    "pharmacology": "Fentanyl is an opioid analgesic. Fentanyl interacts predominately with the opioid mu-receptor but also binds to kappa and delta-type opioid receptors. These mu-binding sites are discretely distributed in the human brain, spinal cord, and other tissues. In clinical settings, Fentanyl exerts its principal pharmacologic effects on the central nervous system. Its primary actions of therapeutic value are analgesia and sedation. Fentanyl may increase the patient's tolerance for pain and decrease the perception of suffering, although the presence of the pain itself may still be recognized. In addition to analgesia, alterations in mood, euphoria and dysphoria, and drowsiness commonly occur. Fentanyl depresses the respiratory centers, depresses the cough reflex, and constricts the pupils.",
+    "dosage": {
+      "tablet": [
+        "Starting Dose: The initial dose of Fentanyl should be 100 mcg.",
+        "Re-dosing patients within a single episode: Dosing may be repeated once during a single episode of breakthrough pain if pain is not adequately relieved by one Fentanyl dose. Re-dosing may occur 30 minutes after the start of administration of Fentanyl and the same dosage strength should be used.",
+        "Increasing the dose: Titration should be initiated using multiples of the 100 mcg Fentanyl tablet. Patients require to titrate above 100 mcg can be instructed to use two 100 mcg tablets (one on each side of the mouth in the buccal cavity). If this dose is not successful in controlling the breakthrough pain episode, the patient may be instructed to place two 100 mcg tablets on each side of the mouth in the buccal cavity (total of four 100 mcg tablets). Titrate above 400 mcg by 200 mcg increments bearing in mind using more than 4 tablets simultaneously has not been studied and it is important to minimize the number of strengths available to patients at any time to prevent confusion and possible overdose. To reduce the risk of overdose during titration, patients should have only one strength of Fentanyl tablet available at any one time."
+      ]
+    },
+    "sideEffects": "As with other narcotic analgesics, the most common serious adverse reactions reported to occur with Opifen are respiratory depression, apnoea, muscular rigidity, myoclonic movements, and bradycardia. Respiratory depression is more likely to occur with intravenous administration if a dose is given too rapidly and it rarely occurs with intramuscular administration.",
+    "pregnancy_lactation": "There are no adequate and well-controlled studies in pregnant women. Fentanyl should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Fentanyl is excreted in human milk; therefore Fentanyl should not be used in nursing women because of the possibility of sedation and/or respiratory depression in their infants.",
+    "storageConditions": "Store between 20-25°C. Protect from light."
+  },
+  {
+    "name": "Cholecalciferol [Vitamin D3]",
+    "type": "Capsule",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "strength": "20000 IU",
+    "company": "Jenphar Bangladesh Ltd.",
+    "indications": [
+      "Vitamin D3 deficiency can occur in people whose exposure to sunlight is limited and in those whose diet is deficient in vitamin D3. Vitamin D3 is essential for the effective calcium and phosphate absorption required for healthy bones and teeth,preventing rickets, osteomalacia and osteoporosis. Vitamin D3 is also essential to prevent pre-eclampsia during pregnancy and breast feeding as it is an essential nutrient for a growing infant. Vitamin D3 has vital role on immunity boost up."
+    ],
+    "pharmacology": "The active form of Vitamin D3, Calcitriol, exerts its effect by binding to the Vitamin D receptors (VDRs) which are widely distributed through many body tissues.Vitamin D3 has a half life of about 50 days as it is fat soluble.Vitamin D3 is absorbed in the small intestine and bound to specific a-globulins and transported to the liver where it is metabolised to 25-hydroxy Vitamin D3 (Calcidiol). A second hydroxylation to 1,25-dihydroxy Vitamin D3 (Calcitriol) occurs in the kidney. This metabolite is responsible for the vitamin's ability to increase the absorption of calcium. Non-metabolised Vitamin D3 is stored in tissues such as fat and muscle.Vitamin D3 is eliminated via faeces and urine.",
+    "dosage": {
+      "capsule": [
+        "Adults: Treatment of Vitamin D3 deficiency: 40000 IU once weekly for 7 weeks. Doses for maintenance therapy is 1400-2000 IU/day. To confirm the target level of 25 hydroxyvitamin D, measurement of it should be determined 3-4 months after initiating the maintenance therapy.",
+        "Children (12-18 years): Treatment of Vitamin D3 deficiency: 20000 IU once every 2 weeks for 6 weeks."
+      ]
+    },
+    "sideEffects": "Symptoms rarely include anorexia, lassitude, nausea & vomiting, diarrhea, constipation, weight loss, polyuria, sweating, headache, thirst, vertigo, and raised concentrations of calcium and phosphate in plasma and urine.",
+    "pregnancy_lactation": "Studies have shown safe use of doses up to 4000 IU during pregnancy. The recommended daily intake for pregnant women is 400 IU, however, in women who are considered to be Vitamin D3 deficient a higher dose may be required. During pregnancy women should follow the advice of their medical practitioner as their requirements may vary depending on the severity of their disease and their response to treatment. Vitamin D3 and its metabolites are excreted in breast milk. Overdose in infants induced by nursing mothers has not been observed; however, when prescribing additional vitamin D3 to a breast-fed child the practitioner should consider the dose of any additional vitamin D3 given to the mother.",
+    "storageConditions": "Keep below 30º C temperature, protected from light & moisture. Keep out of the reach of children."
+  },
+
+  {
+    "name": "Glicron CR",
+    "type": "Capsule (Controlled Release)",
+    "generic": "Gliclazide",
+    "strength": "30 mg",
+    "company": "Renata Limited",
+    "indications": [
+      "Glicron CR is a medicine that reduces blood sugar levels (oral antidiabetic medicine belonging to the sulphonylurea group). Glicron CR is used in a certain form of diabetes (type 2 diabetes Mellitus) in adults, when diet, exercise and weight loss alone do not have an adequate effect on keeping blood sugar at the correct level."
+    ],
+    "pharmacology": "Gliclazide is a second generation sulfonylurea drug that has hypoglycaemic and potentially useful hematological properties. It stimulates the release of insulin from pancreatic β-cells by facilitating Ca+2 transport across the β-cell membranes and decreases hepatic glucose output.",
+    "dosage": {
+      "tablet": [
+        "Film-coated tablet: The usual initial dose is 40 to 80 mg daily. The dose can be increased up to 320 mg daily in divided doses when needed. The drug should be taken before meal. For children, Gliclazide is not used because it is contraindicated in juvenile-onset diabetes.",
+        "Modified release preparation: Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure. The dose is determined by the doctor, depending on your blood and possibly urine sugar levels. Change in external factors (weight reduction, lifestyle, stress) or improvements in the blood sugar control may require changed gliclazide doses."
+      ]
+    },
+    "sideEffects": "Like all medicines, Glicron CR can cause side effects, although not everybody gets them. The most commonly observed side effect is low blood sugar (hypoglycaemia). If left untreated these symptoms could progress to drowsiness, loss of consciousness or possibly coma. If an episode of low blood sugar is severe or prolonged, even if it is temporarily controlled by eating sugar, you should seek immediate medical attention.",
+    "pregnancy_lactation": "Gliclazide is not recommended for use during pregnancy. If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine. You must not take Gliclazide while you are breastfeeding.",
+    "storageConditions": "Keep out of the reach and sight of children. Do not use this medicine after the expiry date which is stated on the carton and the blister. The expiry date refers to the last day of that month. Store below 30°C. Medicines should not be disposed of via wastewater or household waste. Ask your pharmacist how to dispose of medicines no longer required. These measures will help to protect the environment."
+  },
+
+  {
+    "name": "Xinolax DR",
+    "type": "Capsule (Delayed Release)",
+    "generic": "Duloxetine Hydrochloride",
+    "strength": "20 mg",
+    "company": "Opsonin Pharma Ltd.",
+    "indications": [
+      " Xinolax DR is a serotonin and norepinephrine reuptake inhibitor (SNRI) indicated for- ",
+      "1. Major Depressive Disorder (MDD)",
+      "2. Generalized Anxiety Disorder (GAD)",
+      "3. Diabetic Peripheral Neuropathic Pain (DPNP) ",
+      "4. Fibromyalgia and",
+      "5. Chronic Musculoskeletal Pain."
+    ],
+    "pharmacology": "Duloxetine Hydrochloride is a selective serotonin and norepinephrine reuptake inhibitor (SSNRI) for oral administration. Duloxetine is a less potent inhibitor of dopamine reuptake. Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors in vitro. Duloxetine does not inhibit monoamine oxidase (MAO). Orally administered Duloxetine hydrochloride is well absorbed. Elimination of Duloxetine is mainly through hepatic metabolism.",
+    "dosage": {
+      "tablet": [
+        "Film-coated tablet: The usual initial dose is 40 to 80 mg daily. The dose can be increased up to 320 mg daily in divided doses when needed. The drug should be taken before meal. For children, Gliclazide is not used because it is contraindicated in juvenile-onset diabetes.",
+        "Modified release preparation: Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure. The dose is determined by the doctor, depending on your blood and possibly urine sugar levels. Change in external factors (weight reduction, lifestyle, stress) or improvements in the blood sugar control may require changed gliclazide doses."
+      ]
+    },
+    "sideEffects": "The most commonly observed adverse events in Xinolax DR treated patients were nausea, dizziness, dry mouth, constipation, decreased appetite, fatigue, somnolence, increased sweating, hyperhidrosis and asthenia. It may slightly increase blood pressure. No clinically significant differences were observed for QT, PR, and QRS intervals between Xinolax DR-treated and placebo-treated patients.",
+    "pregnancy_lactation": "Pregnancy Category C. There are no adequate and well-controlled studies in pregnant women; therefore, Duloxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Do not store above 30°C. Keep away from light and out of the reach of children."
+  },
+
+  {
+    "name": "Canalia",
+    "type": "Capsule (Enteric Coated Pellets)",
+    "generic": "Dexlansoprazole",
+    "strength": "30 mg",
+    "company": "Aristopharma Ltd.",
+    "indications": [
+      "Healing of Erosive Esophagitis: Canalia is indicated for the healing of all grades of erosive esophagitis (EE) for up to 8 weeks.",
+      "Maintenance of Healed Erosive Esophagitis: Canalia is indicated to maintain healing of EE and relief of heartburn for up to 6 months.",
+      "Symptomatic Non-Erosive Gastroesophageal Reflux Disease: Canalia is indicated for the treatment of heartburn associated with symptomatic non-erosive Gastroesophageal Reflux Disease (GERD) for 4 weeks."
+    ],
+    "pharmacology": "Dexlansoprazole delayed-release capsule is a Proton Pump Inhibitor (PPI) which suppresses gastric acid secretion by specific inhibition of the (H+/k+)-ATPase in the gastric parietal cell. By acting specifically on the proton pump, Dexlansoprazole blocks the final step of acid production. It is the R-enantiomer of lansoprazole (A racemic mixture of the R- and S-enantiomers). Dexlansoprazole is supplied as a Dual Delayed Release (DDR) formulation in a capsule for oral administration. This capsule contains a mixture of two types of enteric coated granules with different pH-dependent dissolution profiles. The dual delayed release formulation in dexlansoprazole, plasma concentration-time profile with two distinct peaks; the first peak occurs 1 to 2 hours after administration, followed by a second peak within 4 to 5 hours. After oral administration, mean Cmax and AUC value of Dexlansoprazole increased approximately dose proportionally. Dexlansoprazole is extensively metabolized in the liver and excreated by urine.",
+    "dosage": {
+      "tablet": [
+        "Maintenance of Healed erosive esophagitis and relief of heartburn: 30 mg Once daily.",
+        "Symptomatic Non-Erosive GERD: 30 mg Once daily for 4 weeks.",
+        "Healing of erosive esophagitis: 60 mg Once daily for up to 8 weeks"
+      ]
+    },
+    "sideEffects": "Common side effects: Diarrhea, abdominal pain, nausea, vomiting & flatulence.",
+    "pregnancy_lactation": "Pregnancy Category B. There is no adequate and well-controlled studies with Dexlansoprazole in pregnant women. There is no adequate and well-controlled studies with Dexlansoprazole in Lactating mother.",
+    "storageConditions": "Store below 30°C temperature & in a dry place, protected from light. Keep all medicines out of reach of children."
+  },
+
+  {
+    "name": "Alzacare",
+    "type": "Capsule (Extended Release)",
+    "generic": "Memantine + Donepezil",
+    "strength": "7 mg + 10 mg",
+    "company": "Renata Limited",
+    "indications": [
+      "Memantine and donepezil hydrochlorides extended-release capsules are a combination of memantine hydrochloride, an NMDA receptor antagonist, and donepezil hydrochloride, an acetylcholinesterase inhibitor, indicated for the treatment of moderate to severe dementia of the Alzheimer’s type in patients stabilized on 10 mg of donepezil hydrochloride once daily."
+    ],
+    "pharmacology": "Memantine and donepezil hydrochlorides extended-release capsules contain two approved medications: memantine hydrochloride extended-release and donepezil hydrochloride. Each of those medications is postulated to have a different mechanism in Alzheimer’s disease.",
+    "dosage": {
+      "tablet": [
+        "For patients on donepezil hydrochloride 10 mg only, the recommended starting dose of memantine and donepezil hydrochlorides extended-release capsules is 7 mg/10 mg, taken once daily in the evening. The dose should be increased in 7 mg increments to the recommended maintenance dose of 28 mg/10 mg. The minimum recommended interval between dose increases is one week."
+      ]
+    },
+    "sideEffects": "The most common adverse reactions, occurring at a frequency of at least 5% and greater than placebo with memantine hydrochloride extended-release 28 mg/day, were headache, diarrhea, and dizziness. The most common adverse reactions occurring at a frequency of at least 5% in patients receiving donepezil and at twice or more the placebo rate, include diarrhea, anorexia, vomiting, nausea, and ecchymosis.",
+    "pregnancy_lactation": "There are no adequate data on the developmental risk associated with the use of memantine and donepezil hydrochlorides extended-release capsules or its active ingredients (memantine hydrochloride and donepezil hydrochloride) in pregnant women. There are no data on the presence of memantine or donepezil in human milk, the effects on the breastfed infant, or the effects of memantine and donepezil hydrochlorides extended-release capsules or its metabolites on milk production.",
+    "storageConditions": "Keep below 30°C temperature, away from light & moisture. Keep out of the reach of children."
+  },
+  {
+    "name": "Hi-Flow",
+    "type": "Capsule (Modified Release)",
+    "generic": "Tamsulosin  Hydrochloride",
+    "strength": "0.4 mg",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "indications": [
+      "Hi-Flow Hydrochloride is indicated for the treatment of functional symptoms of Benign Prostatic Hyperplasia (BPH)."
+    ],
+    "pharmacology": "Tamsulosin, a selective alpha1 adrenoceptor blocking agent, exhibits its selectivity for alpha1 A adrenoceptors in human prostate. Blockade of these adrenoceptors can cause smooth muscle in the bladder neck and prostate to relax, resulting in an improvement in urine flow rate and a reduction in symptoms of BPH. Absorption of Tamsulosin hydrochloride capsule 0.4mg is essentially complete (90%) following oral administration under fasting conditions. The time to maximum concentration (Tmax) is reached by four to five hours under fasting conditions and by six to seven hours when administered with food. Tamsulosin hydrochloride is extremely bound to human plasma protein (94% to 99%). Tamsulosin hydrochloride is extensively metabolized by cytochrome P 450 enzymes in the liver and less than 10% of the dose is excreted in urine as unchanged form. Following intravenous or oral administration of an immediate-release formulation the elimination half-life of Tamsulosin hydrochloride in plasma ranges from five to seven hours. Because of the absorption rate controlled pharmacokinetics with Prostam capsules, the apparent half-life of Tamsulosin hydrochloride is approximately 9 to 13 hours in healthy volunteers and 14 to 15 hours in the target population.",
+    "dosage": {
+      "tablet": [
+        "Tamsulosin Hydrochloride 0.4 mg (one capsule) daily, to be taken after meal at night. The dose may be increased after 2 to 4 weeks, if necessary, to Tamsulosin Hydrochloride 0.8 mg (two capsules) once daily. If Tamsulosin Hydrochloride administration is discontinued or interrupted for several days at either the 0.4 mg or 0.8 mg dose, therapy should be started again with the Tamsulosin Hydrochloride 0.4 mg (one capsule) once daily dose. The capsule should be swallowed whole with a glass of water (about 150 ml) in the standing or sitting position. The capsule should not be crunched or chewed, as this will interfere with the modified release of the active ingredient."
+      ]
+    },
+    "sideEffects": "The following adverse reactions have been reported during the use of Hi-Flow: dizziness, abnormal ejaculation and; less frequently headache, asthenia, postural hypotension and palpitations.",
+    "pregnancy_lactation": "Use of Tamsulosin in pregnancy and lactation is not recommended.",
+    "storageConditions": "Store in a cool and dry place, below 30°C, protected from light."
+  },
+  {
+    "name": "Diclo TR",
+    "type": "Capsule (Timed Release)",
+    "generic": "Diclofenac Sodium",
+    "strength": "100 mg",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "indications": [
+      "Rheumatology: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.",
+      "Surgery and Traumatology: Sprain, bruises, dislocations, fractures, softtissue injuries, surgical interventions.",
+      "Obstetrics and Gynecology: Primary dysmenorrhoea, episiotomy, adnexitis, endometritis, parametritis, salpingitis, and mastitis.",
+      "Otorhinolaryngology: As pre-operative medication for the prevention of pain, inflammation, and swelling.",
+      "Other indications: For the prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract, renal and biliary colic."
+    ],
+    "pharmacology": "Dilofenac Sodium is a potent non-steroidal anti-inflammatory drug (NSAID) with pronounced anti-rheumatic, anti-inflammatory, analgesic and antipyretic properties. It has also some uricosuric effect. Diclofenac exerts its effect by inhibiting prostaglandin biosynthesis which plays a major role in causing inflammation, pain and fever. Diclofenac is rapidly and completely absorbed from the gastro-intestinal tract when taken with or after meal. Peak plasma concentrations are reached within an average of 2 hours after ingestion of it. At therapeutic concentrations, it is 99.7% bound to plasma proteins. Diclofenac is metabolized in the liver and undergoes first pass metabolism.",
+    "dosage": {
+      "tablet": [
+        "Diclofenac FC Tablet: Adults: 75-150 mg daily in 2 to 3 divided doses, preferably after food. Dose should be reduced in long term use. "
+      ]
+    },
+    "sideEffects": "Diclo TR is generally well tolerated. Adverse effects are mild, rare and transient. At the starting of the treatment, however, patients may be sometimes complaining of epigastric pain, eructation, nausea and diarrhea or dizziness or headache. These effects are usually mild in nature. Peripheral edema and skin reactions, such as rash and eczema have also been encountered. Diclo TR Gel may cause local irritation and reddening of the skin and skin rash.",
+    "pregnancy_lactation": "During pregnancy, Diclofenac should be employed only for compelling reasons. The lowest effective dose should be used. These types of drugs are not recommended during the first trimester of pregnancy. In view of insufficient clinical data, Diclofenac Sodium Gel is not recommended during pregnancy. A very insignificant quantity of Diclofenac may be detected in breast milk but no undesirable effects on the infant to be expected.",
+    "storageConditions": "Store in a cool and dry place, protected from light. Store below 30°C. Keep out of the reach of children."
+  },
+  {
+    "name": "Anadol SR",
+    "type": "Capsule (Sustained Release)",
+    "generic": "Tramadol Hydrochloride",
+    "strength": "100 mg",
+    "company": "Square Pharmaceuticals PLC",
+    "indications": [
+      "Anadol SR is used for the treatment of moderate to severe painful conditions. These include: ",
+      "Postoperative pain",
+      "Colic and spastic pain",
+      "Cancer pain",
+      "Joint pain",
+      "Neck and back pain",
+      "Pain associated with osteoporosis."
+    ],
+    "pharmacology": "Tramadol is a centrally acting synthetic analgesic compound. It inhibits the re uptake of neurotransmitters- serotonin and noradrenaline. Thus it modifies the transmission of pain impulses by activating both descending serotonergic pathways and noradrenergic pathways involved in analgesia. The analgesic effects of Tramadol are mediated via stimulation of mu-opioid receptors and indirect modulation of central monoaminergic inhibitory pathways.",
+    "dosage": {
+      "tablet": [
+        ": Usual doses are 50 to 100 mg every four to six hours. For acute pain an initial dose of 100 mg is required. For chronic painful conditions an initial dose of 50 mg is recommended. Subsequent doses should be 50 to 100 mg administered 4-6 hourly. The dose level and frequency of dosing will depend on the severity of the pain.The total daily dosage by mouth should not exceed 400 mg."
+      ]
+    },
+    "sideEffects": "Commonly occurring side-effects are dizziness/vertigo, nausea, constipation, headache, somnolence, vomiting, pruritus, CNS stimulation, asthenia, sweating, dyspepsia, dry mouth, diarrhoea. Less commonly occurring side-effects include malaise, allergic reaction, weight loss, vasodilatation, palpitations, abdominal pain, anorexia, flatulence, GI bleeding, hepatitis, stomatitis etc.",
+    "pregnancy_lactation": "Safe use of Tramadol in pregnancy has not been established. Tramadol has been shown to cross the placenta. There are no adequate and well-controlled studies in pregnant women. Therefore, Tramadol should be used during pregnancy only if the potential benefit justifies the risk to the foetus. Tramadol Hydrochloride should not be administered during breast feeding as Tramadol and its metabolites have been detected in breast milk.",
+    "storageConditions": "Keep below 30°C temperature, away from light & moisture. Keep out of the reach of children."
+  },
+  {
+    "name": "AB-DS",
+    "type": "Chewable Tablet",
+    "generic": "Albendazole",
+    "strength": "400 mg",
+    "company": "Prime Pharmaceuticals Ltd.",
+    "indications": [
+      "AB-DS is indicated in single and mixed infestations of- Hookworm (Ancylostoma, Necator), Roundworm (Ascaris), Threadworm (Enterobius), Whipworm (Trichuris), Strongyloides, Tapeworm, Opisthorchi, Hydatid."
+    ],
+    "pharmacology": "Albendazole is a broad spectrum anthelmintic. Albendazole exhibits vermicidal, ovicidal and larvicidal activities. The drug is thought to exert its anthelmintic effect by blocking glucose uptake in the susceptible helminths, thereby depleting the energy level until it becomes inadequate for survival. Immobilization is followed by the parasite. These events may be a consequence of the binding and subsequent inhibition of parasite tubulin polymerization by Albendazole and its metabolites, although the drug also binds to human tubulin. Albendazole is extensively metabolized, probably in the liver. Albendazole is poorly absorbed from the gastrointestinal tract but rapidly undergoes extensive first-pass metabolism. The principal metabolite albendazole sulphoxide has anthelmintic activity and a plasma half-life of about 8.5 hrs. It is excreted in the urine together with other metabolites.",
+    "dosage": {
+      "tablet": [
+        "Adults & children over 2 years: 400 mg (1 tablet or 10 ml suspension) as a single dose in cases of Enterobius vermicularis, Trichuris trichiura, Ascaris lumbricoides, Ancylostoma duodenale and Necator americanus.",
+        "Children of 1-2 years: Recommended dose is a single dose of 200 mg (5 ml suspension).",
+        "Children under 1 year: Not recommended."
+      ]
+    },
+    "sideEffects": "Gastrointestinal disturbances, headache, dizziness, changes in liver enzymes, rarely reversible alopecia; rash, fever, blood disorders including leucopenia and pancytopenia reported; allergic shock if cyst leakage; convulsion and meningism in cerebral disease.",
+    "pregnancy_lactation": "US FDA Pregnancy category of Albendazole is C. So, Albendazole should be avoided in pregnancy and lactation unless the potential benefits to the other outweigh the possible risks to the fetus.",
+    "storageConditions": "Keep in a dry place, away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "Calgum JR",
+    "type": "Chewing Gum Tablet",
+    "generic": "Calcium Carbonate [Elemental source] + Vitamin D3",
+    "strength": "250 mg+250 IU",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "indications": [
+      "Calgum JR is used for treatment of osteoporosis, osteomalacia, rickets, tetany and in parathyroid disease. Calcium supplements are often used to ensure adequate dietary intake in conditions such as pregnancy & lactation, osteogenesis and tooth formation (adjunct with definite treatment) and therapy with anti-seizure medications. It is also used as routine supplement and phosphate binder in chronic renal failure."
+    ],
+    "pharmacology": "This is the preparation of Calcium Carbonate and Vitamin D3 (Cholecalciferol). Calcium is necessary for many normal functions of our body, especially bone formation and maintenance. Vitamin D3 helps for the absorption & reabsorption of Calcium. Vitamin D3 also stimulates bone formation. Clinical studies showed that Calcium and Vitamin D3 all together helps in bone growth, and in prevention of osteoporosis & bone fracture.",
+    "dosage": {
+      "tablet": [
+        "Calcium 500 mg and Vitamin D3 200 IU Tablet: 2 tablets daily or 1 tablet twice daily. It is best taken with or just after a meal to improve absorption. ",
+        "Calcium 500 mg and Vitamin D3 400 IU Tablet: 1 tablet twice daily. It is best taken with or just after a meal to improve absorption."
+      ]
+    },
+    "sideEffects": "It is generally well tolerated. If there is experience like nausea, vomiting, stomach cramps, dry mouth, increased thirst, increased urination while taking, noticed to physicians. Constipation may occur.",
+    "pregnancy_lactation": "This combination should be used as directed by physician during pregnancy or while breast-feeding.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "Aclene",
+    "type": "Cream",
+    "generic": "Adapalene",
+    "strength": "0.1%",
+    "company": "Drug International Ltd.",
+    "indications": [
+      "Aclene cream or gel is indicated for topical treatment of acne vulgaris."
+    ],
+    "pharmacology": "Adapalene acts on retinoid receptors that are commonly found in the skin of face, back and chest. Biochemical and pharmacological studies have demonstrated that Adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes, all of that represent important features in the pathology of acne vulgaris. Adapalene binds with specific retinoic acid nuclear receptors that normalize the differentiation of follicular epithelial cells resulting in decreased microcomedone formation. Absorption of Adapalene through human skin is low.",
+    "dosage": {
+      "Cream": [
+        "Adapalene 0.1%: It should be applied to the affected areas of skin, once daily at night-time.",
+        "Adapalene 0.3%: It should be applied to the entire face and any other affected areas of the skin, once daily in the evening.",
+        "Children below 12 years of age: Safety and effectiveness in children below 12 years of age have not been established."
+      ]
+    },
+    "sideEffects": "Erythema, scaling, dryness, pruritus, burning sensation, skin irritation, stinging unburn, acne flares, etc. are commonly seen during the first month of therapy but usually lessen with continued use of the medication.",
+    "pregnancy_lactation": "Use Adapalene during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether this drug is excreted in breast milk. Exercise caution when administering Adapalene to a nursing mother.",
+    "storageConditions": "Store in a cool (below 25°C) and dry place protected from light and moisture. Keep out of the reach of children. Keep the tube tightly closed after use."
+  },
+  {
+    "name": "Oratics",
+    "type": "Dental Gel",
+    "generic": "Benzocaine",
+    "strength": "20% w/w",
+    "company": "ACME Laboratories Ltd.",
+    "indications": [
+      "For the temporary relief of pain due to minor injury or irritation of the mouth and gums like Toothache, Sore gums, Canker sores, Braces, Minor dental procedures, Dentures"
+    ],
+    "pharmacology": "Benzocaine, an ester local anaesthetic, blocks the initiation and conduction of nerve impulses by decreasing the neuronal membrane’s permeability to Na ions, which results in inhibition of depolarisation with resultant blockade of conduction.",
+    "dosage": {
+      "Gel": [
+        "Apply to the affected area up to 4 times daily or as directed by a doctor/dentist. Children under 12 years of age should be supervised during the use of this product. Children under 2 years of age should be consulted to a doctor/dentist prior to the use of this product. An easy application might be done by fixing applicator on the tube’s nozzle. After application, supplied cap should be fixed on top of the applicator."
+      ]
+    },
+    "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
+    "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Store between 15-30° C."
+  },
+  {
+    "name": "Orogel",
+    "type": "Dental Gel",
+    "generic": "Benzocaine",
+    "strength": "20%",
+    "company": "Square Pharmaceuticals PLC",
+    "indications": [
+      "For the temporary relief of pain due to minor injury or irritation of the mouth and gums like Toothache, Sore gums, Canker sores, Braces, Minor dental procedures, Dentures"
+    ],
+    "pharmacology": "Benzocaine, an ester local anaesthetic, blocks the initiation and conduction of nerve impulses by decreasing the neuronal membrane’s permeability to Na ions, which results in inhibition of depolarisation with resultant blockade of conduction.",
+    "dosage": {
+      "Gel": [
+        "Apply to the affected area up to 4 times daily or as directed by a doctor/dentist. Children under 12 years of age should be supervised during the use of this product. Children under 2 years of age should be consulted to a doctor/dentist prior to the use of this product. An easy application might be done by fixing applicator on the tube’s nozzle. After application, supplied cap should be fixed on top of the applicator."
+      ]
+    },
+    "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
+    "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Store between 15-30° C."
+  },
+
+  {
+    "name": "Hemosol-B",
+    "type": "Dialysis Solution",
+    "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
+    "strength": "20%",
+    "company": "Square Pharmaceuticals PLC",
+    "indications": [
+      "Hemosol-B [HCO3 Hemodialysis Solution] solution is indicated in renal failure, Chronic renal failure and Haemodialysis. Hemosol-B serves a crucial biochemical role in the physiological pH buffering system."
+    ],
+    "pharmacology": "Sodium chloride is the major extracellular cation. It is important in electrolyte and fluid balance, osmotic pressure control and water distribution as it restores sodium ions. It is used as a source of electrolytes and water for hydration, treatment of metabolic acidosis, priming solution in haemodialysis and treatment of hyperosmolar diabetes. It is also used as diluents for infusion of compatible drug additives. Sodium bicarbonate raises blood and urinary pH by dissociation to provide bicarbonate ions, which neutralises the hydrogen ion concentration. It also neutralises gastric acid via production of carbon dioxide.",
+    "dosage": {
+      "Gel": [
+        "Acidic component & Bicarbonate Component should be used in the dilution ratio of- Acidic component: 1.00 Volume, Bicarbonate Component: 1.83 Volume, Purified Water: 34.00 Volume."
+      ]
+    },
+    "sideEffects": "Side effects are less common. The side effects include allergies, swelling in the mouth or throatetc.",
+    "pregnancy_lactation": "Pregnancy Category C. Either studies in animals have revealed adverse effects on the fetus (teratogenic or embryocidal or other) and there are no controlled studies in women or studies in women and animals are not available. Drugs should be given only if the potential benefit justifies the potential risk to the fetus.",
+    "storageConditions": "Keep out of reach of children. Not for Injection. Store below 30°C."
+  },
+  {
+    "name": "Alistin DT",
+    "type": "Dispersible Tablet",
+    "generic": "Acetylcysteine",
+    "strength": "600 mg",
+    "company": "Opsonin Pharma Ltd.",
+    "indications": [
+      "Alistin DT is indicated as an adjuvant treatment in certain clinical condition characterized by the presence of thick and viscous mucoid or mucopurulent secretions such as: Chronic bronchopulmonary diseases (chronic obstructive pulmonary disease, emphysema with bronchitis, chronic asthmatic bronchitis, bronchiectasis); Acute bronchopulmonary diseases (asthma with bronchial mucus plugging, bronchitis, bronchopneumonia, tracheobronchitis, bronchiolitis, pulmonary complications of cystic fibrosis, pulmonary complications associated with surgery)."
+    ],
+    "pharmacology": "Acetylcysteine is a mucolytic agent that reduces the viscosity of secretions probably by the splitting of disulphide bonds in mucoproteins. Moreover it gives antisecretory effect. These results in clearing of respiratory ducts and facilitate breathing. Acetylcysteine also has anti-oxidant properties by reacting with free radicals and also by serving as a precursor to glutathione, which is an important intra and extra-cellular antioxidant. By providing anti-oxidant action, it neutralizes exogenous and endogenous oxidants, which in fact act as pathogens in respiratory inflammations.",
+    "dosage": {
+      "tablet": [
+        "Adults and children above 6 years: One effervescent tablet of Acetylcysteine 600 mg a day (preferably in the evening). The duration of treatment should be 5 to 10 days in the acute treatment, whereas it may be continued in the chronic states for several months, according to the advice of the physician. Dissolve the tablets in a glass containing a small quantity of water, mixing it, if necessary, with a spoon. A palatable solution is thus obtained, which can be drunk directly from the glass."
+      ]
+    },
+    "sideEffects": "Like all medicines, Alistin DT can cause side effects, although not everybody gets them. In very rare cases, severe immune reactions may occur such as anaphylactic shock and severe skin reaction. In rare cases the oral administration can be followed by shortness of breath, upset stomach and bronchospasm. The most frequent side effects are headache, increased heart rate, stomatitis, pruritus, urticaria, nausea, vomiting, abdominal pain, fever, decrease in the blood pressure, diarrhoea and noises in the ears.",
+    "pregnancy_lactation": "In case of pregnancy & lactation the medicine should be taken consulting physician or pharmacist.",
+    "storageConditions": "Store in a cool and dry place, protected from light."
+  },
+  {
+    "name": "Audicare",
+    "type": "Ear Drop",
+    "generic": "Ofloxacin + Clotrimazole + Beclomethasone + Lidocaine",
+    "strength": "0.3%+1%+0.025%+2%",
+    "company": "Aristopharma Ltd.",
+    "indications": [
+      "This ear drop is indicated for the treatment of superficial bacterial and fungal infections of the external auditory canal and the middle ear, caused by organisms susceptible to the action of Ofloxacin and Clotrimazole."
+    ],
+    "pharmacology": "It is a combination of an antibacterial, an antifungal, an anti-inflammatory and a topical local anesthetic agent. This ear drop has been specially formulated to maintain the natural environment of the external ear canal. Ofloxacin is a fluoroquinolone that has a broad spectrum of activity against otic pathogens without ototoxicity. Hence Ofloxacin is preferred to Aminoglycosides for any application within the middle ear space. Ofloxacin exerts antibacterial activity by inhibiting DNA gyrase of bacteria. Ofloxacin has been shown to be active against the following organisms responsible for otic infections: Gram-positive: Staphylococcus aureus, Streptococcus pneumoniae. Gram-negative: Escherichia coli, Haemophilus influenzae, Moraxella catarrhalis, Proteus mirabilis, Pseudomonas aeruginosa. Clotrimazole is a synthetic imidazole derivative, which is a broad-spectrum antifungal agent that exerts fungicidal activity against fungi responsible for superficial mycotic infections affecting the outer or middle ear including Candida, Microsporum & Trichophyton. Clotrimazole inhibits Cytochrome P-450 synthesis of Ergosterol, which decreases fungal cell wall integrity thus inhibits fungal growth. Clotrimazole also has activity against certain bacteria such as Streptococci and Staphylococci. The antibacterial effect of Clotrimazole is advantageous to treat mixed bacterial-fungal infections. Beclomethasone Dipropionate is a potent steroid as compared with other topical corticosteroids. Beclomethasone like other topical corticosteroids, has anti-inflammatory, antipruritic, and vasoconstrictive properties. It induces phospholipase A2 and sequentially inhibits the release of arachidonic acid, thereby depressing the formation, release, and activity of prostaglandins, leukotrienes, and other inflammatory mediators. Lidocaine Hydrochloride is a topical local anesthetic which helps to reduce pain and stinging in the ear.",
+    "dosage": {
+      "drop": [
+        "Adults & Children: Instill 2-5 drops three to four times daily into the affected ear for 7-14 days.",
+        "Otitis Externa with intact tympanic membrane: From age 06 months & older.",
+        "Chronic Suppurative Otitis Media with perforated tympanic membrane: 12 years & older."
+      ]
+    },
+    "sideEffects": "The systemic side-effects are not common with this ear drops. The following adverse reactions may be observed when using Audicare: itching, burning, irritation, dryness, earache, headache, vertigo, dizziness, redness, folliculitis, hypertrichosis, acne form eruptions and hypopigmentation.",
+    "pregnancy_lactation": "Safety during pregnancy or lactation has not been established. It is not known whether the active substances pass into breast milk when applied topically. Therefore, the potential benefit of this product during pregnancy or lactation, should be weighed against possible hazard to the fetus or the nursing infant.",
+    "storageConditions": "Keep away from light and moisture, store below 25°C."
+  },
+
+  {
+    "name": "Fiberlax Ultra",
+    "type": "Effervescent Granules",
+    "generic": "Ispaghula Husk + Mebeverine Hydrochloride",
+    "strength": "3.5 gm sachet",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": [
+      "Ispaghula Husk and Mebeverine Hydrochloride is indicated for the treatment of all kinds of IBS such as IBS-C, IBS-D & IBS-A."
+    ],
+    "pharmacology": "This is a combination of Ispaghula Husk and Mebeverine Hydrochloride which is specially designed for IBS. Painful spasms of the gut and irregular bowel habits are the main symptoms of IBS. This product successfully relives these symptoms. Ispaghula Husk contains up to 70% of soluble and 30% of insoluble fibers. This unique feature makes it capable of absorbing up to 40 times of water of its own weight. Ispaghula Husk increases fiber in the diet, helps digestive system work more efficiently and gently relieve bowel problem in a natural way helping to restore and maintain regularity. Mebeverine is an antispasmodic drug that relieves spasms and cramps which occur in the gut causing pain without affecting normal gut motility.",
+    "dosage": {
+      "granules": [
+        "Ispaghula Husk and Mebeverine Hydrochloride is intended for oral use as a suspension in a drink of water. The granules of the sachet should be stirred into a glass of water and taken as soon as the effervescence subsides.",
+        "Adults and children over 12 years: One sachet in the morning and one in the evening with 1 glass of water. This medicine should be taken before half an hour of meal. A midday dose may be taken if necessary."
+      ]
+    },
+    "sideEffects": "Ispaghula Husk and Mebeverine Hydrochloride are generally safe. But, some people may experience mild abdominal distension or flatulence for the first few days after starting this medicine. These effects should lessen as you continue the treatment.",
+    "pregnancy_lactation": "Ispaghula Husk is not absorbed into the bloodstream and does not pass into breast milk but Mebeverine Hydrochloride is absorbed into the bloodstream and passes through the breast milk. Therefore, this medicine should not be used during pregnancy unless considered essential by the physician.",
+    "storageConditions": "This should be stored at room temperature. Protect from moisture and light. Keep it away from children."
+  },
+
+  {
+    "name": "Bio Eazylax",
+    "type": "Effervescent Powder",
+    "generic": "Ispaghula Husk + Sonapata",
+    "strength": "(3 gm+1 gm)/4 gm",
+    "company": "Bexter (Ay) Laboratories",
+    "indications": [
+      "This is indicated in Constipation, Intestinal inflammation, IBS Ulcerative colitis & Piles."
+    ],
+    "pharmacology": "This is the formulation of Isabgul Spicy which is very effective herbal formulation of two mostly laxative medicinal herbs Plantago ovata & Cassia angustifolia. Ispaghula is capable of absorbing up to 40 times of water and Sonapata act as a inhibitor of water & electrolyte absorption from the large intestine that increase the volume and pressure of the intestinal contents. As a result it stimulates the peristaltic movement of the gut. In this way Isabgul Plus helps regular bowel movement and relieves constipation. Ispaghula has the ability to bind with bile acid; an important component of fat digestion found in our body from cholesterol. This process lowers circulating blood cholesterol level by excretion of those fats. Regular intake of Isabgul plus also helps to regularizes the function of GIT, cures constipation, intestinal irritation, intestinal inflammation, IBS & ulcerative colitis bulk forming of stool & ease evacuation, reduce hyperacidity, increase digestion & improves the function of digestive system as well as helps to normalize the gut health.",
+    "dosage": {
+      "powder": [
+        "Adult: 1 sachet or 4 gm powder with 150-200 ml water 1-2 times daily.",
+        "Children: 6-12 years- 1/2 to 1 sachet or 2-4 gm powder with 150-200 ml water 1-2 times daily, Under 6 years- As directed by the physician. 1/2 sachet or 2 gm powder with 150-200 ml water 1-2 times daily."
+      ]
+    },
+    "sideEffects": "In few cases it may occurs flatulence, stomach irritation & intestinal obstruction.",
+    "pregnancy_lactation": "This should not be used during pregnancy. It does not pass into breast milk. Therefore, it can be used safely lactation",
+    "storageConditions": "Store in a cool & dry place, protect from light. Keep out of the reach of the children."
+  },
+
+  {
+    "name": "Aceten",
+    "type": "Effervescent Tablet",
+    "generic": "Acetylcysteine",
+    "strength": "600 mg",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "indications": [
+      "Aceten is indicated as an adjuvant treatment in certain clinical condition characterized by the presence of thick and viscous mucoid or mucopurulent secretions such as: Chronic bronchopulmonary diseases (chronic obstructive pulmonary disease, emphysema with bronchitis, chronic asthmatic bronchitis, bronchiectasis); Acute bronchopulmonary diseases (asthma with bronchial mucus plugging, bronchitis, bronchopneumonia, tracheobronchitis, bronchiolitis, pulmonary complications of cystic fibrosis, pulmonary complications associated with surgery)."
+    ],
+    "pharmacology": "Acetylcysteine is a mucolytic agent that reduces the viscosity of secretions probably by the splitting of disulphide bonds in mucoproteins. Moreover it gives antisecretory effect. These results in clearing of respiratory ducts and facilitate breathing. Acetylcysteine also has anti-oxidant properties by reacting with free radicals and also by serving as a precursor to glutathione, which is an important intra and extra-cellular antioxidant. By providing anti-oxidant action, it neutralizes exogenous and endogenous oxidants, which in fact act as pathogens in respiratory inflammations.",
+    "dosage": {
+      "tablet": [
+        "Effervescent tablet or Dispersible tablet: Adults and children above 6 years: One effervescent tablet of Acetylcysteine 600 mg a day (preferably in the evening). The duration of treatment should be 5 to 10 days in the acute treatment, whereas it may be continued in the chronic states for several months, according to the advice of the physician. Dissolve the tablets in a glass containing a small quantity of water, mixing it, if necessary, with a spoon. A palatable solution is thus obtained, which can be drunk directly from the glass."
+      ]
+    },
+    "sideEffects": "Like all medicines, Aceten can cause side effects, although not everybody gets them. In very rare cases, severe immune reactions may occur such as anaphylactic shock and severe skin reaction. In rare cases the oral administration can be followed by shortness of breath, upset stomach and bronchospasm. The most frequent side effects are headache, increased heart rate, stomatitis, pruritus, urticaria, nausea, vomiting, abdominal pain, fever, decrease in the blood pressure, diarrhoea and noises in the ears.",
+    "pregnancy_lactation": "In case of pregnancy & lactation the medicine should be taken consulting physician or pharmacist.",
+    "storageConditions": "Store in a cool and dry place, protected from light."
+  },
+  {
+    "name": "Ascab",
+    "type": "Emulsion",
+    "generic": "Benzyl Benzoate",
+    "strength": "25%",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "indications": ["Ascab is indicated for scabies"],
+    "pharmacology": "Benzyl benzoate is an acaricide that is used in the treatment of scabies. Benzyl benzoate exerts toxic effects on the nervous system of the parasite, resulting in its death. It is also toxic to mite ova, though its exact mechanism of action is unknown. In vitro, benzyl benzoate has been found to kill the Sarcoptes mite within 5 minutes.",
+    "dosage": {
+      "": [
+        "Adults: Apply 3 times at 12 hourly intervals over the whole body, wash-off 12 hr after the last application."
+      ]
+    },
+    "sideEffects": "Irritant to eyes and mucous membranes, allergic dermatitis reactions, drying effects in the elderly.",
+    "pregnancy_lactation": "Pregnancy Category: Not Classified. FDA has not yet classified the drug into a specified pregnancy category.",
+    "storageConditions": "Store below 25°C."
+  },
+  {
+    "name": "Scabex",
+    "type": "Emulsion",
+    "generic": "Benzyl Benzoate",
+    "strength": "25%",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "indications": ["Ascab is indicated for scabies"],
+    "pharmacology": "Benzyl benzoate is an acaricide that is used in the treatment of scabies. Benzyl benzoate exerts toxic effects on the nervous system of the parasite, resulting in its death. It is also toxic to mite ova, though its exact mechanism of action is unknown. In vitro, benzyl benzoate has been found to kill the Sarcoptes mite within 5 minutes.",
+    "dosage": {
+      "": [
+        "Adults: Apply 3 times at 12 hourly intervals over the whole body, wash-off 12 hr after the last application."
+      ]
+    },
+    "sideEffects": "Irritant to eyes and mucous membranes, allergic dermatitis reactions, drying effects in the elderly.",
+    "pregnancy_lactation": "Pregnancy Category: Not Classified. FDA has not yet classified the drug into a specified pregnancy category.",
+    "storageConditions": "Store below 25°C."
+  },
+  {
+    "name": "Propofol",
+    "type": "Emulsion for infusion",
+    "generic": "Propofol",
+    "strength": "200 mg/20 ml",
+    "company": "Techno Drugs Ltd.",
+    "indications": [
+      "Induction and maintenance of general anaesthesia. Sedation during intensive care. Sedation for surgical and diagnostic procedures."
+    ],
+    "pharmacology": "Propofol is a sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation. Intravenous injection of a therapeutic dose of propofol produces hypnosis rapidly with minimal excitation, usually within 40 seconds from the start of an injection (the time for one arm-brain circulation). The action of propofol involves a positive modulation of the inhibitory function of the neurotransmitter gama-aminobutyric acid (GABA) through GABA-A receptors.",
+    "dosage": {
+      "": [
+        "Adults: The dosage of Propofol should be titrated individually against the response of the patient. The ordinary initial dosage in adults is 40 mg (4 ml) by slow intravenous bolus injection at intervals of 10 seconds until the clinical signs show the onset of anaesthesia. The ordinary induction dose in healthy patient below 55 years of age is 2.2-2.5 mg/kg. A dose of 1.0-1.5 mg/kg is often sufficient for older patient. Lower doses, most often 20 mg (2 ml) at intervals of 10 seconds, are recommended for patient of ASA grades 3 and 4."
+      ]
+    },
+    "sideEffects": "Hypotension and transient apnea may occur at the induction of anaesthesia, and may be severe especially in patients who are in a poor general condition. Epileptic movement, convulsions and dystonic reactions have been seen in rare cases. Pulmonary oedema has also been reported. Headache, nausea and, more rarely, vomiting may occur in some patients during recovery. Recovery may also be associated with another short period of impaired consciousness. Hypersensitivity has been reported in some cases, connected with anaphylactic symptoms such as marked hypotension, bronchospasm, oedema and facial erythema. Some cases of cardiac arrest have occurred in connection with the administration of Propofol. In connection with long-term administration of Propofol, green or reddish brown discolouration of urine may occur. This is caused by the quinol metabolites of Propofol, and is not dangerous. As with other anaesthetics, altered sexual behaviour may occur.",
+    "pregnancy_lactation": "Due to insufficient experience, propofol shall not be used during pregnancy. Propofol is rapidly distributed to the foetus and shall therefore not be used for obstetric anaesthesia. Safety to the neonate has not been established in cases, where propofol has been administered to lactating women.",
+    "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+  },
+
+  {
+    "name": "Urokit",
+    "type": "Extended-Release Tablet (Wax Matrix",
+    "generic": "Potassium Citrate",
+    "strength": "1060 mg",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "indications": [
+      "Renal Tubular Acidosis (RTA) With Calcium Stones: Urokit citrate is indicated for the management of renal tubular acidosis",
+      "Hypocitraturic Calcium Oxalate Nephrolithiasis Of Any Etiology: Urokit is indicated for the management of Hypocitraturic calcium oxalate nephrolithiasis",
+      "Uric Acid Lithiasis With Or Without Calcium Stones: Urokit is indicated for the management of Uric acid lithiasis with or without calcium stones"
+    ],
+    "pharmacology": "When Potassium Citrate is given orally, the metabolism of absorbed citrate produces an alkaline load. The induced alkaline load in turn increases urinary pH and raises urinary citrate by augmenting citrate clearance without measurably altering ultrafilterable serum citrate. Thus, Potassium Citrate therapy appears to increase urinary citrate principally by modifying the renal handling of citrate, rather than by increasing the filtered load of citrate. The increased filtered load of citrate may play some role, however, as in small comparisons of oral citrate and oral bicarbonate, citrate had a greater effect on urinary citrate.",
+    "dosage": {
+      "tablet": [
+        "Treatment with extended release potassium citrate should be added to a regimen that limits salt intake (avoidance of foods with high salt content and of added salt at the table) and encourages high fluid intake (urine volume should be at least two liters per day). The objective of treatment with Potassium Citrate is to provide Potassium Citrate in sufficient dosage to restore normal urinary citrate (greater than 320 mg/day and as close to the normal mean of 640 mg/day as possible), and to increase urinary pH to a level of 6.0 or 7.0. Monitor serum electrolytes (sodium, potassium, chloride and carbon dioxide), serum creatinine and complete blood counts every four months and more frequently in patients with cardiac disease, renal disease or acidosis. Perform electrocardiograms periodically. Treatment should be discontinued if there is hyperkalemia, a significant rise in serum creatinine or a significant fall in blood hemocrit or hemoglobin."
+      ]
+    },
+    "sideEffects": "Nausea, vomiting, diarrhea, and stomach pain may occur. Taking it after meals will help prevent these side effects. An empty tablet shell may appear in your stool. This is harmless because your body has already absorbed the medication. Urokit may cause serious stomach or intestinal problems (e.g., bleeding, blockage, puncture). This medication may cause high potassium levels in the blood (hyperkalemia). A very serious allergic reaction to Urokit is rare.",
+    "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have not been conducted. It is also not known whether Potassium Citrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Potassium Citrate should be given to a pregnant woman only if clearly needed.",
+    "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+  },
+  {
+    "name": "Urilit",
+    "type": "Extended-Release Tablet (Wax Matrix",
+    "generic": "Potassium Citrate",
+    "strength": "1080 mg",
+    "company": "Opsonin Pharma Ltd.",
+    "indications": [
+      "Renal Tubular Acidosis (RTA) With Calcium Stones: Urokit citrate is indicated for the management of renal tubular acidosis",
+      "Hypocitraturic Calcium Oxalate Nephrolithiasis Of Any Etiology: Urokit is indicated for the management of Hypocitraturic calcium oxalate nephrolithiasis",
+      "Uric Acid Lithiasis With Or Without Calcium Stones: Urokit is indicated for the management of Uric acid lithiasis with or without calcium stones"
+    ],
+    "pharmacology": "When Potassium Citrate is given orally, the metabolism of absorbed citrate produces an alkaline load. The induced alkaline load in turn increases urinary pH and raises urinary citrate by augmenting citrate clearance without measurably altering ultrafilterable serum citrate. Thus, Potassium Citrate therapy appears to increase urinary citrate principally by modifying the renal handling of citrate, rather than by increasing the filtered load of citrate. The increased filtered load of citrate may play some role, however, as in small comparisons of oral citrate and oral bicarbonate, citrate had a greater effect on urinary citrate.",
+    "dosage": {
+      "tablet": [
+        "Treatment with extended release potassium citrate should be added to a regimen that limits salt intake (avoidance of foods with high salt content and of added salt at the table) and encourages high fluid intake (urine volume should be at least two liters per day). The objective of treatment with Potassium Citrate is to provide Potassium Citrate in sufficient dosage to restore normal urinary citrate (greater than 320 mg/day and as close to the normal mean of 640 mg/day as possible), and to increase urinary pH to a level of 6.0 or 7.0. Monitor serum electrolytes (sodium, potassium, chloride and carbon dioxide), serum creatinine and complete blood counts every four months and more frequently in patients with cardiac disease, renal disease or acidosis. Perform electrocardiograms periodically. Treatment should be discontinued if there is hyperkalemia, a significant rise in serum creatinine or a significant fall in blood hemocrit or hemoglobin."
+      ]
+    },
+    "sideEffects": "Nausea, vomiting, diarrhea, and stomach pain may occur. Taking it after meals will help prevent these side effects. An empty tablet shell may appear in your stool. This is harmless because your body has already absorbed the medication. Urokit may cause serious stomach or intestinal problems (e.g., bleeding, blockage, puncture). This medication may cause high potassium levels in the blood (hyperkalemia). A very serious allergic reaction to Urokit is rare.",
+    "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have not been conducted. It is also not known whether Potassium Citrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Potassium Citrate should be given to a pregnant woman only if clearly needed.",
+    "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+  },
+  {
+    "name": "Citra-K",
+    "type": "Extended-Release Tablet (Wax Matrix",
+    "generic": "Potassium Citrate",
+    "strength": "1080 mg",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "indications": [
+      "Renal Tubular Acidosis (RTA) With Calcium Stones: Urokit citrate is indicated for the management of renal tubular acidosis",
+      "Hypocitraturic Calcium Oxalate Nephrolithiasis Of Any Etiology: Urokit is indicated for the management of Hypocitraturic calcium oxalate nephrolithiasis",
+      "Uric Acid Lithiasis With Or Without Calcium Stones: Urokit is indicated for the management of Uric acid lithiasis with or without calcium stones"
+    ],
+    "pharmacology": "When Potassium Citrate is given orally, the metabolism of absorbed citrate produces an alkaline load. The induced alkaline load in turn increases urinary pH and raises urinary citrate by augmenting citrate clearance without measurably altering ultrafilterable serum citrate. Thus, Potassium Citrate therapy appears to increase urinary citrate principally by modifying the renal handling of citrate, rather than by increasing the filtered load of citrate. The increased filtered load of citrate may play some role, however, as in small comparisons of oral citrate and oral bicarbonate, citrate had a greater effect on urinary citrate.",
+    "dosage": {
+      "tablet": [
+        "Treatment with extended release potassium citrate should be added to a regimen that limits salt intake (avoidance of foods with high salt content and of added salt at the table) and encourages high fluid intake (urine volume should be at least two liters per day). The objective of treatment with Potassium Citrate is to provide Potassium Citrate in sufficient dosage to restore normal urinary citrate (greater than 320 mg/day and as close to the normal mean of 640 mg/day as possible), and to increase urinary pH to a level of 6.0 or 7.0. Monitor serum electrolytes (sodium, potassium, chloride and carbon dioxide), serum creatinine and complete blood counts every four months and more frequently in patients with cardiac disease, renal disease or acidosis. Perform electrocardiograms periodically. Treatment should be discontinued if there is hyperkalemia, a significant rise in serum creatinine or a significant fall in blood hemocrit or hemoglobin."
+      ]
+    },
+    "sideEffects": "Nausea, vomiting, diarrhea, and stomach pain may occur. Taking it after meals will help prevent these side effects. An empty tablet shell may appear in your stool. This is harmless because your body has already absorbed the medication. Urokit may cause serious stomach or intestinal problems (e.g., bleeding, blockage, puncture). This medication may cause high potassium levels in the blood (hyperkalemia). A very serious allergic reaction to Urokit is rare.",
+    "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have not been conducted. It is also not known whether Potassium Citrate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Potassium Citrate should be given to a pregnant woman only if clearly needed.",
+    "storageConditions": "Propofol should be stored at a temperature not exceeding 25º C. It must not be frozen. Any unused solution shall be discarded."
+  },
+  {
+    "name": "Pase OFT",
+    "type": "Flash Tablet",
+    "generic": "Clonazepam",
+    "strength": "0.5 mg",
+    "company": "Opsonin Pharma Ltd.",
+    "indications": [
+      "It is indicated for the treatment of panic disorder, with or without agoraphobia. Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks. It is also indicated alone or as an adjunct in the treatment of the Lennox-Gastaut Syndrome (petit mal variant), akinetic and myoclonic seizures. It may be indicated in patients with absence seizures (petit mal) who have failed to respond to succinimides.The effectiveness of Pase OFT in long-term use, that is, for more than 9 weeks, has not been systematically studied in controlled clinical trials. The physician who elects to use Pase OFT for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient."
+    ],
+    "pharmacology": "Clonazepam exhibits pharmacological properties which are common to benzodiazepines and include anticonvulsive, sedative, muscle relaxing and anxiolytic effects. The central actions of benzodiazepines are mediated through an enhancement of the GABAergic neurotransmission at inhibitory synapses. In the presence of benzodiazepines the affinity of the GABA receptor for the neurotransmitter is enhanced through positive allosteric modulation resulting in an increased action of released GABA on the postsynaptic transmembrane chloride ion flux.",
+    "dosage": {
+      "tablet": [
+        "Adults: The initial dose for adults with seizure disorders should not exceed 1.5 mg/day divided into three doses. Dosage may be increased in increments of 0.5 to 1 mg every 3 days until seizures are adequately controlled or until side effects preclude any further increase. Maintenance dosage must be individualized for each patient depending upon response. Maximum recommended daily dose is 20 mg.",
+        "The initial dose for adults with panic disorder is 0.25 mg given in two divided dose. An increase to the target dose for most patients of 1 mg/day may be made after 3 days.",
+        "Pediatric Patients: In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses."
+      ]
+    },
+    "sideEffects": "The most frequently occurring side effects of Pase OFT are referable to CNS depression. Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%. In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients. Abnormal eye movements, aphonia, coma, tremor, vertigo, confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis & palpitations may also occur.",
+    "pregnancy_lactation": "From preclinical studies it cannot be excluded that clonazepam possesses the possibility of producing congenital malformations. From epidemiological evaluations there is evidence that anticonvulsant drugs act as teratogens. However, it is difficult to determine from published epidemiological reports which drug or combination of drugs is responsible for defects in the newborn. The possibility also exists that other factors e.g. genetic factors or the epileptic condition itself may be more important than drug therapy in leading to birth defects. Under these circumstances, the drug should only be administered to pregnant women if the potential benefits outweigh the risk to the foetus. During pregnancy, Clonazepam may be administered only if there is a compelling indication. Administration of high doses in the last trimester of pregnancy or during labour can cause irregularities in the heartbeat of the unborn child and hypothermia, hypotonia, mild respiratory depression and poor feeding in the neonate. It should be borne in mind that both pregnancy itself and abrupt discontinuation of the medication can cause exacerbation of epilepsy. Withdrawal symptoms in newborn infants have occasionally been reported with benzodiazepines.",
+    "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
+  },
+  {
+    "name": "Colagel",
+    "type": "Gel",
+    "generic": "L-Lysine Hydrochloride",
+    "strength": "15%",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": [
+      "For the treatment and prevention of infection in cuts, wounds abrasion, surgical incisions and burns. For the treatment of decubitus or stasis ulcers, advance chronic wounds, infected traumatic lesions etc."
+    ],
+    "pharmacology": "The active ingredient, Lysine hydrochloride is an essential amino acid, soluble in water; has been observed to promote in-situ cellular expansion in acute and chronic wound beds, in presence of blood plasma derived growth factor(s). The essential amino acid promotes healing of wounds by active and controlled regeneration of in-situ cells. It also protects the wounds against common organisms.",
+    "dosage": {
+      "": [
+        "Gel or Ointment may be used as often as required, preferably at an interval of 24, 48, 72 hrs. The affected areas should be cleaned with normal saline and/or surgically if necessary till the wound bed looks red/few bleeding points appear in the cleaned wound bed. Then gel should be applied liberally. The areas may be covered with a moist dressing and/or a bandage."
+      ]
+    },
+    "sideEffects": "Slight itching sensation might be there on application.",
+    "pregnancy_lactation": "No information provided.",
+    "storageConditions": "Store in a cool and dry place, protected from light."
+  },
+  {
+    "name": "Aclene Plus",
+    "type": "Gel",
+    "generic": "Adapalene + Benzoyl peroxide",
+    "strength": "0.1%+2.5%",
+    "company": "Drug International Ltd.",
+    "indications": [
+      "Adapalene & Benzoyl peroxide gel is indicated for the topical treatment of acne vulgaris in patients 12 years of age and older."
+    ],
+    "pharmacology": "Adapalene & Benzoyl peroxide gel is indicated for the topical treatment of acne vulgaris in patients 12 years of age and older. Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that Adapalene is a modulator of cellular differentiation, keratinization and inflammatory processes. Adapalene binds with specific retinoic acid nuclear receptors that normalize the differentiation of follicular epithelial cells resulting in decreased microcomedone formation. Benzoyl peroxide is an oxidizing agent with bacteriocidal and keratolytic effects..",
+    "dosage": {
+      "": [
+        "Gel or Ointment may be used as often as required, preferably at an interval of 24, 48, 72 hrs. The affected areas should be cleaned with normal saline and/or surgically if necessary till the wound bed looks red/few bleeding points appear in the cleaned wound bed. Then gel should be applied liberally. The areas may be covered with a moist dressing and/or a bandage."
+      ]
+    },
+    "sideEffects": "Erythema, scaling, dryness, and stinging/ burning may occur. Most commonly reported adverse events are dry skin, contact dermatitis, application site burning, application site irritation, and skin irritation.",
+    "pregnancy_lactation": "There are no well-controlled trials in pregnant women treated with Adapalene and Benzoyl peroxide. Animal reproduction studies have not been conducted with the combination gel or Benzoyl peroxide. Furthermore, such studies are not always predictive of human response; therefore, this preparation should be used during pregnancy only if the potential benefit justifies the risk to the fetus. It is not known whether Adapalene or Benzoyl peroxide is excreted in human milk following use. Caution should be exercised when administered to a nursing woman.",
+    "storageConditions": "Store in a cool (below 25°C) and dry place protected from light and moisture. Keep out of the reach of children. Keep the tube tightly closed after use."
+  },
 
   {
     "name": "Cholvax",
@@ -2643,7 +3262,7 @@
     "sideEffects": "The following adverse events are known to occur with cholera vaccine use. Acute gastroenteritis, diarrhea, fever, vomiting, abdominal pain, itching, rash, nausea, weakness, cough, vertigo, dryness of mouth, oral ulcer (rare), sore throat (rare) and yellowing of urine (rare). It has been observed that the incidence of adverse events is less after the second dose as compared to the first.",
     "pregnancy_lactation": "No specific clinical studies have been performed to evaluate the safety and immunogenicity of cholera vaccine in pregnant women and for the fetus. However, administration of cholera vaccine to pregnant women and nursing mother may be considered after careful evaluation of the benefits and risks in case of a medical emergency or an epidemic.",
     "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Do not freeze. Discard vaccine if frozen. Protect from light."
-  }
+  },
 
   {
     "name": "Dukoral",
@@ -2657,7 +3276,7 @@
     "sideEffects": "The following adverse events are known to occur with cholera vaccine use. Acute gastroenteritis, diarrhea, fever, vomiting, abdominal pain, itching, rash, nausea, weakness, cough, vertigo, dryness of mouth, oral ulcer (rare), sore throat (rare) and yellowing of urine (rare). It has been observed that the incidence of adverse events is less after the second dose as compared to the first.",
     "pregnancy_lactation": "No specific clinical studies have been performed to evaluate the safety and immunogenicity of cholera vaccine in pregnant women and for the fetus. However, administration of cholera vaccine to pregnant women and nursing mother may be considered after careful evaluation of the benefits and risks in case of a medical emergency or an epidemic.",
     "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Do not freeze. Discard vaccine if frozen. Protect from light."
-  }
+  },
 
   {
     "name": "Rabivax",
@@ -2671,7 +3290,21 @@
     "sideEffects": "Minor local reactions like pain, erythema, oedema, pruritus and induration at the injection site and lasting to 24-48 hours. Moderate fever, shivering, fainting, asthenia, dizziness, respiratory manifestations (dyspnoea, wheezing), fever, abdominal pain, vomiting and allergic skin reactions (urticaria, rash, itching).",
     "pregnancy_lactation": "Pregnancy: The potential risk of administration of rabies vaccine during pregnancy is unknown. Due to the severity of the disease, pregnancy is not considered to be a contraindication to post-exposure prophylaxis. Lactation: It is not known whether the vaccine is excreted in human breast milk. Due to the severity of the disease, breast-feeding is not considered a contraindication.",
     "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Protect from light. Do not keep in the deep freeze."
-  }
+  },
+
+  {
+    "name": "Influvax Tetra",
+    "type": "Injection",
+    "generic": "Inactivated Influenza Vaccine",
+    "strength": "0.5 ml/pre-filled syringe",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Prophylaxis of influenza (flu), especially in those who run an increased risk of associated complications. The use of Influvax Tetra should be based on official recommendations.",
+    "pharmacology": " ",
+    "dosage": "Adults and children over 36 months of age: 0.5ml. Children from 6 to 35 months of age: clinical data are limited. Doses of 0.25 ml or 0.5 ml have been used.",
+    "sideEffects": "No side effect",
+    "pregnancy_lactation": "The limited data from vaccinations in pregnant women do not indicate that adverse foetal and maternal outcomes were attributable to the vaccine. The use of this vaccine may be considered from the second trimester of pregnancy. For pregnant women with medical conditions that increase their risk of complications from influenza, administration of the vaccine is recommended, irrespective of their stage of pregnancy. Inactivated Influenza Vaccine may be used during lactation.",
+    "storageConditions": "Influvax Tetra must be stored in a refrigerator (2° C-8° C). Do not freeze. Keep the syringe in the outer carton in order to protect from light. Any unused product or waste material should be disposed of in accordance with local requirements."
+  },
 
   {
     "name": "Influvax Tetra",
@@ -2686,20 +3319,4 @@
     "pregnancy_lactation": "The limited data from vaccinations in pregnant women do not indicate that adverse foetal and maternal outcomes were attributable to the vaccine. The use of this vaccine may be considered from the second trimester of pregnancy. For pregnant women with medical conditions that increase their risk of complications from influenza, administration of the vaccine is recommended, irrespective of their stage of pregnancy. Inactivated Influenza Vaccine may be used during lactation.",
     "storageConditions": "Influvax Tetra must be stored in a refrigerator (2° C-8° C). Do not freeze. Keep the syringe in the outer carton in order to protect from light. Any unused product or waste material should be disposed of in accordance with local requirements."
   }
-
-  {
-    "name": "Influvax Tetra",
-    "type": "Injection",
-    "generic": "Inactivated Influenza Vaccine",
-    "strength": "0.5 ml/pre-filled syringe",
-    "company": "Incepta Pharmaceuticals Ltd.",
-    "indications": "Prophylaxis of influenza (flu), especially in those who run an increased risk of associated complications. The use of Influvax Tetra should be based on official recommendations.",
-    "pharmacology": " ",
-    "dosage": "Adults and children over 36 months of age: 0.5ml. Children from 6 to 35 months of age: clinical data are limited. Doses of 0.25 ml or 0.5 ml have been used.",
-    "sideEffects": "No side effect",
-    "pregnancy_lactation": "The limited data from vaccinations in pregnant women do not indicate that adverse foetal and maternal outcomes were attributable to the vaccine. The use of this vaccine may be considered from the second trimester of pregnancy. For pregnant women with medical conditions that increase their risk of complications from influenza, administration of the vaccine is recommended, irrespective of their stage of pregnancy. Inactivated Influenza Vaccine may be used during lactation.",
-    "storageConditions": "Influvax Tetra must be stored in a refrigerator (2° C-8° C). Do not freeze. Keep the syringe in the outer carton in order to protect from light. Any unused product or waste material should be disposed of in accordance with local requirements."
-  }
-
-
 ]
