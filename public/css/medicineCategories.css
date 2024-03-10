@@ -2,13 +2,11 @@
   padding: 25px 90px 40px;
 }
 .title {
-  background-color: rgba(255, 255, 255, 0.788);
   max-width: 600px;
   padding-left: 15px;
-  font-size: x-large;
-  color: #435b66;
-  /* margin-left: 10px; */
+  color: #4b4343;
   position: relative;
+  background: transparent;
 }
 .title::before {
   position: absolute;
@@ -16,7 +14,18 @@
   height: 100%;
   width: 8px;
   left: 0;
-  background: rgb(255, 255, 255);
+  background: rgba(255, 255, 255, 0.911);
+}
+.tagHeaderBlurBG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -10;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  background: rgba(255, 255, 255, 0.425);
 }
 .containar {
   display: grid;
@@ -50,19 +59,6 @@
   border: 1px solid rgba(255, 255, 255, 0.486); /* Apply a border to blur */
   border-radius: inherit; /* Inherit the border radius from the parent element */
   filter: blur(1px); /* Apply the blur effect */
-}
-
-.smallBlurBG {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  z-index: -10;
-  border-radius: 10px;
-  backdrop-filter: blur(70px);
-  -webkit-backdrop-filter: blur(70px);
-  background: rgba(255, 255, 255, 0.125);
 }
 
 .list:hover {

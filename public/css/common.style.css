@@ -13,8 +13,7 @@ body {
 }
 main {
   width: 85%;
-  /* height: calc(100vh - 120px); */
-  height: calc(100vh - 160px);
+  height: calc(100vh - 140px);
   margin: auto;
   overflow-y: auto;
   position: relative;
@@ -41,6 +40,18 @@ main {
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.45);
   z-index: -10;
 }
+.smallBlurBG {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -10;
+  border-radius: 10px;
+  backdrop-filter: blur(50px);
+  -webkit-backdrop-filter: blur(50px);
+  background: rgba(255, 255, 255, 0.125);
+}
 
 /* Optional scrollbar styling (adjust as needed) */
 main::-webkit-scrollbar {
@@ -53,4 +64,13 @@ main:hover::-webkit-scrollbar-thumb {
 main::-webkit-scrollbar-thumb {
   background-color: rgba(0, 0, 0, 0.082);
   border-radius: 10px;
+}
+
+@media only screen and (max-width: 768px) {
+  main {
+    height: calc(100vh - 90px);
+  }
+  .blurBG_2 {
+    height: calc(100vh - 90px);
+  }
 }

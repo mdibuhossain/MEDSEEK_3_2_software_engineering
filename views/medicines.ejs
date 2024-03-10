@@ -12,12 +12,15 @@
     <main>
       <div class="blurBG_2"></div>
       <section class="body_containar">
-        <h2 class="title">
-          <%= meds[0].type %>
-          <span style="font-weight: 100; font-size: large"
-            >Available brand names</span
-          >
-        </h2>
+        <div class="title">
+          <div class="tagHeaderBlurBG"></div>
+          <h2>
+            <%= meds[0].type %>
+            <span style="font-weight: 100; font-size: large"
+              >Available brand names</span
+            >
+          </h2>
+        </div>
         <div class="containar">
           <% meds.map((med)=>{ %>
           <a
@@ -26,14 +29,13 @@
             data-tilt-speed="1000"
             data-tilt-perspective="500"
             href="medicine/<%= med._id %>"
+            class="list"
           >
             <div class="smallBlurBG"></div>
-            <div class="list">
-              <h4><%= med.name %></h4>
-              <p><%= med.strength %></p>
-              <p><%= med.generic %></p>
-              <p><%= med.company %></p>
-            </div>
+            <h4><%= med.name %></h4>
+            <p><%= med.strength %></p>
+            <p><%= med.generic %></p>
+            <p><%= med.company %></p>
           </a>
           <% }) %>
         </div>
