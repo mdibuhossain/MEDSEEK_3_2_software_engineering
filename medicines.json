@@ -1589,4 +1589,144 @@
     "pregnancy_lactation": "From preclinical studies it cannot be excluded that clonazepam possesses the possibility of producing congenital malformations. From epidemiological evaluations there is evidence that anticonvulsant drugs act as teratogens. However, it is difficult to determine from published epidemiological reports which drug or combination of drugs is responsible for defects in the newborn. The possibility also exists that other factors e.g. genetic factors or the epileptic condition itself may be more important than drug therapy in leading to birth defects. Under these circumstances, the drug should only be administered to pregnant women if the potential benefits outweigh the risk to the foetus. During pregnancy, Clonazepam may be administered only if there is a compelling indication. Administration of high doses in the last trimester of pregnancy or during labour can cause irregularities in the heartbeat of the unborn child and hypothermia, hypotonia, mild respiratory depression and poor feeding in the neonate. It should be borne in mind that both pregnancy itself and abrupt discontinuation of the medication can cause exacerbation of epilepsy. Withdrawal symptoms in newborn infants have occasionally been reported with benzodiazepines.",
     "storageConditions": "Keep in a dry place away from light and heat. Keep out of the reach of children."
   }
+
+  {
+    "name": "Cholvax",
+    "type": "Oral Suspension",
+    "generic": "Oral Cholera Vaccine",
+    "strength": "1.5 ml/vial",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Cholvax is indicated for active immunization against Vibrio cholerae. The vaccine can be administered to anyone above the age of 1 year. Data for the safety and efficacy of the vaccine in infants (less than 1 year of age) is not available. The earliest onset of protection can be expected 7-10 days after the completion of the primary series of the vaccine. Efficacy against Vibrio cholerae serogroup O139 was not demonstrated.",
+    "pharmacology": "This Cholera Vaccine for oral use, is a turbid, white or brownish suspension free of aggregates and extraneous particles. The vaccine is formulated with required quantity of V. cholerae O139 and O1 (serotypeInaba and Ogawa) inactivated by heat and formaldehyde.",
+    "dosage": "The recommended dose of the vaccine (1.5 ml) is to be administered orally. The primary immunization schedule consists of two doses given at an interval of at least two weeks. Cholera vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.<br /><br />Method of administration: The vaccine is presented as a suspension. After vigorous shaking of the vial, 1.5 ml should be poured into the mouth of the recipient. The vaccine administration may be optionally followed by water to facilitate ingestion, if needed. The vaccine can alternatively be administered with a disposable syringe (without needle) after removing the contents from the vial and squirted into the mouth of the recipient. The vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.",
+    "sideEffects": "The following adverse events are known to occur with cholera vaccine use. Acute gastroenteritis, diarrhea, fever, vomiting, abdominal pain, itching, rash, nausea, weakness, cough, vertigo, dryness of mouth, oral ulcer (rare), sore throat (rare) and yellowing of urine (rare). It has been observed that the incidence of adverse events is less after the second dose as compared to the first.",
+    "pregnancy_lactation": "No specific clinical studies have been performed to evaluate the safety and immunogenicity of cholera vaccine in pregnant women and for the fetus. However, administration of cholera vaccine to pregnant women and nursing mother may be considered after careful evaluation of the benefits and risks in case of a medical emergency or an epidemic.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Do not freeze. Discard vaccine if frozen. Protect from light."
+  }
+
+  {
+    "name": "Dukoral",
+    "type": "Oral Suspension",
+    "generic": "Oral Cholera Vaccine",
+    "strength": "3 ml/vial",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "indications": "Dukoral is indicated for active immunization against Vibrio cholerae. The vaccine can be administered to anyone above the age of 1 year. Data for the safety and efficacy of the vaccine in infants (less than 1 year of age) is not available. The earliest onset of protection can be expected 7-10 days after the completion of the primary series of the vaccine. Efficacy against Vibrio cholerae serogroup O139 was not demonstrated.",
+    "pharmacology": "This Cholera Vaccine for oral use, is a turbid, white or brownish suspension free of aggregates and extraneous particles. The vaccine is formulated with required quantity of V. cholerae O139 and O1 (serotypeInaba and Ogawa) inactivated by heat and formaldehyde.",
+    "dosage": "The recommended dose of the vaccine (1.5 ml) is to be administered orally. The primary immunization schedule consists of two doses given at an interval of at least two weeks. Cholera vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.<br /><br />Method of administration: The vaccine is presented as a suspension. After vigorous shaking of the vial, 1.5 ml should be poured into the mouth of the recipient. The vaccine administration may be optionally followed by water to facilitate ingestion, if needed. The vaccine can alternatively be administered with a disposable syringe (without needle) after removing the contents from the vial and squirted into the mouth of the recipient. The vaccine should not be administered parenterally (intramuscular, subcutaneous or intravenously). The vaccine is only recommended for oral administration.",
+    "sideEffects": "The following adverse events are known to occur with cholera vaccine use. Acute gastroenteritis, diarrhea, fever, vomiting, abdominal pain, itching, rash, nausea, weakness, cough, vertigo, dryness of mouth, oral ulcer (rare), sore throat (rare) and yellowing of urine (rare). It has been observed that the incidence of adverse events is less after the second dose as compared to the first.",
+    "pregnancy_lactation": "No specific clinical studies have been performed to evaluate the safety and immunogenicity of cholera vaccine in pregnant women and for the fetus. However, administration of cholera vaccine to pregnant women and nursing mother may be considered after careful evaluation of the benefits and risks in case of a medical emergency or an epidemic.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Do not freeze. Discard vaccine if frozen. Protect from light."
+  }
+
+  {
+    "name": "Rabivax",
+    "type": "Injection",
+    "generic": "Rabies Vaccine",
+    "strength": "2.5 IU/ml",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "indications": "Rabivax is indicated for prophylactic immunization against rabies and treatment of patients following suspected rabies contact.",
+    "pharmacology": "Rabies Vaccine for human use is a freeze-dried preparations of inactivated rabies virus produced on Vero cell. After reconstitution the vaccine is a clear, colorless sterile solution for intramuscular use. Pre-exposure Immunization: *Professional groups exposed to frequent contamination *Veterinary surgeons (including students at veterinary colleges) *Technical personnel working with veterinary surgeons *Laboratory personnel handling material contaminated with rabies vims *Personnel in abattoirs and knackers yards *Taxidermists *Gamekeepers, forestry workers and naturalists in enzootic areas *Infants particularly exposed to the risk of rabies. Post-exposure Immunization: *Treatment of subjects bitten by rabid animals or those suspected of being so *Treatment of contact subjects.",
+    "dosage": "To reconstitute the vaccine, transfer content of supplied diluent into the vial containing freeze-dried preparation. Do not shake. After reconstitution the solution should be homogeneous, clear and free from any particles. Vaccine must be injected immediately after reconstitution and the syringe should be destroyed after use.",
+    "sideEffects": "Minor local reactions like pain, erythema, oedema, pruritus and induration at the injection site and lasting to 24-48 hours. Moderate fever, shivering, fainting, asthenia, dizziness, respiratory manifestations (dyspnoea, wheezing), fever, abdominal pain, vomiting and allergic skin reactions (urticaria, rash, itching).",
+    "pregnancy_lactation": "Pregnancy: The potential risk of administration of rabies vaccine during pregnancy is unknown. Due to the severity of the disease, pregnancy is not considered to be a contraindication to post-exposure prophylaxis. Lactation: It is not known whether the vaccine is excreted in human breast milk. Due to the severity of the disease, breast-feeding is not considered a contraindication.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Protect from light. Do not keep in the deep freeze."
+  }
+
+  {
+    "name": "Influvax Tetra",
+    "type": "Injection",
+    "generic": "Inactivated Influenza Vaccine",
+    "strength": "0.5 ml/pre-filled syringe",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Prophylaxis of influenza (flu), especially in those who run an increased risk of associated complications. The use of Influvax Tetra should be based on official recommendations.",
+    "pharmacology": " ",
+    "dosage": "Adults and children over 36 months of age: 0.5ml. Children from 6 to 35 months of age: clinical data are limited. Doses of 0.25 ml or 0.5 ml have been used.",
+    "sideEffects": "No side effect",
+    "pregnancy_lactation": "The limited data from vaccinations in pregnant women do not indicate that adverse foetal and maternal outcomes were attributable to the vaccine. The use of this vaccine may be considered from the second trimester of pregnancy. For pregnant women with medical conditions that increase their risk of complications from influenza, administration of the vaccine is recommended, irrespective of their stage of pregnancy. Inactivated Influenza Vaccine may be used during lactation.",
+    "storageConditions": "Influvax Tetra must be stored in a refrigerator (2° C-8° C). Do not freeze. Keep the syringe in the outer carton in order to protect from light. Any unused product or waste material should be disposed of in accordance with local requirements."
+  }
+
+  {
+    "name": "RotaTeq",
+    "type": "Injection",
+    "generic": "Rotavirus Vaccine",
+    "strength": "1.5 ml/dose",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "indications": "RotaTeq is indicated for the prevention of rotavirus gastroenteritis in infants and children caused by Types G1, G2, G3, G4, and G9 when administered as a 3-dose series to infants between the ages of 6 to 32 weeks. The first dose of RotaTeq should be administered between 6 and 12 weeks of age. The vaccination series consists of 3 ready-to-use liquid doses of RotaTeq administered orally starting at 6 to 12 weeks of age, with the subsequent doses administered at 4- to 10-week intervals. The third dose should not be given after 32 weeks of age.",
+    "pharmacology": "Rotavirus is one of the important causes of severe acute gastroenteritis in infants and young children. There are 2 commercially available forms of rotavirus vaccine. Rotavirus is a live, attenuated monovalent vaccine derived from human strain indicated for prevention of rotavirus gastroenteritis caused by G1, G3, G4 and G9 serotypes; Rotavirus as a live, pentavalent human-bovine reassortant vaccine indicated for prevention of gastreoenteritis caused by rotavirus serotypes G1, G2, G3 and G4. Although presence of porcine cirovirus (PCV1 and PCV2) DNA have been detected in the rotavirus vaccine, current available information shows that there is no evidence that PCV1 or PCV2 poses a safety risk to humans. Exact immunologic mechanism of action is not fully understood although it is known that vaccine viruses replicate in the small intestine and promote active immunity.",
+    "dosage": "The vaccination course consists of two doses. The first dose may be administered from the age of 6 weeks. There should be an interval of at least 4 weeks between the dosages. The vaccination course should be completed by the age of 24 weeks. Lyophilised vaccine to be recostituted with a liquid diluent before oral administration. After reconstitution, 1 dose (1 ml) contains- live attenuated human rotavirus RIX4414 strain not less than 10<sup>6</sup> CCID50. Repeat dosing is not indicated if an infant should spit out, regurgitate or vomit during or after the administration of the vaccine. The vaccination course should be completed as recommended above. There are no restrictions on the infant's consumption of food or liquid, including breast-milk, either before or after vaccination.",
+    "sideEffects": "In controlled clinical studies, the adverse reaction profile observed in the subjects receiving RotaTeq was similar to the adverse reaction profile observed in subjects receiving placebo. No increase in the incidence or severity of these reactions was seen with the second dose.<br /><br />However, some adverse reactions considered as being at least possibly related to RotaTeq vaccination were reported. Very common areirritability, loss of appetite; common arediarrhoea, vomiting, flatulence, abdominal pain, regurgitation of food, fever, fatigue; uncommon are- crying, sleep disorder, somnolence, constipation rare; upper respiratory tract infection hoarseness, rhinorrhoea, dermatitis, rash, muscle cramp; very rare- gastro-enteritis. In a large safety trial, subjects vaccinated with RotaTeq gave evidence of no increased risk of intussusception when compared with subjects receiving a placebo.",
+    "pregnancy_lactation": "Pregnancy Category C. Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks",
+    "storageConditions": "Store refrigerated at 2° C to 8° C. Protect vials from light."
+  }
+
+  {
+    "name": "Varizost",
+    "type": "Injection",
+    "generic": "Varicella Virus Vaccine",
+    "strength": "0.5 ml/vial",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "This is a vaccine indicated for active immunization for the prevention of varicella in individuals 12 months of age and older.",
+    "pharmacology": "Varicella Virus Vaccine induces both cell-mediated and humoral immune responses to varicella-zoster virus. The relative contributions of humoral immunity and cell-mediated immunity to protection from varicella are unknown.",
+    "dosage": "Each 0.5 mL dose of Varicella Virus Vaccine is administered subcutaneously. Inject the vaccine subcutaneously into the outer aspect of the deltoid region of the upper arm or into the higher anterolateral area of the thigh. Children (12 months to 12 years of age): The first dose is administered at 12 to 15 months of age but may be given anytime through 12 years of age. The second dose is administered at 4 to 6 years of age. At least 3 months should elapse between a dose of varicella-containing vaccine. At least 1 month should elapse between a dose of measles-containing vaccine and a dose of Varicella Virus Vaccine if the vaccines are not given concurrently. Adolescents (13 years of age) and Adults: Two doses of Varicella Virus Vaccine are administered at a minimum interval of 4 weeks.",
+    "sideEffects": "Frequently reported (>10%) adverse reactions in children ages 1 to 12 years include: *fever >102.0° F (38.9° C) oral: 14.7%   *injection-site complaints: 19.3%. Frequently reported (>10%) adverse reactions in adolescents and adults ages 13 years and older include: *fever >100.0° F (37.8° C) oral: 10.2% *injection-site complaints: 24.4%. Other reported adverse reactions in all age groups include: *varicella-like rash (injection site) *varicella-like rash (generalized)",
+    "pregnancy_lactation": "Varicella Virus Vaccine is contraindicated for use in pregnant women because the vaccine contains live, attenuated varicella virus, and it is known that wild-type varicella virus, if acquired during pregnancy, can cause congenital varicella syndrome. No increased risk for miscarriage, major birth defect or congenital varicella syndrome was observed in a pregnancy exposure registry that monitored outcomes after inadvertent use. There are no relevant animal data. It is not known whether varicella vaccine virus is excreted in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother&rsquo;s clinical need for Varicella Virus Vaccine, and any potential adverse effects on the breastfed child from Varicella Virus Vaccine or from the underlying maternal condition. For preventive vaccines, the underlying maternal condition is susceptibility to disease prevented by the vaccine.",
+    "storageConditions": "Store refrigerated at 2° C to 8° C. Do not freeze. Protect from light. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Varivax",
+    "type": "Injection",
+    "generic": "Varicella Virus Vaccine",
+    "strength": "0.5 ml/vial",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "indications": "This is a vaccine indicated for active immunization for the prevention of varicella in individuals 12 months of age and older.",
+    "pharmacology": "Varicella Virus Vaccine induces both cell-mediated and humoral immune responses to varicella-zoster virus. The relative contributions of humoral immunity and cell-mediated immunity to protection from varicella are unknown.",
+    "dosage": "Each 0.5 mL dose of Varicella Virus Vaccine is administered subcutaneously. Inject the vaccine subcutaneously into the outer aspect of the deltoid region of the upper arm or into the higher anterolateral area of the thigh. Children (12 months to 12 years of age): The first dose is administered at 12 to 15 months of age but may be given anytime through 12 years of age. The second dose is administered at 4 to 6 years of age. At least 3 months should elapse between a dose of varicella-containing vaccine. At least 1 month should elapse between a dose of measles-containing vaccine and a dose of Varicella Virus Vaccine if the vaccines are not given concurrently. Adolescents (13 years of age) and Adults: Two doses of Varicella Virus Vaccine are administered at a minimum interval of 4 weeks.",
+    "sideEffects": "Frequently reported (>10%) adverse reactions in children ages 1 to 12 years include: *fever >102.0° F (38.9° C) oral: 14.7%   *injection-site complaints: 19.3%. Frequently reported (>10%) adverse reactions in adolescents and adults ages 13 years and older include: *fever >100.0° F (37.8° C) oral: 10.2% *injection-site complaints: 24.4%. Other reported adverse reactions in all age groups include: *varicella-like rash (injection site) *varicella-like rash (generalized)",
+    "pregnancy_lactation": "Varicella Virus Vaccine is contraindicated for use in pregnant women because the vaccine contains live, attenuated varicella virus, and it is known that wild-type varicella virus, if acquired during pregnancy, can cause congenital varicella syndrome. No increased risk for miscarriage, major birth defect or congenital varicella syndrome was observed in a pregnancy exposure registry that monitored outcomes after inadvertent use. There are no relevant animal data. It is not known whether varicella vaccine virus is excreted in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother&rsquo;s clinical need for Varicella Virus Vaccine, and any potential adverse effects on the breastfed child from Varicella Virus Vaccine or from the underlying maternal condition. For preventive vaccines, the underlying maternal condition is susceptibility to disease prevented by the vaccine.",
+    "storageConditions": "Store refrigerated at 2° C to 8° C. Do not freeze. Protect from light. Keep out of the reach of children."
+  }
+
+  {
+    "name": "Pneumovax 23",
+    "type": "Injection",
+    "generic": "Polysaccharide Pneumococcal Vaccine",
+    "strength": "0.5 ml",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "indications": "The 0.5 mL dose of vaccine contains 25 micrograms of each of the following 23 pneumococcal polysaccharide serotypes: 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19F, 19A, 20, 22F, 23F, 33F. This vaccine is recommended for active immunization against pneumococcal disease in children aged from 2 years, adolescents and adults.",
+    "pharmacology": "The vaccine is prepared from purified pneumococcal capsular polysaccharide antigens derived from the 23 serotypes that account for approximately 90% of invasive pneumococcal disease types. The following pneumococcal capsular polysaccharides are included: 1, 2, 3, 4, 5, 6B, 7F, 8, 9N, 9V, 10A, 11A, 12F, 14, 15B, 17F, 18C, 19F, 19A, 20, 22F, 23F, 33F.",
+    "dosage": "Adults and children of 2 years of age or older: one single dose of 0.5 milliliter by intramuscular or subcutaneous injection. Prenovax 23 vaccine is not recommended for use in children below 2 years of age as the safety and efficacy of the vaccine have not been established and the antibody response may be poor.",
+    "sideEffects": "The most common adverse reactions, reported in >10% of subjects vaccinated with p neumococcal vaccine for the first time in a clinical trial, were: injection-site pain/soreness/tenderness (60.0%), injection-site swelling/ induration (20.3%), headache (17.6%), injection-site erythema (16.4%), asthenia and fatigue (13.2%), and myalgia (11.9%).",
+    "pregnancy_lactation": "Animal studies are insufficient with respect to effects on reproductive toxicity. The vaccine should not be used during pregnancy unless clearly necessary (the potential benefit must justify any potential risk to the fetus). It is unknown whether this vaccine is excreted in human milk. Caution should be exercised when it is administered to a nursing mother. The vaccine has not been evaluated in fertility studies.",
+    "storageConditions": "Store refrigerated at 2° C to 8° C. Protect vials from light."
+  }
+
+  {
+    "name": "Typar TCV",
+    "type": "Injection",
+    "generic": "Typhoid conjugate vaccine",
+    "strength": "0.5 ml/vial",
+    "company": "Renata Limited",
+    "indications": "Typar TCV is indicated for active immunization against infection caused by Salmonella typhi in infants, children, adolescents and adults aged >6 months to <45 years.",
+    "pharmacology": "Typhoid Vi Conjugate Vaccine is a clear, colourless solution, free from visible particulate matter. The vaccine contains 25 mcg of Typhoid Vi polysaccharide conjugated to CRMt97. The polysaccharide is manufactured using Citrobacter freundii sensu lato 3056 (Vi) and is conjugated to CRM<sub>197</sub> as a carrier protein. Sodium Chloride and Phosphate Buffer are used as a diluent (buffering agent) in vaccine formulation. 2-Phenoxyethanol is added as a preservative. BE's Typhoid Vi Conjugate Vaccine can be administered in single 0.5 mL intramuscular dose to infants, children, adolescents and adults aged >6 months to <45 years.The vaccine meets the requirements of I.P. and WHO.",
+    "dosage": "A single 0.5 mL dose of the vaccine should be administered intramuscularly in the deltoid muscle of upper arm if muscle mass is adequate for children 2 years and above, adolescents and adults. For infants and toddlers aged >6 months to <2 years of age, the vaccine should be administered intramuscularly in the vastus lateralis muscle on anterolateral aspect of thigh. This vaccine should not be injected into the gluteal area or in any areas where there may be a nerve trunk.",
+    "sideEffects": "The most frequently reported local adverse events after administration of Biological E's Typar TCV Vi Conjugate vaccine were Injection Site Pain (4.50%), Injection Site erythema (0.64%) and Injection site Swelling (0.32%). These usually occurred within first 48 hours and disappeared within 2-3 days. The most frequently reported systemic adverse events were Pyrexia (2.25%), Vomiting (0.96%), Headache (0.64%), Fatigue (0.64%), Arthralgia (0.32%) and Rash (0.32%). No vaccine-related serious adverse events (SAEs) were reported in the clinical trial.",
+    "pregnancy_lactation": "Safety and effectiveness have not been established in pregnant women and in nursing mothers. It is not known whether the vaccine is excreted in human milk.",
+    "storageConditions": "Store refrigerated at 2° C to 8° C. Do not freeze. Discard if found frozen. Shake well before use. Keep out of reach of children."
+  }
+
+  {
+    "name": "Hepa-B",
+    "type": "Injection",
+    "generic": "Hepatitis B Vaccine [rDNA]",
+    "strength": "10 mcg/0.5 ml",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "indications": "Hepa-B is indicated for active immunization against infection caused by all known subtypes of Hepa-B B virus. As Hepa-B D (caused by the delta virus) does not occur in the absence of Hepa-B B infection, it can be expected that Hepa-B D will also be prevented by Hepa-B B vaccination",
+    "pharmacology": "Hepa-B is a noninfectious recombinant DNA Hepa-B. It is sterile suspension of purified surface antigen of hepatitis B virus obtained by culturing genetically engineered yeast cells (Saccharomyces cerevisiae cells), which carry the gene that codes for the HBsAg. The HBsAg protein expressed in Saccharomyces cerevisiae cells is purified by several physicochemical steps and formulated as a suspension of the antigen adsorbed on aluminium hydroxide. No substances of human origin are used in its manufacture.",
+    "dosage": "Neonates, infants and children upto 19 years of age</strong>: The recommended dose of Hepatitis B vaccine (rDNA) is >10 mcg of antigen protein in 0.5 ml. Adults 19 years of age and older: The recommended dose of Hepatitis B vaccine (rDNA) is >20 mcg of antigen in 1 ml.",
+    "sideEffects": "Hepa-B is generally well tolerated. Most recipients of Hepa-B experience some reactions upon vaccination. These are generally moderate and short. They mainly consist of local reactions at the injection site (erythema, induration and tenderness). Systemic reactions (malaise, headache, diarrhea, vomiting, myalgia and elevated temperature) are reported less commonly. In very rare cases allergic type reactions (pruritus, rash, urticaria) may be observed.",
+    "pregnancy_lactation": "The effect of Hepatitis B on fetal development or reproduction capacity has not been evaluated. However, it should only be used during pregnancy when there is a high risk of infection. Adequate human data on use during lactation and adequate animal reproduction studies are not available. It may be administered to nursing mothers only if clearly needed.",
+    "storageConditions": "Keep out of the reach and sight of children. Store at +2° C to +8° C. Transportation should also be at +2° C to +8° C. Protect from light. Do not freeze."
+  }
 ]
