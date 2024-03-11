@@ -3,12 +3,24 @@ const Medicine = require("../models/medicineModel");
 
 const router = express.Router();
 
+function escapedSearchTerm(searchTerm) {
+  return searchTerm.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
 router.get("/", (req, res) => {
   return res.render("home");
 });
 
 router.get("/companies", async (req, res) => {
   try {
+    let { medOf } = req.query;
+    if (medOf) {
+      medOf = escapedSearchTerm(medOf);
+      const meds = await Medicine.find({
+        company: { $regex: new RegExp(`^${medOf}$`, "i") },
+      });
+      return res.render("medicines", { meds, medOf });
+    }
     const companies = await Medicine.find({}).distinct("company");
     return res.render("companies", { companies });
   } catch {}
@@ -16,11 +28,11 @@ router.get("/companies", async (req, res) => {
 
 router.get("/medicines", async (req, res) => {
   try {
-    const { type } = req.query;
-    console.log(type);
+    let { type } = req.query;
     if (type) {
+      type = escapedSearchTerm(type);
       const meds = await Medicine.find({
-        $or: [{ type: { $regex: new RegExp("^" + type + "$", "i") } }],
+        type: { $regex: new RegExp(`^${type}$`, "i") },
       });
       return res.render("medicines", { meds });
     }
@@ -35,7 +47,6 @@ router.get("/medicines", async (req, res) => {
       { $project: { "_id.iconId": 1, "_id.type": 1, count: 1 } },
     ];
     const medForms = await Medicine.aggregate(pipeline);
-    console.log(medForms);
     return res.render("medicineCategories", { medForms });
   } catch (error) {
     return res.status(500).json({ message: error.message });
