@@ -2080,7 +2080,7 @@
   "type": "Tablet",
   "generic": "Cetirizine Hydrochloride",
   "strength": "10mg",
-  "company": "ACI Limited.",
+  "company": "ACI Limited",
   "indications": "Acitrin is indicated for the relief of symptoms associated with seasonal & perennial allergic rhinitis. It is also indicated for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria and allergen induced asthma.",
   "pharmacology": [
     "Cetirizine Hydrochloride is a potent H1 receptor antagonist without any significant anticholinergic and antiserotonic effects. At pharmacologically active dose levels, it has almost no drowsiness effect and does not cause behavioral changes. It inhibits the histamine-mediated early phase of the allergic reaction and also reduces the migration of inflammatory cells and the release of mediators associated with the late phase of the allergic reaction.",
@@ -2378,7 +2378,7 @@
   "type": "Tablet",
   "generic": "Domperidone Maleate",
   "strength": "10mg",
-  "company": "Aristopharma Ltd",
+  "company": "Aristopharma Ltd.",
   "indications": [
     "Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
     "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
@@ -2407,7 +2407,7 @@
   "type": "Tablet",
   "generic": "Domperidone Maleate",
   "strength": "10mg",
-  "company": "Supreme Pharmaceutical Ltd.",
+  "company": "Supreme Pharmaceuticals Ltd.",
   "indications": [
     "Dyspeptic symptom complex, often associated with delayed gastric emptying, gastroesophageal reflux and esophagitis: ",
     "1. Epigastric sense of fullness, feeling of abdominal distension, upper abdominal pain",
@@ -2634,7 +2634,7 @@
   "type": "Tablet",
   "generic": "Bisoprolol Hemifumarate",
   "strength": "10mg",
-  "company": "Edruc Limited.",
+  "company": "Edruc Limited",
   "indications": [
     "Bisten is indicated in - ",
     "1. Hypertension",
@@ -2661,7 +2661,7 @@
   "type": "Tablet",
   "generic": "Bisoprolol Hemifumarate",
   "strength": "5mg",
-  "company": "Popular Pharmaceuticals",
+  "company": "Popular Pharmaceuticals Ltd.",
   "indications": [
     "Bectacor is indicated in - ",
     "1. Hypertension",
@@ -2769,7 +2769,7 @@
   "type": "Tablet",
   "generic": "Bisoprolol Hemifumarate",
   "strength": "5mg",
-  "company": "Silco Pharmaceuticals PLC Ltd.",
+  "company": "Silco Pharmaceuticals PLC. Ltd.",
   "indications": [
     "Bisofar is indicated in - ",
     "1. Hypertension",
@@ -3294,7 +3294,7 @@
   "type": "Capsule (Timed Release)",
   "generic": "Diclofenac Sodium",
   "strength": "100 mg",
-  "company": "Apollo Pharmaceutical Ltd.",
+  "company": "Apollo Pharmaceuticals Ltd.",
   "indications": [
     "Rheumatology: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.",
     "Surgery and Traumatology: Sprain, bruises, dislocations, fractures, softtissue injuries, surgical interventions.",
@@ -3321,7 +3321,7 @@
   "type": "Capsule (Sustained Release)",
   "generic": "Tramadol Hydrochloride",
   "strength": "100 mg",
-  "company": "Square Pharmaceuticals PLC",
+  "company": "Square Pharmaceuticals PLC.",
   "indications": [
     "Anadol SR is used for the treatment of moderate to severe painful conditions. These include: ",
     "Postoperative pain",
@@ -3447,7 +3447,7 @@
   "type": "Dental Gel",
   "generic": "Benzocaine",
   "strength": "20%",
-  "company": "Square Pharmaceuticals PLC",
+  "company": "Square Pharmaceuticals PLC.",
   "indications": [
     "For the temporary relief of pain due to minor injury or irritation of the mouth and gums like Toothache, Sore gums, Canker sores, Braces, Minor dental procedures, Dentures"
   ],
@@ -3470,7 +3470,7 @@
   "type": "Dialysis Solution",
   "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
   "strength": "20%",
-  "company": "Square Pharmaceuticals PLC",
+  "company": "Square Pharmaceuticals PLC.",
   "indications": [
     "Hemosol-B [HCO3 Hemodialysis Solution] solution is indicated in renal failure, Chronic renal failure and Haemodialysis. Hemosol-B serves a crucial biochemical role in the physiological pH buffering system."
   ],
@@ -3631,7 +3631,7 @@
   "type": "Emulsion",
   "generic": "Benzyl Benzoate",
   "strength": "25%",
-  "company": "Supreme Pharmaceutical Ltd.",
+  "company": "Supreme Pharmaceuticals Ltd.",
   "indications": [
     "Ascab is indicated for scabies"
   ],
@@ -3666,7 +3666,7 @@
     "$oid": "65ee2c36cfd68f824c338efb"
   },
   "name": "Urokit",
-  "type": "Extended-Release Tablet (Wax Matrix",
+  "type": "Extended-Release Tablet (Wax Matrix)",
   "generic": "Potassium Citrate",
   "strength": "1060 mg",
   "company": "Eskayef Pharmaceuticals Ltd.",
@@ -3691,7 +3691,7 @@
     "$oid": "65ee2c36cfd68f824c338efc"
   },
   "name": "Urilit",
-  "type": "Extended-Release Tablet (Wax Matrix",
+  "type": "Extended-Release Tablet (Wax Matrix)",
   "generic": "Potassium Citrate",
   "strength": "1080 mg",
   "company": "Opsonin Pharma Ltd.",
@@ -3716,7 +3716,7 @@
     "$oid": "65ee2c36cfd68f824c338efd"
   },
   "name": "Citra-K",
-  "type": "Extended-Release Tablet (Wax Matrix",
+  "type": "Extended-Release Tablet (Wax Matrix)",
   "generic": "Potassium Citrate",
   "strength": "1080 mg",
   "company": "UniMed UniHealth Pharmaceuticals Ltd.",

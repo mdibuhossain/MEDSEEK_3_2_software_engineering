@@ -20,18 +20,18 @@
             <span id="sp"> <%= medicine.strength %> </span>
           </div>
           <p><%= medicine.type %></p>
-          <div style="margin-top: 10px">
+          <div style="margin-bottom: 10px">
             <p class="generic"><%= medicine.generic %></p>
           </div>
-          <p><%= medicine.company %></p>
-          <div class="pictur"></div>
+          <p class="companyTitle"><%= medicine.company %></p>
+          <div class="picture"></div>
         </div>
 
         <% if(medicine.indications?.length>0){ %>
         <div class="tagInfo">
           <div class="tagInfoHeader">
             <div class="tagHeaderBlurBG"></div>
-            <h3>Indications</h3>
+            <p class="subHeader">Indications</p>
           </div>
           <div class="tagInfoContent">
             <div class="tagContentBlurBG"></div>
@@ -42,7 +42,7 @@
         <div class="tagInfo">
           <div class="tagInfoHeader">
             <div class="tagHeaderBlurBG"></div>
-            <h3>Pharmacology</h3>
+            <p class="subHeader">Pharmacology</p>
           </div>
           <div class="tagInfoContent">
             <div class="tagContentBlurBG"></div>
@@ -54,7 +54,7 @@
         <div class="tagInfo">
           <div class="tagInfoHeader">
             <div class="tagHeaderBlurBG"></div>
-            <h3>Dosage</h3>
+            <p class="subHeader">Dosage</p>
           </div>
           <div class="tagInfoContent">
             <div class="tagContentBlurBG"></div>
@@ -77,7 +77,7 @@
         <div class="tagInfo">
           <div class="tagInfoHeader">
             <div class="tagHeaderBlurBG"></div>
-            <h3>Side effects</h3>
+            <p class="subHeader">Side effects</p>
           </div>
           <div class="tagInfoContent">
             <div class="tagContentBlurBG"></div>
@@ -88,7 +88,7 @@
         <div class="tagInfo">
           <div class="tagInfoHeader">
             <div class="tagHeaderBlurBG"></div>
-            <h3>Pregnancy lactation</h3>
+            <p class="subHeader">Pregnancy lactation</p>
           </div>
           <div class="tagInfoContent">
             <div class="tagContentBlurBG"></div>
@@ -99,7 +99,7 @@
         <div class="tagInfo">
           <div class="tagInfoHeader">
             <div class="tagHeaderBlurBG"></div>
-            <h3>Storage conditions</h3>
+            <p class="subHeader">Storage conditions</p>
           </div>
           <div class="tagInfoContent">
             <div class="tagContentBlurBG"></div>

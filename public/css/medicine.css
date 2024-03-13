@@ -43,7 +43,7 @@
   z-index: -10;
   backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(30px);
-  background: rgba(255, 255, 255, 0.35);
+  background: rgba(255, 255, 255, 0.4);
 }
 .tagContentBlurBG {
   position: absolute;
@@ -54,12 +54,15 @@
   z-index: -10;
   backdrop-filter: blur(30px);
   -webkit-backdrop-filter: blur(30px);
-  background: rgba(255, 255, 255, 0.125);
+  background: rgba(255, 255, 255, 0.25);
 }
 
 .medicines_detail_container {
   width: 90%;
   margin: auto;
+  color: rgb(33, 32, 32);
+
+  font-weight: 600;
 }
 #one {
   font-size: 1.7rem;
@@ -71,7 +74,7 @@
 }
 #sp {
   font-size: 0.7rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 .generic {
   display: inline-block;
@@ -80,14 +83,16 @@
   color: darkred;
   filter: blur(0.5px);
 }
+.companyTitle {
+  color: rgb(255, 255, 255);
+  text-shadow: 1px 1px 10px #2a2828;
+}
 #dos {
   display: inline-block;
 }
-h2 {
-  /* background-color: #b6bbc4; */
-  padding-left: 10px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+.subHeader {
+  font-size: larger;
+  font-weight: 800 !important;
 }
 p {
   text-align: justify;
