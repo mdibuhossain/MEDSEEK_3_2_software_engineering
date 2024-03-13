@@ -55,14 +55,14 @@ main {
 
 /* Optional scrollbar styling (adjust as needed) */
 main::-webkit-scrollbar {
-  width: 10px;
+  width: 8px;
 }
 
 main:hover::-webkit-scrollbar-thumb {
   background-color: rgba(0, 0, 0, 0.3);
 }
 main::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.082);
+  background-color: rgba(0, 0, 0, 0.02);
   border-radius: 10px;
 }
 
