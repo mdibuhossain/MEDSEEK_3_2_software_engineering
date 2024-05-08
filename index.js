@@ -23,7 +23,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
 
 // app.use("/auth", authRouter);
-// app.use("/api/medicine", medRouter);
+app.use("/api/medicine", medRouter);
 app.use("", staticRouter);
 
 app.listen(PORT, () => {

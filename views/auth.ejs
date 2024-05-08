@@ -4,47 +4,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/auth/fontawesome.css">
-    <link rel="stylesheet" href="/css/auth/style.css">
-    <title>Authentication</title>
+    <%- include("./partials/head.ejs") %>
+        <link rel="stylesheet" href="/css/auth/fontawesome.css">
+        <link rel="stylesheet" href="/css/auth/style.css">
+        <title>Authentication</title>
 </head>
 
-<body>
-    <a href="/" style="margin-bottom: 10px; text-decoration: none;">Back to Home</a>
-    <div class="container" id="container">
-        <div class="form-container sign-up">
-            <form action="/auth/registration">
-                <h1>Create Account</h1>
-                <input name="name" type="text" placeholder="Name">
-                <input name="email" type="email" placeholder="Email">
-                <input name="contact" type="text" placeholder="Contact Number">
-                <input name="password" type="password" placeholder="Password">
-                <button type="submit">Sign Up</button>
-            </form>
-        </div>
-        <div class="form-container sign-in">
-            <form>
-                <h1>Sign In</h1>
-                <input name="email" type="email" placeholder="Email">
-                <input name="password" type="password" placeholder="Password">
-                <button>Sign In</button>
-            </form>
-        </div>
-        <div class="toggle-container">
-            <div class="toggle">
-                <div class="toggle-panel toggle-left">
-                    <h1>Welcome Back!</h1>
-                    <p>Sign-In to buy all types of medicine</p>
-                    <button class="hidden" id="login">Sign In</button>
-                </div>
-                <div class="toggle-panel toggle-right">
-                    <h1>Hello, Friend!</h1>
-                    <p>Sine-Up with your personal details to use all of site features</p>
-                    <button class="hidden" id="register">Sign Up</button>
+<body id="home_bg">
+    <div style="background: #512da8;">
+        <%- include("./partials/navbar.ejs") %>
+    </div>
+    <main>
+        <div class="container" id="container">
+            <div class="form-container sign-up">
+                <form action="/auth/registration" method="post">
+                    <h1>Create Account</h1>
+                    <input required name="name" type="text" placeholder="Name">
+                    <input required name="email" type="email" placeholder="Email">
+                    <input required name="contact" type="text" placeholder="Contact Number">
+                    <input required name="password" type="password" placeholder="Password">
+                    <button type="submit">Sign Up</button>
+                </form>
+            </div>
+            <div class="form-container sign-in">
+                <form action="/auth/login" method="post">
+                    <h1>Sign In</h1>
+                    <input required name="email" type="email" placeholder="Email">
+                    <input required name="password" type="password" placeholder="Password">
+                    <button type="submit">Sign In</button>
+                </form>
+            </div>
+            <div class="toggle-container">
+                <div class="toggle">
+                    <div class="toggle-panel toggle-left">
+                        <h1>Welcome Back!</h1>
+                        <p>Sign-In to buy all types of medicine</p>
+                        <button class="hidden" id="login">Sign In</button>
+                    </div>
+                    <div class="toggle-panel toggle-right">
+                        <h1>Hello, Friend!</h1>
+                        <p>Sine-Up with your personal details to use all of site features</p>
+                        <button class="hidden" id="register">Sign Up</button>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+    </main>
 
     <script src="/js/auth/script.js"></script>
 </body>

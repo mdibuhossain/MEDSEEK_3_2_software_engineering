@@ -1,113 +1,140 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <%- include("./partials/head.ejs") %>
+
+<head>
+  <%- include("./partials/head.ejs") %>
     <link rel="stylesheet" type="text/css" href="/css/medicine.css" />
     <link rel="stylesheet" type="text/css" href="/css/common.style.css" />
     <title>Medicine</title>
-  </head>
+</head>
 
-  <body>
-    <div class="blurBG"></div>
-    <%- include("./partials/navbar.ejs") %>
+<body>
+  <div class="blurBG"></div>
+  <%- include("./partials/navbar.ejs") %>
     <main>
       <div class="blurBG_2"></div>
       <section class="medicines_detail_container">
         <div class="infoHeader">
           <div class="smallBlurBG"></div>
           <div class="name">
-            <p id="one"><%= medicine.name %></p>
-            <span id="sp"> <%= medicine.strength %> </span>
+            <p id="one">
+              <%= medicine.name %>
+            </p>
+            <span id="sp">
+              <%= medicine.strength %>
+            </span>
           </div>
-          <p><%= medicine.type %></p>
+          <p>
+            <%= medicine.type %>
+          </p>
           <div style="margin-bottom: 10px">
-            <p class="generic"><%= medicine.generic %></p>
+            <p class="generic">
+              <%= medicine.generic %>
+            </p>
+            <p class="generic" style="display: block;">Price: <span style="color: blue">৳<%= medicine.price %></span>
+              per unit</p>
           </div>
-          <p class="companyTitle"><%= medicine.company %></p>
+          <p class="companyTitle">
+            <%= medicine.company %>
+          </p>
           <div class="picture"></div>
         </div>
 
         <% if(medicine.indications?.length>0){ %>
-        <div class="tagInfo">
-          <div class="tagInfoHeader">
-            <div class="tagHeaderBlurBG"></div>
-            <p class="subHeader">Indications</p>
-          </div>
-          <div class="tagInfoContent">
-            <div class="tagContentBlurBG"></div>
-            <P> <%= medicine.indications %> </P>
-          </div>
-        </div>
-        <%}%> <% if(medicine.pharmacology?.length>0){ %>
-        <div class="tagInfo">
-          <div class="tagInfoHeader">
-            <div class="tagHeaderBlurBG"></div>
-            <p class="subHeader">Pharmacology</p>
-          </div>
-          <div class="tagInfoContent">
-            <div class="tagContentBlurBG"></div>
-            <P> <%= medicine.pharmacology %> </P>
-          </div>
-        </div>
-        <%}%>
-
-        <div class="tagInfo">
-          <div class="tagInfoHeader">
-            <div class="tagHeaderBlurBG"></div>
-            <p class="subHeader">Dosage</p>
-          </div>
-          <div class="tagInfoContent">
-            <div class="tagContentBlurBG"></div>
-            <div>
-              <p id="dos">
-                Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8
-                tablets) daily.
-              </p>
+          <div class="tagInfo">
+            <div class="tagInfoHeader">
+              <div class="tagHeaderBlurBG"></div>
+              <p class="subHeader">Indications</p>
             </div>
-            <div>
-              <p id="dos">
-                Child: ½ to 1 tablet 3 to 4 times daily. For long term treatment
-                it is wise not to exceed the dose beyond 2.6 gm/day.
-              </p>
+            <div class="tagInfoContent">
+              <div class="tagContentBlurBG"></div>
+              <P>
+                <%= medicine.indications %>
+              </P>
             </div>
           </div>
-        </div>
+          <%}%>
+            <% if(medicine.pharmacology?.length>0){ %>
+              <div class="tagInfo">
+                <div class="tagInfoHeader">
+                  <div class="tagHeaderBlurBG"></div>
+                  <p class="subHeader">Pharmacology</p>
+                </div>
+                <div class="tagInfoContent">
+                  <div class="tagContentBlurBG"></div>
+                  <P>
+                    <%= medicine.pharmacology %>
+                  </P>
+                </div>
+              </div>
+              <%}%>
 
-        <% if(medicine.sideEffects?.length>0){ %>
-        <div class="tagInfo">
-          <div class="tagInfoHeader">
-            <div class="tagHeaderBlurBG"></div>
-            <p class="subHeader">Side effects</p>
-          </div>
-          <div class="tagInfoContent">
-            <div class="tagContentBlurBG"></div>
-            <P> <%= medicine.sideEffects %> </P>
-          </div>
-        </div>
-        <%}%> <% if(medicine.pregnancy_lactation?.length>0){ %>
-        <div class="tagInfo">
-          <div class="tagInfoHeader">
-            <div class="tagHeaderBlurBG"></div>
-            <p class="subHeader">Pregnancy lactation</p>
-          </div>
-          <div class="tagInfoContent">
-            <div class="tagContentBlurBG"></div>
-            <p><%= medicine.pregnancy_lactation %></p>
-          </div>
-        </div>
-        <%}%> <% if(medicine.storageConditions?.length>0){ %>
-        <div class="tagInfo">
-          <div class="tagInfoHeader">
-            <div class="tagHeaderBlurBG"></div>
-            <p class="subHeader">Storage conditions</p>
-          </div>
-          <div class="tagInfoContent">
-            <div class="tagContentBlurBG"></div>
-            <p><%= medicine.storageConditions %></p>
-          </div>
-        </div>
-        <%}%>
+                <div class="tagInfo">
+                  <div class="tagInfoHeader">
+                    <div class="tagHeaderBlurBG"></div>
+                    <p class="subHeader">Dosage</p>
+                  </div>
+                  <div class="tagInfoContent">
+                    <div class="tagContentBlurBG"></div>
+                    <div>
+                      <p id="dos">
+                        Adult: 1-2 tablets every 4 to 6 hours up to a maximum of 4 gm (8
+                        tablets) daily.
+                      </p>
+                    </div>
+                    <div>
+                      <p id="dos">
+                        Child: ½ to 1 tablet 3 to 4 times daily. For long term treatment
+                        it is wise not to exceed the dose beyond 2.6 gm/day.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                <% if(medicine.sideEffects?.length>0){ %>
+                  <div class="tagInfo">
+                    <div class="tagInfoHeader">
+                      <div class="tagHeaderBlurBG"></div>
+                      <p class="subHeader">Side effects</p>
+                    </div>
+                    <div class="tagInfoContent">
+                      <div class="tagContentBlurBG"></div>
+                      <P>
+                        <%= medicine.sideEffects %>
+                      </P>
+                    </div>
+                  </div>
+                  <%}%>
+                    <% if(medicine.pregnancy_lactation?.length>0){ %>
+                      <div class="tagInfo">
+                        <div class="tagInfoHeader">
+                          <div class="tagHeaderBlurBG"></div>
+                          <p class="subHeader">Pregnancy lactation</p>
+                        </div>
+                        <div class="tagInfoContent">
+                          <div class="tagContentBlurBG"></div>
+                          <p>
+                            <%= medicine.pregnancy_lactation %>
+                          </p>
+                        </div>
+                      </div>
+                      <%}%>
+                        <% if(medicine.storageConditions?.length>0){ %>
+                          <div class="tagInfo">
+                            <div class="tagInfoHeader">
+                              <div class="tagHeaderBlurBG"></div>
+                              <p class="subHeader">Storage conditions</p>
+                            </div>
+                            <div class="tagInfoContent">
+                              <div class="tagContentBlurBG"></div>
+                              <p>
+                                <%= medicine.storageConditions %>
+                              </p>
+                            </div>
+                          </div>
+                          <%}%>
       </section>
     </main>
-  </body>
+</body>
+
 </html>

@@ -1,0 +1,83 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+}
+
+.wraper {
+  min-height: 100vh;
+}
+
+.container {
+  margin: 20px;
+}
+
+.heading {
+  height: 50px;
+  width: 320px;
+  padding-left: 20px;
+  display: flex;
+  background-color: blue;
+  border: 1px solid black;
+  border-radius: 20px;
+  text-transform: capitalize;
+  align-items: center;
+  justify-content: left;
+}
+
+.heading h1 {
+  line-height: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+  color: white;
+}
+
+.dashboard {
+  min-height: calc(100vh - 80px);
+  background-color: rgba(223, 220, 220, 0.747);
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.dashboard .table {
+  height: 100%;
+  width: 100%;
+}
+
+.dashboard .table th {
+  width: auto;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  text-align: left;
+  padding: 5px;
+  background-color: white;
+  text-transform: capitalize;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+.dashboard .table td {
+  border: 1px solid rgba(121, 121, 121, 0.384);
+  width: auto;
+  text-align: left;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+}
+
+.dashboard .table td button {
+  height: 30px;
+  width: 100px;
+  padding: 3px;
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-transform: capitalize;
+}

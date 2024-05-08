@@ -42,6 +42,9 @@ const medicineSchema = mongoose.Schema({
   storageConditions: {
     type: String,
   },
+  price: {
+    type: String,
+  }
 });
 
 const Medicine = mongoose.model("Medicine", medicineSchema);

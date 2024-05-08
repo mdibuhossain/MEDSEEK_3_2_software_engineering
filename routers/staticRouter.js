@@ -72,9 +72,9 @@ router.get("/auth", (req, res) => {
   }
 });
 
-router.get("/auth/registration", async (req, res) => {
+router.post("/auth/registration", async (req, res) => {
   try {
-    const payload = req.query;
+    const payload = req.body;
     await new TmpUser(payload).save().then(() => {
       return res.render("home");
     }).catch((err) => {
@@ -86,5 +86,26 @@ router.get("/auth/registration", async (req, res) => {
     return res.send("Not found!");
   }
 });
+
+router.post("/auth/login", async (req, res) => {
+  try {
+    const { email, password } = req.body;
+    const user = await TmpUser.findOne({ email, password });
+    if (user) {
+      return res.render("home");
+    }
+    return res.status(401).json({ message: "Invalid email or password" });
+  } catch (error) {
+    return res.send("Not found!");
+  }
+})
+
+router.get("/payment", async (req, res) => {
+  try {
+    return res.render("payment");
+  } catch {
+    return res.send("Not found!");
+  }
+})
 
 module.exports = router;
