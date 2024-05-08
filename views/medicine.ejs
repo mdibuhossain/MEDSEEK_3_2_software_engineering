@@ -34,6 +34,13 @@
             <p class="generic" style="display: block;">Price: <span style="color: blue">৳<%= medicine.price %></span>
               per unit</p>
           </div>
+          <form action="/payment/<%= medicine._id %>" method="get">
+            <label for="qnt">Unit: </label>
+            <input style="padding: 5px; padding-left: 10px;padding-right: 0px;" id="qnt" type="number" name="qnt"
+              min="1" max="100" />
+            <button id="addCart" type="submit"
+              style="padding: 5px; padding-left: 10px;padding-right: 10px;">Purchase</button>
+          </form>
           <p class="companyTitle">
             <%= medicine.company %>
           </p>

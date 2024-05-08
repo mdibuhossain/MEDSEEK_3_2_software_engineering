@@ -4,11 +4,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <%- include("./partials/head.ejs") %>
   <link rel="stylesheet" href="/css/payment/style.css" />
   <title>Payment</title>
 </head>
 
 <body>
+  <div style="background: #512da8;">
+    <%- include("./partials/navbar.ejs") %>
+  </div>
   <div class="wrapper">
     <form>
       <div class="container">
@@ -17,7 +21,7 @@
           <div class="information">
             <h3>information</h3>
             <p>Name</p>
-            <input type="text" />
+            <input type="text" value="<%= user.name %>" disabled />
             <p>contact number</p>
             <input required type="text" />
             <p>address</p>
@@ -26,14 +30,10 @@
           <div class="order-list">
             <h3>list of order</h3>
             <ul>
-              <li>napa: 1box * 20tk</li>
-              <li>napa: 1box * 20tk</li>
-              <li>napa: 1box * 20tk</li>
-              <li>napa: 1box * 20tk</li>
-              <li>napa: 1box * 20tk</li>
+              <li><%= medicine.name %> * <%= qnt %></li>
             </ul>
             <div class="price">
-              <p>total =100 taka</p>
+              <p>total =<%= total %> taka</p>
             </div>
           </div>
         </div>

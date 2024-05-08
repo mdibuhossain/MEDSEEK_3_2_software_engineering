@@ -112,9 +112,20 @@ router.get('/auth/logout', (req, res) => {
   });
 });
 
-router.get("/payment", async (req, res) => {
+router.get("/payment/:medId", async (req, res) => {
+  const user = res.locals.user;
+  if (!user) {
+    return res.redirect("/auth");
+  }
+  const { medId } = req.params;
+  const { qnt } = req.query;
   try {
-    return res.render("payment");
+    const medicine = await Medicine.findById(medId);
+    if (!medicine) {
+      return res.status(404).json({ message: "Medicine not found" });
+    }
+    const total = parseInt(medicine.price) * parseInt(qnt);
+    return res.render("payment", { medicine, total, qnt });
   } catch {
     return res.send("Not found!");
   }
