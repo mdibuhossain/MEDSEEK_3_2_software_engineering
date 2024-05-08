@@ -14,7 +14,7 @@
     <%- include("./partials/navbar.ejs") %>
   </div>
   <div class="wrapper">
-    <form>
+    <form action="/confirm-order?uid=<%= user._id %>&medid=<%= medicine._id %>&qnt=<%= qnt %>" method="post">
       <div class="container">
         <h1>order now</h1>
         <div class="information-container">
@@ -23,20 +23,22 @@
             <p>Name</p>
             <input type="text" value="<%= user.name %>" disabled />
             <p>contact number</p>
-            <input required type="text" />
+            <input required type="text" name="contact"/>
             <p>address</p>
             <textarea required name="address" class="address"></textarea>
           </div>
           <div class="order-list">
             <h3>list of order</h3>
             <ul>
-              <li><%= medicine.name %> * <%= qnt %></li>
+              <li><%= medicine.name %> <%= medicine.strength %></li>
+              <li>x<%= qnt %></li>
             </ul>
             <div class="price">
-              <p>total =<%= total %> taka</p>
+              <p>total: <input style="width: 50px; font-size: 1rem;font-weight: bold; background: none; outline: none; border: none;" type="text" value="<%= total %>" disabled> BDT</p>
             </div>
           </div>
         </div>
+        <strong>Cash on delivery</strong>
         <div class="payment">
           <button type="submit">conform order</button>
         </div>

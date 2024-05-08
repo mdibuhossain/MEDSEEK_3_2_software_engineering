@@ -1,6 +1,8 @@
 const express = require("express");
+const { ObjectId } = require("mongoose").Types;
 const Medicine = require("../models/medicineModel");
 const TmpUser = require("../models/_userModel");
+const Order = require("../models/orderModel");
 
 const router = express.Router();
 
@@ -128,6 +130,34 @@ router.get("/payment/:medId", async (req, res) => {
     return res.render("payment", { medicine, total, qnt });
   } catch {
     return res.send("Not found!");
+  }
+})
+
+router.post("/confirm-order", async (req, res) => {
+  const user = res.locals.user;
+  if (!user) {
+    return res.redirect("/auth");
+  }
+  const { contact, address } = req.body;
+  const { medid, qnt, uid } = req.query;
+  try {
+    const medicine = await Medicine.findById(medid);
+    if (!medicine) {
+      return res.status(404).json({ message: "Medicine not found" });
+    }
+    const newOrder = new Order({
+      user: uid,
+      medicine: medid,
+      quantity: qnt,
+      contact,
+      address,
+      total: parseInt(medicine.price) * parseInt(qnt),
+    })
+    console.log(newOrder);
+    await newOrder.save();
+    return res.redirect("/");
+  } catch (error) {
+    return res.send(error.message);
   }
 })
 
