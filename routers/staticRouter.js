@@ -23,7 +23,7 @@ router.get("/companies", async (req, res) => {
     }
     const companies = await Medicine.find({}).distinct("company");
     return res.render("companies", { companies });
-  } catch {}
+  } catch { }
 });
 
 router.get("/medicines", async (req, res) => {
@@ -58,6 +58,14 @@ router.get("/medicine/:slug", async (req, res) => {
     const { slug } = req.params;
     const medicine = await Medicine.findById(slug);
     return res.render("medicine", { medicine });
+  } catch {
+    return res.send("Not found!");
+  }
+});
+
+router.get("/auth", (req, res) => {
+  try {
+    return res.render("auth");
   } catch {
     return res.send("Not found!");
   }
