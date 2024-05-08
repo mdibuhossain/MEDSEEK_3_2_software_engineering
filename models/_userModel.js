@@ -43,4 +43,6 @@ userSchema.path("email").validate(async (email) => {
     return !emailCount;
 }, "EMAIL ALREADY EXISTS!");
 
-const User = mongoose.model("User", userSchema);
+const TmpUser = mongoose.model("TmpUser", userSchema);
+
+module.exports = TmpUser;

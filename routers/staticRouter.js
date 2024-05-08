@@ -1,5 +1,6 @@
 const express = require("express");
 const Medicine = require("../models/medicineModel");
+const TmpUser = require("../models/_userModel");
 
 const router = express.Router();
 
@@ -66,6 +67,21 @@ router.get("/medicine/:slug", async (req, res) => {
 router.get("/auth", (req, res) => {
   try {
     return res.render("auth");
+  } catch {
+    return res.send("Not found!");
+  }
+});
+
+router.get("/auth/registration", async (req, res) => {
+  try {
+    const payload = req.query;
+    await new TmpUser(payload).save().then(() => {
+      return res.render("home");
+    }).catch((err) => {
+      return res.status(500).json({
+        error: err.message.split(": ")[2].split(",")[0],
+      });
+    });
   } catch {
     return res.send("Not found!");
   }
