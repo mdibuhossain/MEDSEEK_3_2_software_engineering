@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <%- include("./partials/head.ejs") %>
+    <link rel="stylesheet" href="/css/dashboard/style.css" />
+    <title>Admin dashboard</title>
+  </head>
+  <body>
+    <div style="background: #512da8;">
+        <%- include("./partials/navbar.ejs") %>
+    </div>
+    <div class="wraper">
+      <div class="container">
+        <div class="heading">
+          <h1>admin dashboard</h1>
+        </div>
+        <div class="dashboard">
+          <table class="table">
+            <tr>
+              <th>Name</th>
+              <th>contact number</th>
+              <th>address</th>
+              <th>medicine  details</th>
+              <th>total BDT</th>
+              <th>status</th>
+            </tr>
+            <% orders?.map((order) => { %>
+              <tr>
+                <td><%= order.user.name %></td>
+                <td><%= order.user.contact %></td>
+                <td><%= order.address %></td>
+                <td>
+                    <%= order.medicine.name %> <%= order.medicine.strength %> x <%= order.quantity %> units
+                </td>
+                <td><%= order.total %></td>
+                <td>
+                  <% if(order.status === "pending"){ %>
+                    <form action="/admin/update-order-status/<%= order._id %>" method="post" style="display: flex; column-gap: 5px;">
+                      <select name="status">
+                        <option value="pending" selected>pending</option>
+                        <option value="delivered">delivered</option>
+                      </select>
+                      <button type="submit">update</button>
+                    </form>
+                  <% } else { %>
+                    <p><%= order.status %></p>
+                  <% } %>
+                </td>
+              </tr>
+            <% }) %>
+          </table>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

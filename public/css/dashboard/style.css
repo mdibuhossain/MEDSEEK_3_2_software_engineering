@@ -6,7 +6,7 @@
 }
 
 .wraper {
-  min-height: 100vh;
+  min-height: calc(100vh - 220px);
 }
 
 .container {
@@ -35,7 +35,7 @@
 }
 
 .dashboard {
-  min-height: calc(100vh - 80px);
+  min-height: calc(100vh - 220px);
   background-color: rgba(223, 220, 220, 0.747);
   border-radius: 10px;
   margin-top: 10px;

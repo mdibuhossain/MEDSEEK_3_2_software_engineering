@@ -161,4 +161,21 @@ router.post("/confirm-order", async (req, res) => {
   }
 })
 
+router.get("/admin-panel", async (req, res) => {
+  const user = res.locals.user;
+  if (!user) {
+    return res.redirect("/auth");
+  }
+  if (user.role !== "admin") {
+    return res.redirect("/");
+  }
+  try {
+    const orders = await Order.find({}).populate("user").populate("medicine");
+    console.log(orders);
+    return res.render("dashboard", { orders });
+  } catch (error) {
+    return res.send(error.message);
+  }
+})
+
 module.exports = router;
