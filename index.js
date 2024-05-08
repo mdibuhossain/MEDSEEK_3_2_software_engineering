@@ -2,6 +2,7 @@ const express = require("express");
 const path = require("path");
 const dotenv = require("dotenv");
 const cors = require("cors");
+const session = require('express-session');
 const authRouter = require("./routers/authRouter");
 const medRouter = require("./routers/medecineRouter");
 const staticRouter = require("./routers/staticRouter");
@@ -21,6 +22,23 @@ app.use(express.urlencoded({ extended: false }));
 
 // app.use(express.static(path.join(__dirname, "client")));
 app.use(express.static(path.join(__dirname, "public")));
+
+app.use(session({
+  secret: 'your_secret_key',
+  resave: false,
+  saveUninitialized: false
+}));
+
+const checkLoggedIn = (req, res, next) => {
+  if (req.session.user) {
+    res.locals.user = req.session.user;
+  } else {
+    res.locals.user = null;
+  }
+  next();
+};
+
+app.use(checkLoggedIn);
 
 // app.use("/auth", authRouter);
 app.use("/api/medicine", medRouter);

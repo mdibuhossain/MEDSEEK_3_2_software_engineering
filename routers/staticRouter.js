@@ -9,7 +9,7 @@ function escapedSearchTerm(searchTerm) {
 }
 
 router.get("/", (req, res) => {
-  return res.render("home");
+  return res.render("home", { user: res.locals.user });
 });
 
 router.get("/companies", async (req, res) => {
@@ -76,7 +76,7 @@ router.post("/auth/registration", async (req, res) => {
   try {
     const payload = req.body;
     await new TmpUser(payload).save().then(() => {
-      return res.render("home");
+      return res.render("/");
     }).catch((err) => {
       return res.status(500).json({
         error: err.message.split(": ")[2].split(",")[0],
@@ -92,13 +92,25 @@ router.post("/auth/login", async (req, res) => {
     const { email, password } = req.body;
     const user = await TmpUser.findOne({ email, password });
     if (user) {
-      return res.render("home");
+      req.session.user = user;
+      return res.redirect("/")
     }
     return res.status(401).json({ message: "Invalid email or password" });
   } catch (error) {
     return res.send("Not found!");
   }
 })
+
+router.get('/auth/logout', (req, res) => {
+  req.session.destroy(err => {
+    if (err) {
+      console.error(err);
+      res.sendStatus(500);
+    } else {
+      res.redirect('/');
+    }
+  });
+});
 
 router.get("/payment", async (req, res) => {
   try {

@@ -24,7 +24,12 @@
           <li><a href="/">HOME</a></li>
           <li><a href="/medicines">MEDICINES</a></li>
           <li><a href="/companies">COMPANIES</a></li>
+          <% if(user){ %>
+          <!-- <li><a href="/profile">PROFILE</a></li> -->
+          <p><a href="/auth/logout" style="color: white; font-weight: bold; background: red; padding: 5px 15px; border-radius: 100px;">LOG OUT</a></p>
+          <% } else{ %>
           <li><a href="/auth">LOG IN</a></li>
+          <% } %>
         </ul>
       </div>
     </div>
