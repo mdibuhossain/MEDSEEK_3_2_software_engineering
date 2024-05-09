@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "663b67b1342c7eef31294deb"
+  },
+  "name": "muzahid",
+  "email": "bsmrstu19cse063@gmail.com",
+  "password": "123123",
+  "contact": "01521551823",
+  "role": "user",
+  "iat": {
+    "$date": "2024-05-08T11:21:25.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663c07c15b8f7609ffec7971"
+  },
+  "name": "Admin",
+  "email": "admin@admin.com",
+  "password": "admin",
+  "contact": "1234567890",
+  "role": "admin",
+  "iat": {
+    "$date": "2024-05-08T23:16:17.348Z"
+  },
+  "__v": 0
+}]
