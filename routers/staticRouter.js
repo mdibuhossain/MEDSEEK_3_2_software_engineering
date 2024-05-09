@@ -78,7 +78,7 @@ router.post("/auth/registration", async (req, res) => {
   try {
     const payload = req.body;
     await new TmpUser(payload).save().then(() => {
-      return res.render("/");
+      return res.redirect("/");
     }).catch((err) => {
       return res.status(500).json({
         error: err.message.split(": ")[2].split(",")[0],
