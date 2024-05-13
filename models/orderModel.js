@@ -27,9 +27,17 @@ const orderSchema = mongoose.Schema({
         type: String,
         required: true,
     },
+    transactionId: {
+        type: String,
+        required: true,
+    },
     status: {
         type: String,
         default: "pending",
+    },
+    paidStatus: {
+        type: Boolean,
+        default: false,
     },
     createdAt: {
         type: Date,

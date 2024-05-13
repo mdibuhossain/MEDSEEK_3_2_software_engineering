@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <%- include("./partials/head.ejs") %>
+    <link rel="stylesheet" href="/css/payment/style2.css" />
+    <title>Payment</title>
+</head>
+
+<body>
+    <div style="background: #512da8;">
+        <%- include("./partials/navbar.ejs") %>
+    </div>
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
+            <img src="/assets/payment-success.gif" alt="payment success gif" />
+            <div style="text-align: center;">
+                <h1>Payment Successful</h1>
+                <p>Thank you for your purchase</p>
+                <% if(typeof order !== 'undefined'){ %>
+                Transection ID: <strong><%= order?.transactionId %></strong>
+                <% } %>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

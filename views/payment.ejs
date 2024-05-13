@@ -14,7 +14,7 @@
     <%- include("./partials/navbar.ejs") %>
   </div>
   <div class="wrapper">
-    <form action="/confirm-order?uid=<%= user._id %>&medid=<%= medicine._id %>&qnt=<%= qnt %>" method="post">
+    <form action="/init-payment?uid=<%= user._id %>&medid=<%= medicine._id %>&qnt=<%= qnt %>" method="post">
       <div class="container">
         <h1>order now</h1>
         <div class="information-container">

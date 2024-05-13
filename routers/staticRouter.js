@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const { ObjectId } = require("mongoose").Types;
 const Medicine = require("../models/medicineModel");
@@ -6,11 +7,17 @@ const Order = require("../models/orderModel");
 
 const router = express.Router();
 
+const SSLCommerzPayment = require("sslcommerz-lts");
+const store_id = process.env.SSLCOMMERZ_STORE_ID;
+const store_passwd = process.env.SSLCOMMERZ_STORE_PASSWORD;
+const is_live = false; //true for live, false for sandbox
+
 function escapedSearchTerm(searchTerm) {
   return searchTerm.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 router.get("/", (req, res) => {
+  console.log(res.locals.user)
   return res.render("home", { user: res.locals.user });
 });
 
@@ -133,6 +140,23 @@ router.get("/payment/:medId", async (req, res) => {
   }
 })
 
+router.get("/admin-panel", async (req, res) => {
+  const user = res.locals.user;
+  if (!user) {
+    return res.redirect("/auth");
+  }
+  if (user.role !== "admin") {
+    return res.redirect("/");
+  }
+  try {
+    const orders = await Order.find({}).populate("user").populate("medicine");
+    console.log(orders);
+    return res.render("dashboard", { orders });
+  } catch (error) {
+    return res.send(error.message);
+  }
+})
+
 router.post("/confirm-order", async (req, res) => {
   const user = res.locals.user;
   if (!user) {
@@ -161,21 +185,83 @@ router.post("/confirm-order", async (req, res) => {
   }
 })
 
-router.get("/admin-panel", async (req, res) => {
+router.post("/init-payment", async (req, res) => {
   const user = res.locals.user;
   if (!user) {
     return res.redirect("/auth");
   }
-  if (user.role !== "admin") {
-    return res.redirect("/");
-  }
+  const { contact, address } = req.body;
+  const { medid, qnt, uid } = req.query;
   try {
-    const orders = await Order.find({}).populate("user").populate("medicine");
-    console.log(orders);
-    return res.render("dashboard", { orders });
+    const findMedicine = await Medicine.findById(medid);
+    if (!findMedicine) {
+      return res.status(404).json({ message: "Medicine not found" });
+    }
+    const tran_id = new ObjectId().toString();
+    const data = {
+      total_amount: parseInt(findMedicine?.price) * parseInt(qnt),
+      currency: "BDT",
+      tran_id: tran_id, // use unique tran_id for each api call
+      success_url: `${process.env.SERVER_SITE_URL}/payment-success/${tran_id}`,
+      fail_url: `${process.env.SERVER_SITE_URL}/explore`,
+      cancel_url: `${process.env.SERVER_SITE_URL}/explore`,
+      ipn_url: `${process.env.SERVER_SITE_URL}/explore`,
+      shipping_method: "Courier",
+      product_name: `${findMedicine?.name} ${findMedicine?.strength} ${findMedicine?.type}`,
+      product_category: "Medicine",
+      product_profile: "general",
+      cus_name: user?.name,
+      cus_email: user?.email,
+      cus_add1: address,
+      cus_add2: "Dhaka",
+      cus_city: "Dhaka",
+      cus_state: "Dhaka",
+      cus_postcode: "1205",
+      cus_country: "Bangladesh",
+      cus_phone: contact,
+      cus_fax: "01711111111",
+      ship_name: "Customer Name",
+      ship_add1: "Dhaka",
+      ship_add2: "Dhaka",
+      ship_city: "Dhaka",
+      ship_state: "Dhaka",
+      ship_postcode: 1216,
+      ship_country: "Bangladesh",
+    };
+    const sslcz = new SSLCommerzPayment(store_id, store_passwd, is_live);
+    sslcz.init(data).then((apiResponse) => {
+      let GatewayPageURL = apiResponse.GatewayPageURL;
+      res.redirect(GatewayPageURL);
+      const { password, ...userWithoutPassword } = user;
+      const newOrder = new Order({
+        user: userWithoutPassword,
+        medicine: findMedicine,
+        quantity: qnt,
+        contact,
+        address,
+        transactionId: tran_id,
+        total: parseInt(findMedicine.price) * parseInt(qnt),
+      })
+      newOrder.save();
+    });
   } catch (error) {
-    return res.send(error.message);
+    return res.status(500).json({ message: error.message });
   }
-})
+});
+
+router.post("/payment-success/:tran_id", async (req, res) => {
+  const { tran_id } = req.params;
+  try {
+    const order = await Order.findOne({ transactionId: tran_id });
+    if (!order) {
+      return res.status(404).json({ message: "Order not found" });
+    }
+    order.paidStatus = true;
+    await order.save();
+    return res.render("paymentSuccess", { order });
+  } catch (error) {
+    return res.status(500).json({ message: error.message });
+  }
+});
 
 module.exports = router;
