@@ -9,6 +9,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.wrapper form {
+  border-radius: 15px;
   overflow: hidden;
 }
 
@@ -23,14 +27,12 @@
 }
 
 h1 {
-  height: 70px;
   width: 100%;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-  background: blue;
+  background: #512da8;
   align-items: center;
   color: white;
-  font-size: 50px;
+  font-size: 45px;
+  padding: 10px 0;
   text-transform: capitalize;
 }
 
@@ -137,8 +139,14 @@ h3 {
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   color: white;
-  background-color: blue;
+  background-color: #512da8;
   font-size: 25px;
   text-transform: capitalize;
   cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.container .payment button:hover {
+  background-color: #522da8dc;
+  font-size: 27px;
 }
