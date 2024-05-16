@@ -36,17 +36,13 @@
                 </td>
                 <td><%= order.total %></td>
                 <td>
-                  <% if(order.status === "pending"){ %>
-                    <form action="/admin/update-order-status/<%= order._id %>" method="post" style="display: flex; column-gap: 5px;">
-                      <select name="status">
-                        <option value="pending" selected>pending</option>
-                        <option value="delivered">delivered</option>
-                      </select>
-                      <button type="submit">update</button>
-                    </form>
-                  <% } else { %>
-                    <p><%= order.status %></p>
-                  <% } %>
+                  <form action="/admin/update-order-status/<%= order._id %>" method="post" style="display: flex; column-gap: 5px;">
+                    <select name="status">
+                      <option value="pending" <%= order.status==="pending"?"selected":"" %> >pending</option>
+                      <option value="delivered" <%= order.status==="delivered"?"selected":"" %> >delivered</option>
+                    </select>
+                    <button type="submit">update</button>
+                  </form>
                 </td>
               </tr>
             <% }) %>

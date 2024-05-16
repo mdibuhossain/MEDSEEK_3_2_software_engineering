@@ -17,7 +17,6 @@ function escapedSearchTerm(searchTerm) {
 }
 
 router.get("/", (req, res) => {
-  console.log(res.locals.user)
   return res.render("home", { user: res.locals.user });
 });
 
@@ -150,7 +149,6 @@ router.get("/admin-panel", async (req, res) => {
   }
   try {
     const orders = await Order.find({}).populate("user").populate("medicine");
-    console.log(orders);
     return res.render("dashboard", { orders });
   } catch (error) {
     return res.send(error.message);
@@ -177,7 +175,6 @@ router.post("/confirm-order", async (req, res) => {
       address,
       total: parseInt(medicine.price) * parseInt(qnt),
     })
-    console.log(newOrder);
     await newOrder.save();
     return res.redirect("/");
   } catch (error) {
@@ -263,5 +260,28 @@ router.post("/payment-success/:tran_id", async (req, res) => {
     return res.status(500).json({ message: error.message });
   }
 });
+
+router.post("/admin/update-order-status/:orderId", async (req, res) => {
+  const user = res.locals.user;
+  if (!user) {
+    return res.redirect("/auth");
+  }
+  if (user.role !== "admin") {
+    return res.redirect("/");
+  }
+  const { orderId } = req.params;
+  const { status } = req.body;
+  try {
+    const updatedOrder = await Order.updateOne({ _id: orderId }, {
+      $set: {
+        status: status,
+      }
+    })
+    const orders = await Order.find({}).populate("user").populate("medicine");
+    return res.render("dashboard", { orders });
+  } catch (error) {
+    return res.status(500).json({ message: error.message });
+  }
+})
 
 module.exports = router;
